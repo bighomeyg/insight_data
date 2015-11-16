@@ -1,0 +1,25 @@
+NYJ,1,1,9:04,NYJ 26,1:24,-1,Punt
+NYJ,2,1,4:40,NYJ 44,1:44,9,Punt
+NYJ,3,2,12:25,None,0:14,0,Touchdown
+NYJ,4,2,10:48,BUF 19,1:36,19,Touchdown
+NYJ,5,2,2:37,NYJ 25,2:32,59,Field Goal
+NYJ,6,3,15:00,NYJ 31,4:10,42,Field Goal
+NYJ,7,3,9:32,NYJ 46,1:54,-16,Punt
+NYJ,8,3,5:17,NYJ 20,0:53,9,Fumble
+NYJ,9,3,0:58,NYJ 27,2:54,43,Missed FG
+NYJ,10,4,10:55,BUF 24,1:30,9,Field Goal
+NYJ,11,4,6:22,NYJ 40,1:35,60,Touchdown
+NYJ,12,4,0:26,NYJ 26,0:26,50,End of Half
+NYJ,13,5,15:00,None,0:14,0,Touchdown
+BUF,1,1,15:00,BUF 17,5:56,49,Field Goal
+BUF,2,1,7:40,BUF 32,3:00,36,Interception
+BUF,3,1,2:56,BUF 20,5:31,80,Touchdown
+BUF,4,2,12:11,BUF 22,1:23,6,Interception
+BUF,5,2,9:12,BUF 26,6:35,74,Touchdown
+BUF,6,2,0:05,None,0:05,0,End of Half
+BUF,7,3,10:50,BUF 28,1:18,25,Fumble
+BUF,8,3,7:38,BUF 37,2:21,-11,Punt
+BUF,9,3,4:24,NYJ 29,3:26,29,Touchdown
+BUF,10,4,13:04,BUF 38,2:09,3,Blocked Punt
+BUF,11,4,9:25,BUF 16,3:03,52,Missed FG
+BUF,12,4,4:47,BUF 24,4:21,76,Touchdown

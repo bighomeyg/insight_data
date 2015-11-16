@@ -1,0 +1,24 @@
+MIA,1,None,15:00,MIA 32,3:00,24,Punt
+MIA,2,None,10:29,MIA 13,1:35,3,Punt
+MIA,3,None,7:52,MIA 39,1:17,6,Punt
+MIA,4,None,14:14,MIA 20,4:03,24,Punt
+MIA,5,None,8:30,PIT 44,1:21,4,Punt
+MIA,6,None,6:03,PIT 15,0:49,15,Touchdown
+MIA,7,None,1:49,MIA 30,1:17,62,Field Goal
+MIA,8,None,10:08,MIA 20,3:57,80,Touchdown
+MIA,9,None,11:58,MIA 5,5:33,52,Punt
+MIA,10,None,6:11,MIA 29,0:20,0,Interception
+MIA,11,None,3:09,MIA 34,0:10,0,Interception
+MIA,12,None,2:59,MIA 28,1:11,-7,Downs
+PIT,1,None,12:00,PIT 22,1:31,6,Punt
+PIT,2,None,8:54,PIT 29,1:02,-4,Punt
+PIT,3,None,6:35,PIT 25,7:21,75,Touchdown
+PIT,4,None,10:11,PIT 6,1:41,5,Punt
+PIT,5,None,7:09,PIT 12,1:06,2,Punt
+PIT,6,None,5:14,PIT 23,3:25,77,Touchdown
+PIT,7,None,0:32,PIT 20,0:32,-1,End of Half
+PIT,8,None,15:00,PIT 35,4:52,30,Punt
+PIT,9,None,6:11,PIT 18,9:13,78,Fumble
+PIT,10,None,6:25,PIT 13,0:14,87,Touchdown
+PIT,11,None,5:51,MIA 45,2:42,19,Missed FG
+PIT,12,None,1:48,MIA 21,1:48,-2,End of Game
