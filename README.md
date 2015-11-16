@@ -1,4 +1,4 @@
-Insight Data Demo: How Valuable is Field Position?
+Insight Data Demo: How Valuable is Field Position in the NFL?
 ------
 1. Scrape data from pro-football-reference.com with scraping.py
 2. Analyze results with field_value.py
