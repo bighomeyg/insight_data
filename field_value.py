@@ -35,7 +35,7 @@ for year in years:
 					if side_of_field in old_abbrevs:
 						side_of_field = relocated_teams.get(side_of_field)
 				except IndexError:
-					to_go=-100
+					continue
 				if side_of_field == offense:
 					to_go=(100-int(yardline))
 				if side_of_field != offense:
@@ -51,9 +51,7 @@ for year in years:
 print number_of_drives
 print total_score
 
-for i in range(-101,100):
+for i in range(1,100):
 	yard_value=float(total_score[i])/float(number_of_drives[i])
 	print i, "\t", yard_value
 	#print number_of_drives[i]
-
-
