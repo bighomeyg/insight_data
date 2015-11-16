@@ -21,7 +21,7 @@ def get_drive_summary(team):
                 team_abbrev=team_dict.get(full_name)
                 driverows=[]
                 rows = tag1.findChildren(['th', 'tr'])
-                #Cells don't print out by row, so I need an algorithm to tag each drive...
+
                 for row in rows:
                     cells = row.findChildren('td')
                     for cell in cells:
@@ -61,7 +61,7 @@ for year in years:
             if 'htm' in a['href']:
                 link_library.append(a['href'])
     
-    ##Now iterate through each boxscore
+##Now iterate through each boxscore
     for game in link_library:
         boxscore_url=''.join([home_url, game])
         print boxscore_url
@@ -70,6 +70,7 @@ for year in years:
         soup=BeautifulSoup(page)
         teamdrivesoutputfile=''.join(year + '/' + game_id + "_drives.csv")
 
+##Now grab both home and away drive summaries
         print "    Grabbing Drive Info..."
         team1 = soup.findAll("div", { "class" : "float_left" })
         team2 = soup.findAll("div", { "class" : "float_left margin_left" })
