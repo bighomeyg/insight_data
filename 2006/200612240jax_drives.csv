@@ -1,0 +1,22 @@
+NE,1,None,10:35,NWE 14,4:43,41,Punt
+NE,2,None,2:32,NWE 31,4:13,38,Field Goal
+NE,3,None,12:59,NWE 23,2:48,1,Punt
+NE,4,None,8:38,NWE 18,7:21,82,Touchdown
+NE,5,None,15:00,NWE 22,3:36,78,Touchdown
+NE,6,None,7:31,NWE 43,2:48,26,Missed FG
+NE,7,None,3:06,NWE 33,3:50,22,Punt
+NE,8,None,10:29,NWE 31,1:11,12,Punt
+NE,9,None,8:25,NWE 32,3:49,68,Touchdown
+NE,10,None,3:03,NWE 14,1:08,-1,Punt
+NE,11,None,1:46,JAX 46,1:46,-3,End of Game
+JAC,1,None,15:00,JAX 24,4:25,26,Punt
+JAC,2,None,5:52,JAX 23,3:20,19,Punt
+JAC,3,None,13:19,JAX 26,0:20,74,Touchdown
+JAC,4,None,10:11,JAX 39,1:33,6,Punt
+JAC,5,None,1:17,JAX 25,1:17,12,End of Half
+JAC,6,None,11:24,JAX 20,3:53,45,Missed FG
+JAC,7,None,4:43,JAX 39,1:37,61,Touchdown
+JAC,8,None,14:16,JAX 10,3:47,20,Punt
+JAC,9,None,9:18,JAX 18,0:53,7,Punt
+JAC,10,None,4:36,JAX 40,1:33,60,Touchdown
+JAC,11,None,1:55,JAX 45,0:09,0,Fumble

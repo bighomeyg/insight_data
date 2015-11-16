@@ -1,0 +1,24 @@
+MIA,1,1,11:52,MIA 17,4:36,67,Field Goal
+MIA,2,1,6:21,MIA 35,1:37,9,Punt
+MIA,3,2,14:18,MIA 9,2:30,46,Fumble
+MIA,4,2,8:01,MIA 19,4:26,81,Touchdown
+MIA,5,2,2:13,MIA 32,0:50,10,Interception
+MIA,6,2,0:55,MIA 20,0:55,1,End of Half
+MIA,7,3,15:00,MIA 20,0:53,5,Punt
+MIA,8,3,9:44,MIA 20,1:24,-11,Punt
+MIA,9,3,8:12,MIA 20,2:29,3,Punt
+MIA,10,3,2:53,MIA 33,4:05,67,Touchdown
+MIA,11,4,7:15,MIA 20,0:52,8,Interception
+MIA,12,4,3:17,MIA 3,1:34,40,Interception
+NO,1,1,15:00,NOR 18,3:08,82,Touchdown
+NO,2,1,7:16,NOR 20,0:55,-2,Punt
+NO,3,1,4:44,NOR 20,5:26,22,Punt
+NO,4,2,11:48,NOR 38,3:47,62,Touchdown
+NO,5,2,3:35,NOR 20,1:22,7,Punt
+NO,6,2,1:23,MIA 23,0:28,23,Touchdown
+NO,7,3,14:07,NOR 41,4:23,59,Touchdown
+NO,8,3,8:20,MIA 43,0:08,43,Touchdown
+NO,9,3,5:43,NOR 42,2:50,33,Missed FG
+NO,10,4,13:48,NOR 20,6:33,69,Field Goal
+NO,11,4,6:23,MIA 43,3:06,40,Fumble
+NO,12,4,1:43,NOR 47,1:43,-3,End of Game

@@ -1,0 +1,20 @@
+IND,1,1,14:39,CLT 26,8:33,74,Touchdown
+IND,2,2,14:18,CLT 35,5:32,65,Touchdown
+IND,3,2,2:49,CLT 13,0:53,2,Punt
+IND,4,2,0:28,CLT 15,0:28,3,End of Half
+IND,5,3,15:00,CLT 26,4:28,56,Field Goal
+IND,6,3,10:13,HTX 21,1:35,21,Touchdown
+IND,7,3,6:14,CLT 26,1:05,3,Punt
+IND,8,3,4:54,CLT 29,2:13,62,Field Goal
+IND,9,4,14:21, 50,3:41,34,Field Goal
+IND,10,4,2:49,CLT 27,2:30,22,Punt
+HOU,1,1,15:00,None,0:21,0,Touchdown
+HOU,2,1,6:06,HTX 31,6:48,54,Field Goal
+HOU,3,2,8:46,HTX 18,5:57,44,Punt
+HOU,4,2,1:56,HTX 38,1:28,8,Punt
+HOU,5,3,10:32,HTX 23,0:19,0,Interception
+HOU,6,3,8:38,HTX 21,2:24,7,Punt
+HOU,7,3,5:09,CLT 18,0:15,0,Interception
+HOU,8,3,2:41,HTX 27,3:20,73,Touchdown
+HOU,9,4,10:40,HTX 25,7:51,75,Touchdown
+HOU,10,4,0:19,HTX 20,0:19,-12,End of Game

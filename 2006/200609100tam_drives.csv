@@ -1,0 +1,24 @@
+BAL,1,None,15:00,RAV 20,9:16,80,Touchdown
+BAL,2,None,4:23,RAV 27,2:30,-7,Punt
+BAL,3,None,12:56,RAV 20,1:13,9,Punt
+BAL,4,None,10:11,RAV 14,1:19,9,Punt
+BAL,5,None,6:32,RAV 7,1:43,6,Punt
+BAL,6,None,2:31,TAM 9,0:37,7,Field Goal
+BAL,7,None,0:35,RAV 48,0:35,22,End of Half
+BAL,8,None,12:59,TAM 37,2:37,13,Field Goal
+BAL,9,None,5:38,RAV 6,4:09,43,Punt
+BAL,10,None,13:28,RAV 39,6:11,61,Touchdown
+BAL,11,None,6:13,RAV 27,2:30,6,Punt
+BAL,12,None,3:09,RAV 19,3:09,11,End of Game
+TB,1,None,5:44,TAM 27,1:21,2,Punt
+TB,2,None,1:53,TAM 24,2:08,16,Interception
+TB,3,None,14:45,TAM 32,1:49,9,Punt
+TB,4,None,11:43,TAM 35,1:32,7,Punt
+TB,5,None,8:52,TAM 37,2:20,17,Punt
+TB,6,None,4:49,RAV 42,2:18,12,Interception
+TB,7,None,1:54,TAM 32,1:19,-11,Punt
+TB,8,None,15:00,TAM 26,2:01,-10,Punt
+TB,9,None,10:22,TAM 27,4:44,67,Downs
+TB,10,None,1:29,TAM 20,3:01,25,Interception
+TB,11,None,7:17,TAM 30,1:04,4,Punt
+TB,12,None,3:43,TAM 44,0:34,-1,Punt

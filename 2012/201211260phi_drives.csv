@@ -1,0 +1,23 @@
+CAR,1,None,11:12,CAR 28,5:00,72,Touchdown
+CAR,2,None,4:19,CAR 45,0:43,55,Touchdown
+CAR,3,None,14:15,CAR 14,2:37,14,Punt
+CAR,4,None,10:56,CAR 20,2:33,30,Punt
+CAR,5,None,3:20,CAR 20,2:00,15,Punt
+CAR,6,None,0:41,CAR 18,0:41,4,End of Half
+CAR,7,None,15:00,CAR 5,5:47,95,Touchdown
+CAR,8,None,6:21,CAR 32,1:44,3,Punt
+CAR,9,None,3:30,CAR 33,2:07,-18,Punt
+CAR,10,None,1:16,PHI 45,3:36,40,Field Goal
+CAR,11,None,8:35,CAR 40,3:55,60,Touchdown
+CAR,12,None,4:29,CAR 49,4:29,33,End of Game
+PHI,1,None,15:00,PHI 20,3:48,62,Field Goal
+PHI,2,None,6:12,PHI 16,1:53,-2,Punt
+PHI,3,None,3:36,PHI 20,4:21,57,Field Goal
+PHI,4,None,11:38,PHI 32,0:42,68,Touchdown
+PHI,5,None,8:23,PHI 39,5:03,35,Field Goal
+PHI,6,None,1:20,PHI 42,0:39,-1,Punt
+PHI,7,None,9:13,PHI 29,2:52,39,Fumble
+PHI,8,None,4:37,PHI 31,1:07,69,Touchdown
+PHI,9,None,1:23,PHI 42,0:07,1,Fumble
+PHI,10,None,12:40,PHI 15,4:05,45,Downs
+PHI,11,None,4:40,None,0:11,0,Fumble

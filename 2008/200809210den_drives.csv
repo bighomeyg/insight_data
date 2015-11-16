@@ -1,0 +1,22 @@
+NO,1,1,15:00,NOR 14,1:30,-1,Punt
+NO,2,1,9:01,NOR 20,6:54,55,Field Goal
+NO,3,1,0:27,NOR 24,1:16,10,Fumble
+NO,4,2,14:11,NOR 20,4:55,80,Touchdown
+NO,5,2,9:03,DEN 36,2:12,36,Touchdown
+NO,6,2,2:55,NOR 20,2:28,79,Downs
+NO,7,2,0:23, 50,0:23,17,Missed FG
+NO,8,3,13:58,NOR 36,1:29,4,Punt
+NO,9,3,7:37,NOR 20,0:35,80,Touchdown
+NO,10,3,2:20,NOR 24,7:20,76,Touchdown
+NO,11,4,5:33,NOR 21,3:38,54,Missed FG
+NO,12,4,0:08,NOR 20,0:08,2,End of Game
+DEN,1,1,13:30,NOR 45,4:29,45,Touchdown
+DEN,2,1,2:07,DEN 35,1:40,65,Touchdown
+DEN,3,2,9:16,DEN 20,0:13,0,Interception
+DEN,4,2,6:51,DEN 33,3:56,58,Field Goal
+DEN,5,2,0:27,DEN 1,0:04,-1,Safety
+DEN,6,3,15:00,DEN 30,1:02,2,Punt
+DEN,7,3,12:29,DEN 20,4:52,80,Touchdown
+DEN,8,3,7:02,DEN 20,4:42,65,Field Goal
+DEN,9,4,10:00,DEN 23,4:27,72,Fumble
+DEN,10,4,1:55,DEN 33,1:47,4,Punt

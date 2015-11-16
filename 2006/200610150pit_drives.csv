@@ -1,0 +1,24 @@
+KC,1,None,10:45,KAN 22,4:54,32,Punt
+KC,2,None,3:15,KAN 33,1:40,4,Punt
+KC,3,None,0:50,KAN 34,1:04,3,Punt
+KC,4,None,9:31,KAN 34,1:39,1,Punt
+KC,5,None,6:20,KAN 33,2:08,7,Punt
+KC,6,None,15:00,KAN 15,1:08,-2,Punt
+KC,7,None,12:16,PIT 22,0:24,0,Interception
+KC,8,None,10:21,KAN 20,4:21,80,Touchdown
+KC,9,None,12:40,KAN 27,4:11,68,Downs
+KC,10,None,6:49,KAN 37,1:15,-8,Punt
+KC,11,None,3:44,KAN 28,0:13,0,Interception
+KC,12,None,3:31,KAN 32,2:32,29,Interception
+PIT,1,None,15:00,PIT 27,4:15,73,Touchdown
+PIT,2,None,5:51,PIT 15,2:36,20,Punt
+PIT,3,None,1:35,PIT 42,0:45,58,Touchdown
+PIT,4,None,14:46,PIT 20,5:15,80,Touchdown
+PIT,5,None,7:52,PIT 35,1:32,65,Touchdown
+PIT,6,None,4:12,PIT 10,4:12,76,Field Goal
+PIT,7,None,13:52,PIT 18,1:36,4,Fumble
+PIT,8,None,11:52,KAN 18,1:31,8,Missed FG
+PIT,9,None,6:00,PIT 38,8:20,62,Touchdown
+PIT,10,None,8:29,PIT 5,1:40,8,Punt
+PIT,11,None,5:34,PIT 14,1:50,5,Punt
+PIT,12,None,0:59,PIT 31,0:59,-2,End of Game

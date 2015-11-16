@@ -1,0 +1,28 @@
+SD,1,1,15:00,SDG 37,3:23,4,Punt
+SD,2,1,10:39,SDG 34,1:54,7,Punt
+SD,3,1,7:28,SDG 42,1:49,18,Interception
+SD,4,1,2:57,SDG 24,4:05,76,Touchdown
+SD,5,2,12:10, 50,2:11,26,Field Goal
+SD,6,2,8:50,SDG 17,5:05,56,Field Goal
+SD,7,2,1:42,SDG 17,1:33,54,Field Goal
+SD,8,3,13:44,SDG 29,2:34,71,Touchdown
+SD,9,3,9:29,DEN 19,0:58,0,Field Goal
+SD,10,3,3:15,SDG 23,4:08,42,Missed FG
+SD,11,4,12:08,SDG 48,4:13,52,Touchdown
+SD,12,4,7:42,SDG 42,2:07,7,Punt
+SD,13,4,3:11,SDG 45,0:22,7,Punt
+DEN,1,1,11:37,DEN 20,0:58,3,Punt
+DEN,2,1,8:45,DEN 20,1:17,12,Interception
+DEN,3,1,5:39,SDG 40,2:42,40,Touchdown
+DEN,4,2,13:52,DEN 20,1:42,-3,Punt
+DEN,5,2,9:59,DEN 30,1:09,2,Punt
+DEN,6,2,3:45,DEN 20,2:03,16,Punt
+DEN,7,2,0:09,DEN 26,0:09,-1,End of Half
+DEN,8,3,15:00,DEN 23,1:16,34,Interception
+DEN,9,3,11:10,DEN 27,1:41,4,Punt
+DEN,10,3,8:31,DEN 17,5:16,83,Touchdown
+DEN,11,4,14:07,DEN 43,1:59,9,Downs
+DEN,12,4,7:55,None,0:13,0,Touchdown
+DEN,13,4,5:35,DEN 35,2:24,20,Downs
+DEN,14,4,2:49,DEN 8,2:23,92,Touchdown
+DEN,15,4,0:26,DEN 40,0:26,6,End of Game

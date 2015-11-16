@@ -1,0 +1,19 @@
+JAC,1,1,15:00,JAX 16,7:48,84,Touchdown
+JAC,2,1,4:03,JAX 17,1:43,12,Punt
+JAC,3,2,14:57,JAX 21,3:02,21,Punt
+JAC,4,2,3:21,JAX 34,2:52,66,Touchdown
+JAC,5,2,0:15,JAX 40,0:15,16,End of Half
+JAC,6,3,14:47,JAX 20,2:18,6,Punt
+JAC,7,3,7:19,JAX 18,5:26,82,Touchdown
+JAC,8,4,13:07,JAX 18,1:06,7,Punt
+JAC,9,4,10:13,JAX 43,7:17,57,Touchdown
+HOU,1,1,7:12,HTX 18,3:09,31,Punt
+HOU,2,1,2:20,HTX 32,2:12,22,Punt
+HOU,3,1,0:08,JAX 6,0:11,6,Touchdown
+HOU,4,2,11:55,HTX 16,8:34,84,Touchdown
+HOU,5,2,0:29,None,0:14,0,Touchdown
+HOU,6,3,15:00,None,0:13,0,Touchdown
+HOU,7,3,12:29,HTX 36,5:10,64,Touchdown
+HOU,8,3,1:53,HTX 29,3:46,71,Touchdown
+HOU,9,4,12:01,HTX 45,1:48,6,Interception
+HOU,10,4,2:56,HTX 23,2:56,6,End of Game

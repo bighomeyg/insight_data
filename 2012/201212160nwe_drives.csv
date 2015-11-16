@@ -1,0 +1,33 @@
+SF,1,1,13:35,SFO 37,2:40,63,Touchdown
+SF,2,1,9:48,SFO 8,1:46,6,Punt
+SF,3,1,7:42,NWE 5,0:11,0,Fumble
+SF,4,1,6:13,SFO 41,3:59,38,Missed FG
+SF,5,1,1:00,NWE 34,1:05,9,Downs
+SF,6,2,8:31,SFO 20,1:32,80,Touchdown
+SF,7,2,6:04,SFO 22,6:04,76,Field Goal
+SF,8,3,15:00,SFO 30,3:23,37,Interception
+SF,9,3,10:44,NWE 3,0:06,3,Touchdown
+SF,10,3,10:26,NWE 27,0:05,27,Touchdown
+SF,11,3,5:59,SFO 20,2:20,17,Punt
+SF,12,4,14:58,SFO 18,1:41,6,Punt
+SF,13,4,12:13,SFO 25,2:17,-4,Punt
+SF,14,4,6:43,NWE 38,0:18,38,Touchdown
+SF,15,4,4:40,SFO 28,1:44,7,Punt
+SF,16,4,2:20,NWE 12,0:24,2,Field Goal
+SF,17,4,0:38,NWE 46,0:38,-1,End of Game
+NE,1,1,15:00,NWE 15,1:25,7,Punt
+NE,2,1,10:55,NWE 25,1:07,25,Punt
+NE,3,1,8:02,NWE 20,0:20,0,Interception
+NE,4,1,7:31,NWE 10,1:18,7,Punt
+NE,5,1,2:14,NWE 30,1:14,3,Fumble
+NE,6,2,14:55,NWE 25,6:24,62,Field Goal
+NE,7,2,6:59,NWE 18,0:55,4,Punt
+NE,8,3,11:37,NWE 20,0:53,49,Fumble
+NE,9,3,10:38,NWE 20,0:12,15,Interception
+NE,10,3,10:21,NWE 27,4:22,73,Touchdown
+NE,11,3,3:39,NWE 14,3:41,86,Touchdown
+NE,12,4,13:17,NWE 34,1:04,66,Touchdown
+NE,13,4,9:56,NWE 8,3:13,92,Touchdown
+NE,14,4,6:25,NWE 25,1:45,13,Punt
+NE,15,4,2:56,NWE 3,0:36,9,Downs
+NE,16,4,1:56,NWE 20,1:18,57,Field Goal

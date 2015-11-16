@@ -1,0 +1,24 @@
+ATL,1,1,15:00,ATL 20,3:22,80,Touchdown
+ATL,2,1,11:26,NOR 27,2:07,8,Field Goal
+ATL,3,1,6:49,ATL 20,2:53,31,Punt
+ATL,4,2,13:33,ATL 20,7:06,80,Touchdown
+ATL,5,2,3:54,ATL 23,1:37,-1,Punt
+ATL,6,2,0:34,ATL 20,0:34,-2,End of Half
+ATL,7,3,13:12,ATL 29,0:18,0,Interception
+ATL,8,3,9:23,ATL 20,1:33,8,Punt
+ATL,9,3,4:13,ATL 9,5:46,91,Touchdown
+ATL,10,4,11:50,ATL 31,2:42,67,Field Goal
+ATL,11,4,5:54,ATL 20,4:12,78,Downs
+ATL,12,4,0:37,ATL 31,0:25,9,Downs
+NO,1,1,11:38,NOR 24,0:12,0,Interception
+NO,2,1,9:19,NOR 22,2:30,78,Touchdown
+NO,3,1,3:56,NOR 10,5:23,90,Touchdown
+NO,4,2,6:27,NOR 20,2:33,11,Punt
+NO,5,2,2:17,NOR 31,1:43,69,Touchdown
+NO,6,3,15:00,NOR 20,1:48,-2,Punt
+NO,7,3,12:54,NOR 19,3:31,81,Touchdown
+NO,8,3,7:50,NOR 25,3:37,12,Punt
+NO,9,4,13:27,NOR 20,1:37,8,Punt
+NO,10,4,9:08,NOR 20,3:14,67,Field Goal
+NO,11,4,1:42,NOR 2,1:05,2,Punt
+NO,12,4,0:12,ATL 40,0:12,-1,End of Game

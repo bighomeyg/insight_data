@@ -1,0 +1,21 @@
+PHI,1,None,13:16,PHI 13,1:47,0,Punt
+PHI,2,None,9:24,PHI 20,4:52,27,Punt
+PHI,3,None,2:23,PHI 23,1:04,1,Punt
+PHI,4,None,14:46,PHI 24,1:08,76,Touchdown
+PHI,5,None,5:19,PHI 20,4:29,80,Touchdown
+PHI,6,None,15:00,PHI 20,1:35,80,Touchdown
+PHI,7,None,9:36,PHI 46,2:10,16,Punt
+PHI,8,None,1:05,PHI 30,4:57,64,Field Goal
+PHI,9,None,9:24,PHI 37,1:04,0,Punt
+PHI,10,None,3:18,PHI 44,1:30,-5,Punt
+NO,1,None,15:00,NOR 28,1:44,12,Punt
+NO,2,None,11:29, 50,2:05,35,Field Goal
+NO,3,None,4:32,NOR 20,2:09,30,Punt
+NO,4,None,1:19,NOR 36,1:33,59,Field Goal
+NO,5,None,13:38,NOR 22,8:19,78,Touchdown
+NO,6,None,0:50,NOR 35,0:50,20,End of Half
+NO,7,None,13:25,NOR 37,3:49,63,Touchdown
+NO,8,None,7:26,NOR 16,6:21,84,Touchdown
+NO,9,None,11:08,NOR 35,1:44,-6,Punt
+NO,10,None,8:20,NOR 29,5:02,27,Fumble
+NO,11,None,1:48,NOR 22,1:48,12,End of Game

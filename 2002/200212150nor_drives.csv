@@ -1,0 +1,21 @@
+MIN,1,1,11:50,MIN 31,3:29,69,Touchdown
+MIN,2,1,6:43,MIN 29,5:42,71,Touchdown
+MIN,3,1,0:48,MIN 20,3:49,57,Field Goal
+MIN,4,2,5:25,MIN 19,3:04,19,Punt
+MIN,5,2,0:53,MIN 20,0:41,80,Touchdown
+MIN,6,3,15:00,MIN 33,1:55,6,Punt
+MIN,7,3,11:23,MIN 18,2:22,9,Punt
+MIN,8,3,0:55,MIN 19,2:41,20,Punt
+MIN,9,4,12:18,MIN 25,2:22,9,Punt
+MIN,10,4,5:21,MIN 27,5:16,73,Touchdown
+NO,1,1,15:00,MIN 39,3:10,17,Field Goal
+NO,2,1,8:21,NOR 35,1:38,-14,Punt
+NO,3,1,1:01,None,0:13,0,Touchdown
+NO,4,2,11:59,NOR 40,6:34,44,Field Goal
+NO,5,2,2:21,NOR 35,1:28,65,Touchdown
+NO,6,2,0:12,NOR 38,0:12,-1,End of Half
+NO,7,3,13:05,NOR 25,1:42,27,Punt
+NO,8,3,9:01,NOR 16,8:06,75,Field Goal
+NO,9,4,13:14,NOR 15,0:56,1,Punt
+NO,10,4,9:56,NOR 26,4:35,74,Touchdown
+NO,11,4,0:05,None,0:05,0,End of Game

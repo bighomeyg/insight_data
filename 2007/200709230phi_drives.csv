@@ -1,0 +1,29 @@
+DET,1,None,15:00,DET 24,1:02,-7,Punt
+DET,2,None,11:59,DET 26,2:52,74,Touchdown
+DET,3,None,3:41,DET 25,0:28,0,Punt
+DET,4,None,3:04,DET 35,1:17,7,Punt
+DET,5,None,12:45,DET 20,1:05,-12,Punt
+DET,6,None,11:32,DET 20,2:47,80,Touchdown
+DET,7,None,5:34,DET 9,0:33,91,Touchdown
+DET,8,None,1:49,DET 26,1:16,52,Interception
+DET,9,None,12:46,DET 29,4:11,43,Missed FG
+DET,10,None,2:24,DET 26,2:19,17,Punt
+DET,11,None,14:44,DET 34,4:16,52,Fumble
+DET,12,None,8:49,DET 33,0:36,-16,Fumble
+DET,13,None,7:27,DET 20,4:27,59,Downs
+DET,14,None,2:12,PHI 8,0:21,-3,Downs
+PHI,1,None,13:58,PHI 44,1:59,56,Touchdown
+PHI,2,None,9:07,PHI 23,5:26,77,Touchdown
+PHI,3,None,3:13,PHI 32,0:09,68,Touchdown
+PHI,4,None,1:47,PHI 22,4:02,78,Touchdown
+PHI,5,None,11:40,DET 43,0:08,43,Touchdown
+PHI,6,None,8:45,PHI 22,3:11,69,Fumble
+PHI,7,None,5:01,PHI 12,3:12,88,Touchdown
+PHI,8,None,0:33,PHI 20,0:33,-1,End of Half
+PHI,9,None,15:00,PHI 21,2:14,5,Punt
+PHI,10,None,8:35,PHI 37,6:11,63,Touchdown
+PHI,11,None,0:05,PHI 23,0:21,5,Punt
+PHI,12,None,10:28,PHI 7,1:39,8,Punt
+PHI,13,None,8:13,DET 17,0:46,17,Touchdown
+PHI,14,None,3:00,PHI 21,0:48,-13,Fumble
+PHI,15,None,1:51,PHI 11,1:51,3,End of Game

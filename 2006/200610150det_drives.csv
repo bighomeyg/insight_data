@@ -1,0 +1,25 @@
+BUF,1,None,10:42,BUF 2,0:58,-1,Punt
+BUF,2,None,7:05,BUF 26,2:30,-11,Punt
+BUF,3,None,3:23,BUF 18,0:57,2,Interception
+BUF,4,None,1:01,BUF 46,1:50,54,Touchdown
+BUF,5,None,11:25,BUF 20,2:01,9,Punt
+BUF,6,None,7:53,BUF 42,1:59,19,Punt
+BUF,7,None,4:07,BUF 47,1:35,2,Punt
+BUF,8,None,0:40,DET 23,0:40,-12,Field Goal
+BUF,9,None,15:00,BUF 21,3:43,29,Punt
+BUF,10,None,6:47,BUF 14,3:54,48,Fumble
+BUF,11,None,14:10,BUF 26,4:47,74,Touchdown
+BUF,12,None,7:20,BUF 3,3:16,37,Punt
+BUF,13,None,0:09,BUF 24,0:09,7,Fumble
+DET,1,None,15:00,DET 23,4:18,75,Downs
+DET,2,None,9:44,DET 49,2:39,26,Field Goal
+DET,3,None,4:35,BUF 24,1:12,24,Touchdown
+DET,4,None,2:26,BUF 30,1:25,-8,Missed FG
+DET,5,None,14:11,DET 27,2:46,28,Punt
+DET,6,None,9:24,DET 26,1:31,9,Punt
+DET,7,None,5:54,DET 9,1:47,0,Punt
+DET,8,None,2:32,DET 11,1:52,89,Touchdown
+DET,9,None,11:17,DET 2,4:30,44,Punt
+DET,10,None,2:53,DET 38,3:43,51,Field Goal
+DET,11,None,9:23,DET 21,2:03,31,Interception
+DET,12,None,4:04,DET 22,3:55,20,Punt

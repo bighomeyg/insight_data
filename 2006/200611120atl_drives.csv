@@ -1,0 +1,30 @@
+CLE,1,None,12:36,CLE 23,2:25,8,Punt
+CLE,2,None,7:33,CLE 40,2:19,3,Punt
+CLE,3,None,3:42,ATL 46,2:06,46,Touchdown
+CLE,4,None,14:51,ATL 41,2:52,41,Touchdown
+CLE,5,None,7:52,CLE 18,3:57,30,Punt
+CLE,6,None,2:32,ATL 36,0:38,9,Fumble
+CLE,7,None,0:03,ATL 49,0:03,0,Fumble
+CLE,8,None,15:00,CLE 28,2:58,21,Punt
+CLE,9,None,7:35,CLE 7,1:58,5,Punt
+CLE,10,None,3:38,CLE 2,2:20,-1,Punt
+CLE,11,None,1:06,CLE 28,1:40,-3,Punt
+CLE,12,None,12:33,CLE 9,2:01,-1,Punt
+CLE,13,None,8:52,CLE 22,3:17,52,Field Goal
+CLE,14,None,4:34,CLE 21,1:03,8,Punt
+CLE,15,None,2:18,CLE 28,2:01,-3,Punt
+ATL,1,None,15:00,ATL 15,2:24,27,Punt
+ATL,2,None,10:11,ATL 10,2:38,17,Punt
+ATL,3,None,5:14,ATL 5,1:32,8,Punt
+ATL,4,None,1:36,ATL 25,1:45,27,Interception
+ATL,5,None,11:59,ATL 24,4:07,29,Punt
+ATL,6,None,3:55,ATL 20,1:23,4,Punt
+ATL,7,None,1:54,ATL 11,1:51,63,Field Goal
+ATL,8,None,12:02,ATL 10,4:27,36,Punt
+ATL,9,None,5:37,ATL 30,1:59,39,Interception
+ATL,10,None,1:18,CLE 12,0:12,12,Touchdown
+ATL,11,None,14:26,ATL 46,1:53,-1,Punt
+ATL,12,None,10:32,CLE 49,1:40,26,Field Goal
+ATL,13,None,5:35,ATL 31,1:01,4,Punt
+ATL,14,None,3:31,ATL 28,1:13,45,Fumble
+ATL,15,None,0:17,ATL 40,0:17,12,End of Game

@@ -1,0 +1,25 @@
+MIN,1,None,10:21,MIN 4,6:19,96,Touchdown
+MIN,2,None,1:38,MIN 5,1:19,-2,Punt
+MIN,3,None,14:09,MIN 20,5:03,31,Punt
+MIN,4,None,5:34,MIN 20,3:50,18,Punt
+MIN,5,None,0:38,MIN 27,0:38,12,End of Half
+MIN,6,None,15:00,MIN 31,1:48,25,Punt
+MIN,7,None,10:08,MIA 43,3:59,26,Field Goal
+MIN,8,None,3:21,MIN 34,3:03,21,Punt
+MIN,9,None,0:08,MIA 3,0:56,2,Field Goal
+MIN,10,None,13:11,MIN 47,1:07,23,Fumble
+MIN,11,None,10:29,MIN 40,1:02,8,Fumble
+MIN,12,None,9:27,MIN 30,1:28,9,Punt
+MIN,13,None,5:28,MIN 26,2:03,27,Interception
+MIN,14,None,3:25,MIN 24,3:25,76,Touchdown
+MIA,1,None,15:00,MIA 27,4:39,69,Fumble
+MIA,2,None,4:02,MIA 39,2:24,7,Punt
+MIA,3,None,0:19,MIN 44,1:10,18,Field Goal
+MIA,4,None,9:06,MIA 22,3:32,78,Touchdown
+MIA,5,None,1:44,MIA 23,1:06,8,Punt
+MIA,6,None,13:12,MIA 31,3:04,0,Punt
+MIA,7,None,6:09,MIA 40,2:48,34,Missed FG
+MIA,8,None,0:18,MIA 17,0:10,0,Interception
+MIA,9,None,14:12,MIA 27,1:01,0,Punt
+MIA,10,None,12:04,MIA 30,1:35,5,Punt
+MIA,11,None,7:59,MIA 23,2:31,17,Punt

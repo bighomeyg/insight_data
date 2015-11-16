@@ -1,0 +1,20 @@
+NE,1,1,15:00,NWE 25,4:54,62,Field Goal
+NE,2,1,7:36,NWE 27,1:24,9,Punt
+NE,3,1,0:08,DET 32,1:31,13,Interception
+NE,4,2,11:20,NWE 20,2:57,33,Downs
+NE,5,2,7:28,NWE 18,2:51,30,Punt
+NE,6,2,4:06,DET 19,1:42,19,Touchdown
+NE,7,2,0:30,NWE 20,0:30,-1,End of Half
+NE,8,3,13:33,NWE 35,3:30,27,Punt
+NE,9,3,4:12,NWE 24,5:55,64,Field Goal
+NE,10,4,9:46,NWE 19,9:46,79,End of Game
+DET,1,1,10:06,DET 23,0:22,0,Interception
+DET,2,1,9:44,DET 19,2:08,4,Punt
+DET,3,1,6:12,DET 19,6:04,77,Field Goal
+DET,4,2,13:37,DET 27,2:17,16,Punt
+DET,5,2,8:23,NWE 36,0:55,21,Interception
+DET,6,2,4:37,DET 12,0:31,9,Interception
+DET,7,2,2:24,DET 20,1:54,53,Field Goal
+DET,8,3,15:00,DET 23,1:27,6,Punt
+DET,9,3,10:03,DET 16,5:51,64,Field Goal
+DET,10,4,13:17,DET 40,3:31,33,Field Goal

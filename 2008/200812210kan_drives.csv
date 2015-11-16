@@ -1,0 +1,24 @@
+MIA,1,1,15:00,KAN 31,0:18,31,Touchdown
+MIA,2,1,12:50,KAN 18,1:07,2,Field Goal
+MIA,3,1,10:15,MIA 33,3:23,28,Punt
+MIA,4,2,14:05,MIA 28,2:32,72,Touchdown
+MIA,5,2,10:32,MIA 34,4:20,66,Touchdown
+MIA,6,2,6:04,KAN 32,3:48,27,Downs
+MIA,7,2,0:50,MIA 35,0:35,10,Interception
+MIA,8,3,9:11,MIA 40,2:25,60,Touchdown
+MIA,9,3,3:40,MIA 6,4:27,27,Punt
+MIA,10,4,12:41,MIA 15,8:33,85,Touchdown
+MIA,11,4,3:35,KAN 20,1:50,13,Fumble
+MIA,12,4,0:52,KAN 3,0:52,-2,End of Game
+KC,1,1,14:42,KAN 43,1:52,12,Interception
+KC,2,1,11:43,KAN 35,1:28,65,Touchdown
+KC,3,1,6:52,KAN 20,7:47,80,Touchdown
+KC,4,2,11:33,KAN 23,1:01,77,Touchdown
+KC,5,2,6:12,None,0:08,0,Fumble
+KC,6,2,2:16,KAN 5,1:26,95,Touchdown
+KC,7,2,0:15,KAN 37,0:15,18,End of Half
+KC,8,3,15:00,KAN 22,5:49,69,Field Goal
+KC,9,3,6:46,KAN 21,3:06,53,Interception
+KC,10,4,14:13,KAN 39,1:32,15,Punt
+KC,11,4,4:08,KAN 17,0:33,3,Downs
+KC,12,4,1:45,KAN 7,0:53,0,Interception

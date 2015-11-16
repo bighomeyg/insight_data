@@ -1,0 +1,25 @@
+SF,1,None,15:00,SFO 20,2:36,5,Punt
+SF,2,None,6:04,SFO 34,1:15,3,Punt
+SF,3,None,3:39,RAM 39,3:42,39,Touchdown
+SF,4,None,9:04,SFO 28,2:32,27,Punt
+SF,5,None,1:51,SFO 47,1:51,4,Punt
+SF,6,None,12:59,RAM 44,1:52,0,Punt
+SF,7,None,7:35,SFO 20,4:52,80,Touchdown
+SF,8,None,14:49,SFO 18,1:04,4,Punt
+SF,9,None,11:44,SFO 48,0:06,-7,Fumble
+SF,10,None,10:04,SFO 17,4:22,15,Punt
+SF,11,None,5:42,RAM 26,2:19,4,Field Goal
+SF,12,None,2:35,RAM 43,0:42,-3,Punt
+SF,13,None,0:58,SFO 46,0:58,-1,End of Game
+STL,1,None,12:24,RAM 26,3:30,2,Punt
+STL,2,None,8:54,SFO 25,2:50,25,Touchdown
+STL,3,None,4:49,RAM 12,1:10,-3,Punt
+STL,4,None,14:57,RAM 21,5:53,70,Field Goal
+STL,5,None,6:32,RAM 8,4:41,81,Field Goal
+STL,6,None,15:00,RAM 17,2:01,26,Fumble
+STL,7,None,11:07,RAM 13,3:32,79,Fumble
+STL,8,None,2:43,RAM 16,2:54,39,Punt
+STL,9,None,13:45,RAM 8,2:01,7,Punt
+STL,10,None,11:38,SFO 41,1:34,7,Field Goal
+STL,11,None,3:23,RAM 40,0:48,3,Downs
+STL,12,None,1:53,RAM 20,0:55,42,Missed FG

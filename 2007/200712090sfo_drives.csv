@@ -1,0 +1,26 @@
+MIN,1,None,11:23,MIN 15,6:15,55,Field Goal
+MIN,2,None,1:58,MIN 42,2:44,58,Touchdown
+MIN,3,None,12:25,MIN 10,3:30,19,Punt
+MIN,4,None,8:47,SFO 23,1:31,-5,Field Goal
+MIN,5,None,6:45,MIN 19,0:53,81,Touchdown
+MIN,6,None,2:48,MIN 14,0:09,14,Fumble
+MIN,7,None,0:19,MIN 8,0:19,-1,End of Half
+MIN,8,None,15:00,MIN 20,1:23,4,Punt
+MIN,9,None,7:06,MIN 20,3:49,18,Punt
+MIN,10,None,2:07,MIN 45,2:58,15,Punt
+MIN,11,None,12:23,SFO 43,2:32,7,Punt
+MIN,12,None,4:56,MIN 28,0:34,3,Punt
+MIN,13,None,1:36,MIN 38,1:36,-3,End of Game
+SF,1,None,15:00,SFO 27,0:14,-5,Interception
+SF,2,None,14:46,SFO 23,3:23,27,Punt
+SF,3,None,5:08,SFO 22,3:10,6,Punt
+SF,4,None,14:14,MIN 44,1:49,1,Punt
+SF,5,None,8:55,SFO 34,0:08,5,Fumble
+SF,6,None,7:16,MIN 45,0:31,0,Punt
+SF,7,None,5:52,SFO 40,3:04,6,Punt
+SF,8,None,2:39,MIN 28,2:20,20,Downs
+SF,9,None,13:37,SFO 39,6:31,61,Touchdown
+SF,10,None,3:17,SFO 25,1:10,31,Fumble
+SF,11,None,14:09,SFO 6,1:46,1,Punt
+SF,12,None,9:51,SFO 25,4:55,47,Fumble
+SF,13,None,4:22,SFO 24,2:46,38,Fumble

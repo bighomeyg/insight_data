@@ -1,0 +1,24 @@
+PIT,1,1,15:00,PIT 32,2:23,68,Touchdown
+PIT,2,1,5:22,PIT 20,4:14,80,Touchdown
+PIT,3,1,1:01,RAV 15,1:08,15,Touchdown
+PIT,4,2,10:08,RAV 49,4:47,49,Touchdown
+PIT,5,2,4:02,PIT 36,1:59,17,Punt
+PIT,6,2,1:16,RAV 44,0:24,17,Interception
+PIT,7,3,8:58,PIT 26,1:48,-2,Punt
+PIT,8,3,6:17,RAV 25,2:06,9,Field Goal
+PIT,9,4,11:11,PIT 24,3:27,21,Punt
+PIT,10,4,4:39,PIT 31,1:18,6,Punt
+PIT,11,4,3:14,RAV 26,1:09,6,Downs
+PIT,12,4,1:52,RAV 20,1:52,-3,End of Game
+BAL,1,1,12:37,RAV 11,7:15,40,Punt
+BAL,2,1,1:08,None,0:07,0,Fumble
+BAL,3,2,14:53,RAV 20,4:45,70,Field Goal
+BAL,4,2,5:21,RAV 34,1:19,-7,Punt
+BAL,5,2,2:03,RAV 10,0:47,-1,Punt
+BAL,6,2,0:52,RAV 25,0:52,28,End of Half
+BAL,7,3,15:00,RAV 28,6:02,72,Touchdown
+BAL,8,3,7:10,RAV 25,0:53,18,Interception
+BAL,9,3,4:11,RAV 10,8:00,90,Touchdown
+BAL,10,4,7:44,RAV 24,3:05,45,Fumble
+BAL,11,4,3:21,RAV 19,0:07,0,Interception
+BAL,12,4,2:05,RAV 20,0:13,0,Interception

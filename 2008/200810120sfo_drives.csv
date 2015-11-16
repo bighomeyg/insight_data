@@ -1,0 +1,23 @@
+PHI,1,1,15:00,PHI 20,1:06,2,Punt
+PHI,2,1,12:34,SFO 37,3:26,37,Touchdown
+PHI,3,1,4:25,PHI 22,5:19,78,Touchdown
+PHI,4,2,7:44,PHI 36,3:14,63,Field Goal
+PHI,5,2,0:29,PHI 20,0:29,44,Blocked FG
+PHI,6,3,11:14,PHI 33,2:00,19,Punt
+PHI,7,3,3:01,PHI 23,2:39,62,Interception
+PHI,8,4,14:22,SFO 38,2:44,38,Touchdown
+PHI,9,4,10:34,PHI 49,2:48,31,Field Goal
+PHI,10,4,6:09,SFO 7,0:55,0,Field Goal
+PHI,11,4,3:11,SFO 20,2:01,9,Field Goal
+SF,1,1,13:54,PHI 18,1:20,4,Field Goal
+SF,2,1,9:08,SFO 27,4:43,54,Field Goal
+SF,3,2,14:06,SFO 11,6:22,25,Punt
+SF,4,2,4:30,SFO 28,4:01,37,Field Goal
+SF,5,3,15:00,SFO 22,3:46,78,Touchdown
+SF,6,3,9:14,SFO 12,6:13,77,Field Goal
+SF,7,3,0:22,SFO 12,1:00,-9,Punt
+SF,8,4,11:38,SFO 27,1:04,-7,Punt
+SF,9,4,7:46,SFO 38,1:37,-8,Interception
+SF,10,4,5:14,SFO 19,2:03,1,Fumble
+SF,11,4,1:10,SFO 25,0:32,25,Interception
+SF,12,4,0:38,SFO 23,0:38,-9,End of Game

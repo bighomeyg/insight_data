@@ -1,0 +1,20 @@
+PIT,1,None,9:14,PIT 25,3:52,75,Touchdown
+PIT,2,None,2:21,PIT 13,5:16,29,Punt
+PIT,3,None,8:50,PIT 35,4:13,32,Field Goal
+PIT,4,None,3:38,PIT 29,1:59,9,Punt
+PIT,5,None,0:15,PIT 21,0:15,-1,End of Half
+PIT,6,None,15:00,PIT 15,3:20,18,Punt
+PIT,7,None,5:38,PIT 29,1:27,1,Punt
+PIT,8,None,2:57,PIT 26,6:09,74,Touchdown
+PIT,9,None,10:10,PIT 30,4:23,21,Punt
+PIT,10,None,2:20,DAL 24,1:50,24,Touchdown
+DAL,1,None,15:00,DAL 25,5:46,75,Touchdown
+DAL,2,None,5:22,DAL 23,3:01,24,Punt
+DAL,3,None,12:05,DAL 13,3:15,9,Punt
+DAL,4,None,4:37,DAL 23,0:59,-3,Punt
+DAL,5,None,1:39,DAL 16,1:24,56,Field Goal
+DAL,6,None,11:40,DAL 25,6:02,55,Field Goal
+DAL,7,None,4:11,DAL 32,1:14,68,Touchdown
+DAL,8,None,11:48,DAL 20,1:38,-6,Punt
+DAL,9,None,5:47,DAL 20,3:27,25,Fumble
+DAL,10,None,0:30,DAL 35,0:30,35,End of Game

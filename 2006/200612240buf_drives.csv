@@ -1,0 +1,22 @@
+TEN,1,None,11:20,OTI 32,3:26,68,Touchdown
+TEN,2,None,2:30,OTI 34,4:56,42,Field Goal
+TEN,3,None,11:20,BUF 37,2:05,35,Field Goal
+TEN,4,None,6:26,OTI 7,4:37,36,Punt
+TEN,5,None,1:01,OTI 43,1:00,57,Touchdown
+TEN,6,None,15:00,OTI 10,1:47,8,Punt
+TEN,7,None,9:11,OTI 26,1:01,4,Punt
+TEN,8,None,6:15,OTI 2,2:14,0,Punt
+TEN,9,None,0:30,OTI 38,4:16,62,Touchdown
+TEN,10,None,9:25,OTI 12,7:15,75,Field Goal
+TEN,11,None,0:41,OTI 13,0:41,-1,End of Game
+BUF,1,None,15:00,OTI 46,3:40,43,Field Goal
+BUF,2,None,7:54,BUF 29,5:24,71,Touchdown
+BUF,3,None,12:34,BUF 36,1:14,-4,Interception
+BUF,4,None,9:15,BUF 38,2:49,44,Field Goal
+BUF,5,None,1:49,BUF 35,0:48,38,Field Goal
+BUF,6,None,0:01,BUF 40,0:01,57,Field Goal
+BUF,7,None,13:13,BUF 42,4:02,58,Touchdown
+BUF,8,None,8:10,OTI 49,1:55,0,Punt
+BUF,9,None,4:01,OTI 39,3:31,33,Field Goal
+BUF,10,None,11:14,BUF 44,1:49,9,Punt
+BUF,11,None,2:10,BUF 40,1:29,32,Interception

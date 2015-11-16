@@ -1,0 +1,20 @@
+DAL,1,1,6:10,DAL 22,4:07,42,Fumble
+DAL,2,2,14:54,DAL 20,1:31,4,Punt
+DAL,3,2,7:35,DAL 18,1:29,2,Interception
+DAL,4,2,6:06,DAL 20,3:59,80,Touchdown
+DAL,5,2,0:39,DAL 47,0:37,42,Field Goal
+DAL,6,3,15:00,DAL 17,2:12,83,Touchdown
+DAL,7,3,7:03,DAL 16,4:20,62,Field Goal
+DAL,8,4,13:28,DAL 16,7:15,84,Touchdown
+DAL,9,4,2:36,DAL 20,0:38,12,Punt
+DAL,10,4,1:02,DAL 37,1:02,-2,End of Game
+STL,1,1,15:00,RAM 20,8:50,80,Touchdown
+STL,2,1,2:03,RAM 35,2:09,65,Touchdown
+STL,3,2,13:23,RAM 33,5:48,25,Punt
+STL,4,2,2:07,RAM 20,1:28,33,Fumble
+STL,5,2,0:02,RAM 20,0:02,-1,End of Half
+STL,6,3,12:48,RAM 20,5:45,64,Downs
+STL,7,3,2:43,RAM 18,4:15,72,Field Goal
+STL,8,4,6:13,RAM 21,0:15,0,Interception
+STL,9,4,5:58,RAM 20,3:22,80,Touchdown
+STL,10,4,1:58,RAM 14,0:56,12,Interception

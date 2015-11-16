@@ -1,0 +1,20 @@
+GB,1,1,8:15,GNB 14,4:44,46,Fumble
+GB,2,2,12:26,GNB 16,7:00,70,Field Goal
+GB,3,2,4:22,ATL 44,4:14,27,Field Goal
+GB,4,3,15:00,GNB 18,2:07,4,Punt
+GB,5,3,8:41,GNB 16,3:13,45,Field Goal
+GB,6,3,3:53,GNB 30,0:11,70,Touchdown
+GB,7,3,2:12,GNB 32,2:21,68,Touchdown
+GB,8,4,13:39,GNB 30,2:27,11,Punt
+GB,9,4,7:32,GNB 22,6:22,66,Field Goal
+GB,10,4,0:32,ATL 35,0:32,-1,End of Game
+ATL,1,1,15:00,ATL 20,6:45,80,Touchdown
+ATL,2,1,3:31,ATL 40,6:05,60,Touchdown
+ATL,3,2,5:26,ATL 20,1:04,-10,Punt
+ATL,4,2,0:08,ATL 20,0:08,-1,End of Half
+ATL,5,3,12:53,ATL 39,4:12,21,Punt
+ATL,6,3,5:28,ATL 20,1:35,6,Punt
+ATL,7,3,3:42,ATL 20,1:30,-5,Punt
+ATL,8,4,14:51,ATL 22,1:12,3,Punt
+ATL,9,4,11:12,ATL 16,3:40,44,Interception
+ATL,10,4,1:10,ATL 20,0:38,29,Interception

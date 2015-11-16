@@ -1,0 +1,21 @@
+CAR,1,1,13:21,CAR 20,6:39,80,Touchdown
+CAR,2,1,2:50,CAR 18,4:08,78,Interception
+CAR,3,2,8:21,NOR 36,2:31,13,Field Goal
+CAR,4,2,2:42,CAR 20,1:24,80,Touchdown
+CAR,5,2,0:07,CAR 20,0:07,-1,End of Half
+CAR,6,3,15:00,CAR 20,2:38,0,Punt
+CAR,7,3,8:54,CAR 15,1:44,3,Punt
+CAR,8,3,3:47,CAR 20,2:42,24,Punt
+CAR,9,4,12:15,CAR 20,2:46,33,Punt
+CAR,10,4,6:23,CAR 30,0:11,22,Fumble
+CAR,11,4,0:36,CAR 16,0:36,-1,End of Game
+NO,1,1,15:00,NOR 20,1:39,80,Touchdown
+NO,2,1,6:42,NOR 17,3:52,83,Touchdown
+NO,3,2,13:42,NOR 20,5:21,61,Interception
+NO,4,2,5:50,NOR 20,3:08,55,Field Goal
+NO,5,2,1:18,NOR 19,1:11,81,Touchdown
+NO,6,3,12:22,NOR 39,3:28,61,Touchdown
+NO,7,3,7:10,CAR 44,3:23,44,Touchdown
+NO,8,3,1:05,NOR 32,3:50,68,Touchdown
+NO,9,4,9:29,NOR 20,3:06,16,Punt
+NO,10,4,6:12,NOR 31,5:36,53,Downs

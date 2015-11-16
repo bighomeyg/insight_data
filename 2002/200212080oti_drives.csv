@@ -1,0 +1,18 @@
+IND,1,1,10:32,CLT 8,3:38,52,Interception
+IND,2,1,4:20,CLT 20,0:25,0,Punt
+IND,3,2,13:38,CLT 31,2:52,69,Touchdown
+IND,4,2,4:05,CLT 18,4:05,56,Field Goal
+IND,5,3,15:00,CLT 28,0:18,0,Interception
+IND,6,3,13:58,OTI 47,1:19,5,Punt
+IND,7,3,9:58,CLT 22,4:53,50,Interception
+IND,8,4,13:51,CLT 22,7:15,78,Touchdown
+IND,9,4,2:46,CLT 15,2:29,59,Missed FG
+TEN,1,1,15:00,OTI 28,4:28,72,Touchdown
+TEN,2,1,6:54,OTI 45,2:34,5,Punt
+TEN,3,1,3:55,OTI 36,5:17,64,Touchdown
+TEN,4,2,10:46,OTI 32,6:41,68,Touchdown
+TEN,5,3,14:42,OTI 41,0:44,6,Fumble
+TEN,6,3,12:39,OTI 20,2:41,9,Punt
+TEN,7,3,5:05,OTI 20,6:14,63,Field Goal
+TEN,8,4,6:36,OTI 36,3:50,53,Field Goal
+TEN,9,4,0:17,OTI 34,0:17,-1,End of Game

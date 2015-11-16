@@ -1,0 +1,21 @@
+BAL,1,1,15:00,RAV 30,5:59,69,Field Goal
+BAL,2,1,7:27,RAV 15,4:29,31,Fumble
+BAL,3,1,2:09,RAV 20,2:21,40,Punt
+BAL,4,2,11:24,RAV 45,2:12,6,Punt
+BAL,5,2,5:49,RAV 20,5:30,80,Touchdown
+BAL,6,3,9:38,RAV 38,3:02,51,Field Goal
+BAL,7,3,5:40,KAN 17,1:20,6,Field Goal
+BAL,8,3,3:26,KAN 31,2:59,31,Touchdown
+BAL,9,4,14:46,RAV 20,10:20,80,Touchdown
+BAL,10,4,3:32,RAV 34,3:32,11,End of Game
+KC,1,1,9:01,KAN 25,1:34,6,Punt
+KC,2,1,2:58,RAV 46,0:49,46,Touchdown
+KC,3,2,14:48,KAN 14,3:24,41,Fumble
+KC,4,2,9:12,KAN 13,3:23,39,Punt
+KC,5,2,0:19,KAN 16,0:19,-1,End of Half
+KC,6,3,15:00,KAN 20,1:03,-1,Interception
+KC,7,3,13:57,KAN 32,4:19,31,Downs
+KC,8,3,6:36,KAN 23,0:56,-7,Fumble
+KC,9,3,4:20,KAN 20,0:54,1,Interception
+KC,10,3,0:27,KAN 46,0:41,3,Punt
+KC,11,4,4:26,KAN 40,0:54,-12,Interception

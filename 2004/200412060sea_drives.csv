@@ -1,0 +1,26 @@
+DAL,1,None,15:00,DAL 22,1:41,5,Punt
+DAL,2,None,10:42,DAL 24,1:53,55,Field Goal
+DAL,3,None,3:47,DAL 31,2:15,9,Punt
+DAL,4,None,14:49,DAL 42,2:37,28,Field Goal
+DAL,5,None,10:12,SEA 39,4:04,39,Touchdown
+DAL,6,None,3:07,DAL 41,2:35,59,Touchdown
+DAL,7,None,14:19,SEA 21,0:34,21,Touchdown
+DAL,8,None,12:42,DAL 44,2:32,27,Field Goal
+DAL,9,None,3:01,DAL 30,5:49,33,Interception
+DAL,10,None,9:30,DAL 32,1:23,5,Punt
+DAL,11,None,5:29,DAL 22,1:06,10,Interception
+DAL,12,None,2:46,DAL 36,1:01,64,Touchdown
+DAL,13,None,1:45,DAL 43,1:13,57,Touchdown
+SEA,1,None,13:19,DAL 47,2:37,47,Touchdown
+SEA,2,None,8:49,SEA 21,5:02,79,Touchdown
+SEA,3,None,1:32,SEA 29,1:43,-3,Punt
+SEA,4,None,12:12,SEA 21,2:00,42,Fumble
+SEA,5,None,6:08,SEA 19,3:01,41,Downs
+SEA,6,None,0:32,SEA 28,0:32,12,End of Half
+SEA,7,None,15:00,SEA 21,0:41,9,Fumble
+SEA,8,None,13:45,SEA 27,1:03,-2,Punt
+SEA,9,None,10:10,SEA 20,7:09,77,Field Goal
+SEA,10,None,12:12,SEA 28,2:42,72,Touchdown
+SEA,11,None,8:07,SEA 28,2:38,72,Touchdown
+SEA,12,None,4:23,DAL 41,1:37,41,Touchdown
+SEA,13,None,0:32,SEA 25,0:32,28,End of Game

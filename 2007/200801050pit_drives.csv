@@ -1,0 +1,26 @@
+JAC,1,1,10:03,PIT 1,0:24,1,Touchdown
+JAC,2,1,6:29,JAX 9,5:31,37,Punt
+JAC,3,2,14:34,JAX 39,2:09,-5,Punt
+JAC,4,2,9:30,PIT 46,0:56,46,Touchdown
+JAC,5,2,6:30,JAX 46,4:22,26,Missed FG
+JAC,6,2,0:50,JAX 28,0:50,8,End of Half
+JAC,7,3,15:00,JAX 31,0:51,2,Interception
+JAC,8,3,9:24,JAX 18,4:45,82,Touchdown
+JAC,9,4,14:53,JAX 38,0:39,-12,Punt
+JAC,10,4,10:25,JAX 24,1:35,-5,Interception
+JAC,11,4,6:21,JAX 22,2:38,11,Punt
+JAC,12,4,2:38,JAX 49,2:01,44,Field Goal
+JAC,13,4,0:20,PIT 21,0:20,-1,End of Game
+PIT,1,1,15:00,PIT 20,4:57,80,Touchdown
+PIT,2,1,9:39,PIT 28,3:10,19,Punt
+PIT,3,1,0:58,PIT 20,1:24,5,Punt
+PIT,4,2,12:25,PIT 16,2:06,32,Interception
+PIT,5,2,10:19,PIT 20,0:49,-5,Interception
+PIT,6,2,8:34,PIT 21,2:04,-9,Punt
+PIT,7,2,2:08,PIT 36,1:18,43,Interception
+PIT,8,3,14:09,JAX 43,4:45,33,Field Goal
+PIT,9,3,4:39,PIT 31,4:46,69,Touchdown
+PIT,10,4,14:14,PIT 31,3:49,69,Touchdown
+PIT,11,4,8:50,JAX 16,2:29,16,Touchdown
+PIT,12,4,3:43,PIT 22,1:05,5,Punt
+PIT,13,4,0:37,PIT 28,0:17,-7,Fumble

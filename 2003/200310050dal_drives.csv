@@ -1,0 +1,25 @@
+ARI,1,None,15:00,CRD 19,4:16,27,Punt
+ARI,2,None,5:43,CRD 10,2:02,8,Punt
+ARI,3,None,3:33,DAL 31,1:41,31,Touchdown
+ARI,4,None,13:48,CRD 27,1:10,0,Punt
+ARI,5,None,12:02,CRD 8,4:02,43,Punt
+ARI,6,None,2:12,CRD 26,1:04,7,Punt
+ARI,7,None,10:29,CRD 33,0:52,3,Interception
+ARI,8,None,7:59,CRD 5,1:13,-5,Safety
+ARI,9,None,4:53,CRD 1,1:19,-1,Safety
+ARI,10,None,2:31,CRD 27,2:42,31,Punt
+ARI,11,None,12:39,CRD 43,2:47,16,Downs
+ARI,12,None,4:30,CRD 26,0:24,0,Interception
+DAL,1,None,10:44,DAL 14,5:01,47,Punt
+DAL,2,None,3:41,DAL 49,0:08,51,Touchdown
+DAL,3,None,1:52,DAL 34,3:04,66,Touchdown
+DAL,4,None,12:38,DAL 36,0:36,10,Interception
+DAL,5,None,8:00,DAL 20,5:48,65,Field Goal
+DAL,6,None,1:08,DAL 34,1:08,-4,End of Half
+DAL,7,None,15:00,DAL 29,4:31,53,Field Goal
+DAL,8,None,9:37,CRD 38,1:38,-2,Punt
+DAL,9,None,6:46,CRD 40,1:53,-1,Punt
+DAL,10,None,3:34,DAL 35,1:03,-1,Punt
+DAL,11,None,14:49,DAL 4,2:10,7,Punt
+DAL,12,None,9:52,DAL 41,5:22,34,Downs
+DAL,13,None,4:06,CRD 19,4:06,10,End of Game

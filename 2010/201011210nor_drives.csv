@@ -1,0 +1,19 @@
+SEA,1,1,15:00,SEA 21,0:58,1,Punt
+SEA,2,1,11:43,SEA 18,4:36,80,Field Goal
+SEA,3,1,1:30,SEA 30,1:35,45,Field Goal
+SEA,4,2,10:17,SEA 20,0:23,0,Punt
+SEA,5,2,5:48,SEA 31,3:54,69,Touchdown
+SEA,6,2,1:00,SEA 40,1:00,35,Field Goal
+SEA,7,3,12:18,SEA 26,0:37,26,Fumble
+SEA,8,3,6:53,SEA 5,5:49,51,Fumble
+SEA,9,4,12:28,SEA 20,7:02,78,Field Goal
+SEA,10,4,0:21,SEA 20,0:21,11,End of Game
+NO,1,1,14:02,NOR 37,2:19,5,Punt
+NO,2,1,7:07,NOR 20,5:37,80,Touchdown
+NO,3,2,14:55,NOR 20,4:38,80,Touchdown
+NO,4,2,9:54,SEA 42,4:06,42,Touchdown
+NO,5,2,1:54,NOR 25,0:54,75,Touchdown
+NO,6,3,15:00,NOR 20,2:42,80,Touchdown
+NO,7,3,11:41,NOR 48,4:48,48,Interception
+NO,8,3,1:04,NOR 44,3:36,47,Missed FG
+NO,9,4,5:26,SEA 42,5:05,34,Interception

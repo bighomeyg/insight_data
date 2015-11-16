@@ -1,0 +1,20 @@
+IND,1,1,15:00,CLT 25,7:31,52,Field Goal
+IND,2,1,2:39,CLT 17,6:03,46,Fumble
+IND,3,2,8:27,CLT 27,4:08,30,Punt
+IND,4,2,0:02,CLT 27,0:02,-1,End of Half
+IND,5,3,11:53,CLT 20,9:04,80,Touchdown
+IND,6,3,2:23,DEN 19,1:08,19,Touchdown
+IND,7,4,14:52,CLT 17,4:01,20,Punt
+IND,8,4,9:29,CLT 23,4:33,29,Interception
+IND,9,4,1:40,CLT 20,1:37,44,Field Goal
+IND,10,5,15:00,CLT 32,5:38,35,Field Goal
+DEN,1,1,7:29,DEN 29,4:50,33,Interception
+DEN,2,2,11:36,DEN 39,3:09,61,Touchdown
+DEN,3,2,4:19,DEN 4,3:45,21,Punt
+DEN,4,2,0:34,CLT 29,0:32,2,Downs
+DEN,5,3,15:00,DEN 33,3:07,67,Touchdown
+DEN,6,3,2:49,CLT 41,0:26,0,Interception
+DEN,7,3,1:15,DEN 44,1:23,5,Punt
+DEN,8,4,10:51,CLT 20,1:22,20,Touchdown
+DEN,9,4,4:56,DEN 18,3:16,42,Punt
+DEN,10,4,0:03,None,0:03,0,End of Half

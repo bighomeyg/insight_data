@@ -1,0 +1,17 @@
+STL,1,1,8:56,RAM 20,5:49,80,Touchdown
+STL,2,2,11:14,RAM 2,2:41,20,Punt
+STL,3,2,6:54,RAM 28,1:32,8,Punt
+STL,4,2,3:19,TAM 28,2:40,10,Field Goal
+STL,5,3,15:00,RAM 20,2:29,37,Fumble
+STL,6,3,9:18,RAM 15,6:37,68,Field Goal
+STL,7,4,14:50,RAM 24,5:40,49,Field Goal
+STL,8,4,5:15,RAM 9,4:37,71,Field Goal
+TB,1,1,15:00,TAM 23,6:04,77,Touchdown
+TB,2,1,3:07,TAM 20,6:53,71,Interception
+TB,3,2,8:33,TAM 15,1:39,2,Punt
+TB,4,2,5:22,TAM 19,2:03,6,Blocked Punt, Downs
+TB,5,2,0:39,TAM 20,0:39,20,End of Half
+TB,6,3,12:31,TAM 40,3:13,60,Touchdown
+TB,7,3,2:41,RAM 30,2:51,24,Blocked FG
+TB,8,4,9:10,TAM 18,3:55,64,Field Goal
+TB,9,4,0:38,TAM 20,0:38,48,End of Game

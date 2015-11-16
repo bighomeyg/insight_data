@@ -1,0 +1,27 @@
+TEN,1,None,15:00,OTI 29,3:35,71,Touchdown
+TEN,2,None,9:16,OTI 18,0:33,-3,Fumble
+TEN,3,None,6:17,OTI 20,2:00,17,Punt
+TEN,4,None,2:35,OTI 24,1:52,4,Punt
+TEN,5,None,14:05,OTI 12,1:03,8,Punt
+TEN,6,None,11:06,OTI 38,3:19,30,Downs
+TEN,7,None,4:03,OTI 27,4:03,55,Field Goal
+TEN,8,None,12:31,OTI 30,0:11,70,Touchdown
+TEN,9,None,7:55,OTI 12,2:20,9,Punt
+TEN,10,None,1:08,OTI 29,1:15,9,Punt
+TEN,11,None,9:11,OTI 35,2:50,29,Punt
+TEN,12,None,3:44,PHI 49,0:29,5,Punt
+TEN,13,None,0:08, 50,0:08,-1,End of Game
+PHI,1,None,11:25,PHI 17,2:09,15,Punt
+PHI,2,None,8:43,OTI 12,2:26,11,Interception
+PHI,3,None,4:17,PHI 29,1:42,47,Field Goal
+PHI,4,None,0:43,PHI 39,1:38,19,Punt
+PHI,5,None,13:02,PHI 24,1:56,0,Punt
+PHI,6,None,7:47,PHI 32,3:44,48,Field Goal
+PHI,7,None,15:00,PHI 47,2:29,12,Punt
+PHI,8,None,12:20,PHI 40,3:25,10,Punt
+PHI,9,None,8:55,PHI 30,1:00,3,Punt
+PHI,10,None,5:35,PHI 49,4:27,22,Downs
+PHI,11,None,14:53,PHI 20,5:42,80,Touchdown
+PHI,12,None,6:21,PHI 2,2:37,47,Downs
+PHI,13,None,3:15,PHI 10,2:55,31,Fumble
+PHI,14,None,0:20,None,0:12,0,Fumble

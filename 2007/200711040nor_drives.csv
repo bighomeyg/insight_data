@@ -1,0 +1,26 @@
+JAC,1,1,8:33,JAX 20,1:01,80,Touchdown
+JAC,2,1,6:17,JAX 10,4:16,78,Field Goal
+JAC,3,1,0:12,None,0:12,0,Touchdown
+JAC,4,2,11:34,JAX 31,1:45,19,Punt
+JAC,5,2,5:31,JAX 20,1:57,16,Punt
+JAC,6,2,2:29,JAX 20,0:46,6,Punt
+JAC,7,2,0:50,JAX 33,0:08,0,Interception
+JAC,8,2,0:03,JAX 42,0:03,-1,End of Half
+JAC,9,3,15:00,JAX 21,6:13,45,Interception
+JAC,10,3,8:47,JAX 19,1:51,9,Punt
+JAC,11,3,2:02,JAX 20,3:23,13,Punt
+JAC,12,4,11:09,JAX 14,1:37,86,Touchdown
+JAC,13,4,3:01,JAX 17,2:54,61,Interception
+NO,1,1,15:00,NOR 32,2:45,40,Field Goal
+NO,2,1,12:15,NOR 43,3:42,57,Touchdown
+NO,3,1,7:32,NOR 32,1:15,19,Punt
+NO,4,1,2:01,NOR 21,1:49,79,Touchdown
+NO,5,2,15:00,NOR 24,3:26,45,Fumble
+NO,6,2,9:49,NOR 25,4:18,75,Touchdown
+NO,7,2,3:34,NOR 27,1:05,4,Punt
+NO,8,2,1:43,NOR 35,0:53,41,Missed FG
+NO,9,2,0:42,NOR 24,0:39,42,Missed FG
+NO,10,3,6:56,NOR 33,4:54,67,Touchdown
+NO,11,4,13:39,NOR 27,2:30,14,Punt
+NO,12,4,9:32,NOR 30,6:31,54,Field Goal
+NO,13,4,0:07,NOR 14,0:07,-1,End of Game

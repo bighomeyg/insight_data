@@ -1,0 +1,23 @@
+BAL,1,1,12:48,RAV 48,1:08,7,Punt
+BAL,2,1,9:18,RAV 32,4:29,68,Touchdown
+BAL,3,1,0:44,RAV 22,4:54,78,Touchdown
+BAL,4,2,8:04,RAV 14,1:30,6,Punt
+BAL,5,2,3:00,RAV 25,1:22,75,Touchdown
+BAL,6,2,0:08,RAV 43,0:08,-1,End of Half
+BAL,7,3,15:00,RAV 42,2:47,16,Punt
+BAL,8,3,10:06,SDG 22,1:42,22,Touchdown
+BAL,9,3,2:26,RAV 20,6:11,50,Interception
+BAL,10,4,7:11,RAV 28,2:26,24,Punt
+BAL,11,4,4:28,SDG 13,1:34,-2,Field Goal
+BAL,12,4,0:30,RAV 20,0:30,-1,End of Game
+SD,1,1,15:00,SDG 20,2:12,-2,Punt
+SD,2,1,11:40,SDG 1,2:22,99,Touchdown
+SD,3,1,4:49,SDG 33,4:05,56,Field Goal
+SD,4,2,10:50,SDG 34,2:46,11,Punt
+SD,5,2,6:34,SDG 38,3:34,58,Field Goal
+SD,6,2,1:38,RAV 42,1:30,37,Field Goal
+SD,7,3,12:13,SDG 3,2:07,21,Interception
+SD,8,3,8:24,SDG 40,5:58,60,Touchdown
+SD,9,4,11:15,SDG 44,4:04,49,Field Goal
+SD,10,4,4:45,SDG 7,0:17,0,Interception
+SD,11,4,2:54,SDG 27,2:24,53,Downs

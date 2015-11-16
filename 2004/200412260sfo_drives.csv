@@ -1,0 +1,23 @@
+BUF,1,1,11:45,BUF 7,6:04,49,Punt
+BUF,2,1,0:49,BUF 20,4:30,80,Touchdown
+BUF,3,2,10:14,BUF 47,3:27,47,Field Goal
+BUF,4,2,3:44,SFO 40,3:19,40,Touchdown
+BUF,5,3,15:00,BUF 48,2:58,39,Field Goal
+BUF,6,3,11:14,SFO 45,1:36,7,Downs
+BUF,7,3,8:08, 50,3:48,50,Touchdown
+BUF,8,3,3:15,SFO 37,0:06,3,Fumble
+BUF,9,3,1:06,BUF 48,2:40,52,Touchdown
+BUF,10,4,13:14,SFO 22,0:35,22,Touchdown
+BUF,11,4,6:19,BUF 44,5:54,27,Downs
+SF,1,1,15:00,SFO 25,3:15,16,Punt
+SF,2,1,5:41,SFO 8,4:52,45,Punt
+SF,3,2,11:19,SFO 23,1:05,4,Punt
+SF,4,2,6:47,SFO 35,3:03,5,Fumble
+SF,5,2,0:25,SFO 20,0:25,8,End of Half
+SF,6,3,12:02,SFO 31,0:48,5,Interception
+SF,7,3,9:38,SFO 38,1:30,7,Punt
+SF,8,3,4:20,SFO 13,1:05,19,Interception
+SF,9,3,3:09,SFO 34,2:03,-12,Punt
+SF,10,4,13:26,SFO 17,0:12,0,Interception
+SF,11,4,12:39,SFO 27,6:20,73,Touchdown
+SF,12,4,0:25,SFO 29,0:25,4,End of Game

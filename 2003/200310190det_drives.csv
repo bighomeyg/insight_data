@@ -1,0 +1,26 @@
+DAL,1,None,13:20,DAL 27,3:14,19,Punt
+DAL,2,None,8:38,DET 36,0:15,3,Fumble
+DAL,3,None,8:23,DAL 22,3:25,78,Touchdown
+DAL,4,None,14:49,DAL 17,3:18,83,Touchdown
+DAL,5,None,10:27,DET 8,0:06,8,Touchdown
+DAL,6,None,8:45,DAL 27,3:42,29,Punt
+DAL,7,None,1:35,DAL 42,1:29,28,Downs
+DAL,8,None,15:00,DAL 19,7:27,81,Touchdown
+DAL,9,None,6:32,DAL 36,6:35,59,Field Goal
+DAL,10,None,13:54,DAL 28,1:49,-2,Punt
+DAL,11,None,11:51,DAL 46,2:20,5,Punt
+DAL,12,None,4:39,DAL 8,2:20,9,Punt
+DAL,13,None,1:21,DAL 20,1:21,-3,End of Game
+DET,1,None,15:00,DET 30,1:40,9,Punt
+DET,2,None,10:06,DET 9,1:28,-5,Punt
+DET,3,None,4:58,DET 24,5:09,22,Punt
+DET,4,None,11:31,DET 22,1:04,5,Interception
+DET,5,None,10:21,DET 23,1:36,7,Punt
+DET,6,None,5:03,DET 13,0:43,6,Interception
+DET,7,None,4:20,DET 23,2:45,8,Punt
+DET,8,None,0:06,DET 30,0:06,-1,End of Half
+DET,9,None,7:33,DET 28,1:01,2,Punt
+DET,10,None,14:57,DET 27,1:03,5,Punt
+DET,11,None,12:05,DET 42,0:14,12,Fumble
+DET,12,None,9:31,DET 20,4:52,72,Downs
+DET,13,None,2:19,DET 37,0:58,40,Interception

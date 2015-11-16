@@ -1,0 +1,20 @@
+BAL,1,1,10:51,RAV 4,1:38,6,Punt
+BAL,2,1,7:01,RAV 11,8:26,80,Field Goal
+BAL,3,2,13:17,CLE 20,1:30,20,Touchdown
+BAL,4,2,8:02, 50,3:56,28,Field Goal
+BAL,5,2,0:03,RAV 20,0:03,-1,End of Half
+BAL,6,3,15:00,CLE 38,1:30,38,Touchdown
+BAL,7,3,11:39,RAV 16,2:07,9,Punt
+BAL,8,3,5:11,RAV 24,0:47,4,Interception
+BAL,9,3,2:04,RAV 15,7:28,39,Punt
+BAL,10,4,4:35,RAV 29,4:21,35,Downs
+CLE,1,1,15:00,CLE 35,4:09,32,Interception
+CLE,2,1,9:13,RAV 40,2:12,40,Touchdown
+CLE,3,2,13:35,CLE 26,0:18,3,Fumble
+CLE,4,2,11:47,CLE 32,3:45,17,Interception
+CLE,5,2,4:06,CLE 37,4:03,50,Field Goal
+CLE,6,3,13:30,CLE 33,1:51,15,Punt
+CLE,7,3,9:32,CLE 25,4:21,-1,Punt
+CLE,8,3,4:24,CLE 41,2:20,17,Punt
+CLE,9,4,9:36,CLE 6,5:01,67,Interception
+CLE,10,4,0:14,CLE 36,0:14,20,End of Game

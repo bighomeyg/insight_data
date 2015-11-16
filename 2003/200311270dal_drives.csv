@@ -1,0 +1,27 @@
+MIA,1,None,15:00,MIA 33,4:36,67,Touchdown
+MIA,2,None,10:18,DAL 30,0:06,2,Fumble
+MIA,3,None,8:15,MIA 45,1:35,8,Punt
+MIA,4,None,4:50,MIA 34,5:26,51,Field Goal
+MIA,5,None,10:19,MIA 28,2:15,72,Touchdown
+MIA,6,None,2:44,MIA 25,2:34,75,Touchdown
+MIA,7,None,11:59,MIA 36,1:57,14,Punt
+MIA,8,None,8:30,DAL 40,0:48,40,Touchdown
+MIA,9,None,6:30,MIA 35,2:22,4,Punt
+MIA,10,None,1:48, 50,2:51,26,Field Goal
+MIA,11,None,12:22,MIA 26,7:23,36,Punt
+MIA,12,None,2:50,DAL 25,1:34,-4,Downs
+MIA,13,None,0:20,MIA 4,0:20,-1,End of Game
+DAL,1,None,10:24,None,0:06,0,Fumble
+DAL,2,None,10:12,DAL 28,1:57,1,Punt
+DAL,3,None,6:40,DAL 20,1:50,9,Punt
+DAL,4,None,14:24,DAL 34,4:05,66,Touchdown
+DAL,5,None,8:04,DAL 20,5:20,80,Touchdown
+DAL,6,None,0:10,DAL 43,0:10,13,End of Half
+DAL,7,None,15:00,DAL 29,1:43,5,Fumble
+DAL,8,None,13:17,DAL 20,1:18,2,Punt
+DAL,9,None,10:02,DAL 12,1:32,-1,Punt
+DAL,10,None,7:42,DAL 29,1:12,3,Punt
+DAL,11,None,4:08,DAL 14,2:20,20,Interception
+DAL,12,None,13:57,DAL 27,1:35,73,Touchdown
+DAL,13,None,4:59,DAL 20,2:09,47,Interception
+DAL,14,None,1:16,DAL 29,0:56,70,Interception

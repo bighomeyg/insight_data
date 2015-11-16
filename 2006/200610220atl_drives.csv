@@ -1,0 +1,28 @@
+PIT,1,None,13:12,PIT 42,4:26,48,Field Goal
+PIT,2,None,7:45,PIT 34,5:23,66,Touchdown
+PIT,3,None,0:38,PIT 12,5:42,88,Touchdown
+PIT,4,None,7:39,PIT 23,0:03,0,Fumble
+PIT,5,None,2:04,PIT 20,1:06,80,Touchdown
+PIT,6,None,0:47,PIT 23,0:47,-2,End of Half
+PIT,7,None,15:00,PIT 40,2:07,-10,Punt
+PIT,8,None,10:44,PIT 20,3:15,6,Fumble
+PIT,9,None,5:44,PIT 20,1:33,80,Touchdown
+PIT,10,None,1:10,PIT 22,1:02,3,Punt
+PIT,11,None,12:33,PIT 21,1:59,17,Punt
+PIT,12,None,6:24,PIT 21,3:05,79,Touchdown
+PIT,13,None,0:25,PIT 42,0:25,20,End of Half
+ATL,1,None,15:00,ATL 27,1:41,-4,Punt
+ATL,2,None,13:19,PIT 22,0:07,22,Touchdown
+ATL,3,None,8:46,ATL 46,1:01,4,Interception
+ATL,4,None,2:22,ATL 30,1:44,7,Punt
+ATL,5,None,9:56,ATL 25,2:17,9,Punt
+ATL,6,None,7:36,PIT 25,2:50,25,Touchdown
+ATL,7,None,4:46,ATL 49,2:42,51,Touchdown
+ATL,8,None,0:58,PIT 28,0:11,0,Interception
+ATL,9,None,12:53,ATL 34,2:09,7,Punt
+ATL,10,None,7:29,PIT 26,1:45,26,Touchdown
+ATL,11,None,4:11,ATL 25,3:01,75,Touchdown
+ATL,12,None,0:08,ATL 40,2:35,-1,Punt
+ATL,13,None,10:34,ATL 29,4:10,64,Field Goal
+ATL,14,None,3:19,ATL 18,2:54,49,Missed FG
+ATL,15,None,15:00,ATL 21,6:56,65,Field Goal

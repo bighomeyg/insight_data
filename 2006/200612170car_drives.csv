@@ -1,0 +1,22 @@
+PIT,1,None,15:00,PIT 28,1:23,-6,Punt
+PIT,2,None,12:04,PIT 19,1:57,0,Punt
+PIT,3,None,6:57,PIT 40,1:37,5,Punt
+PIT,4,None,3:08,PIT 37,3:13,63,Touchdown
+PIT,5,None,10:12,PIT 15,5:47,84,Field Goal
+PIT,6,None,2:55,CAR 10,1:01,10,Touchdown
+PIT,7,None,0:04,PIT 20,0:04,-1,End of Half
+PIT,8,None,12:29,PIT 10,7:49,63,Field Goal
+PIT,9,None,4:09,PIT 33,3:56,67,Touchdown
+PIT,10,None,13:21,CAR 40,9:20,32,Field Goal
+PIT,11,None,1:06,PIT 20,1:06,-1,End of Game
+CAR,1,None,13:37,CAR 36,1:33,8,Punt
+CAR,2,None,10:07,CAR 41,3:10,27,Missed FG
+CAR,3,None,5:20,CAR 16,2:12,6,Punt
+CAR,4,None,14:55,CAR 20,4:43,27,Punt
+CAR,5,None,4:25,CAR 27,1:30,-7,Blocked Punt
+CAR,6,None,1:54,CAR 29,1:50,52,Field Goal
+CAR,7,None,15:00,CAR 13,2:31,33,Punt
+CAR,8,None,4:40,CAR 17,0:31,8,Punt
+CAR,9,None,0:13,CAR 19,0:46,-6,Punt
+CAR,10,None,14:27,CAR 32,1:06,12,Interception
+CAR,11,None,4:01,CAR 33,2:55,60,Interception

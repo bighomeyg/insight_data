@@ -1,0 +1,25 @@
+KC,1,1,13:32,KAN 31,4:00,52,Field Goal
+KC,2,1,8:24,KAN 28,4:04,72,Touchdown
+KC,3,1,4:05,KAN 21,1:51,9,Punt
+KC,4,1,0:23,KAN 3,1:58,37,Punt
+KC,5,2,11:42,KAN 29,1:28,71,Touchdown
+KC,6,2,8:33,HTX 43,2:10,43,Touchdown
+KC,7,2,1:45,KAN 44,1:06,16,Punt
+KC,8,3,15:00,KAN 19,3:27,24,Interception
+KC,9,3,8:54,KAN 34,3:28,13,Punt
+KC,10,3,0:42,KAN 49,7:04,51,Touchdown
+KC,11,4,7:43,HTX 33,3:08,33,Touchdown
+KC,12,4,3:14,HTX 47,3:14,18,End of Game
+HOU,1,1,15:00,HTX 26,1:28,6,Punt
+HOU,2,1,9:32,HTX 32,1:08,7,Punt
+HOU,3,1,4:20,None,0:15,0,Touchdown
+HOU,4,1,2:14,KAN 35,1:51,-6,Punt
+HOU,5,2,13:25,HTX 12,1:43,11,Punt
+HOU,6,2,10:14,HTX 30,1:41,13,Fumble
+HOU,7,2,6:23,HTX 21,4:38,35,Fumble
+HOU,8,2,0:39,HTX 20,0:36,27,Interception
+HOU,9,2,0:03,None,0:03,0,End of Half
+HOU,10,3,11:33,KAN 37,2:39,37,Touchdown
+HOU,11,3,5:26,HTX 24,4:44,72,Field Goal
+HOU,12,4,8:38,HTX 26,0:55,7,Downs
+HOU,13,4,4:35,HTX 29,1:21,19,Downs

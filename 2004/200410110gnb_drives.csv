@@ -1,0 +1,28 @@
+TEN,1,1,15:00,OTI 34,1:29,66,Touchdown
+TEN,2,1,11:49,OTI 37,2:04,63,Touchdown
+TEN,3,1,9:00,GNB 34,2:55,16,Field Goal
+TEN,4,1,4:48,OTI 15,2:23,7,Punt
+TEN,5,1,1:13,OTI 20,6:46,80,Touchdown
+TEN,6,2,6:27,OTI 36,4:41,44,Field Goal
+TEN,7,2,1:29,GNB 28,0:24,4,Missed FG
+TEN,8,2,0:02,None,0:02,0,End of Half
+TEN,9,3,12:30,GNB 45,1:38,2,Punt
+TEN,10,3,10:47,GNB 34,2:47,34,Touchdown
+TEN,11,3,5:05,OTI 4,5:18,35,Punt
+TEN,12,4,14:47,GNB 23,1:05,23,Touchdown
+TEN,13,4,13:00,GNB 42,2:17,2,Punt
+TEN,14,4,5:44,GNB 40,3:10,40,Touchdown
+TEN,15,4,1:01,OTI 41,1:01,-2,End of Game
+GB,1,1,13:31,GNB 21,1:42,3,Punt
+GB,2,1,9:45,GNB 32,0:45,2,Fumble
+GB,3,1,6:05,OTI 42,1:17,5,Punt
+GB,4,1,2:25,GNB 30,1:12,49,Field Goal
+GB,5,2,9:27,GNB 30,3:00,70,Touchdown
+GB,6,2,1:46,GNB 19,0:17,0,Interception
+GB,7,2,1:05,GNB 33,1:03,32,Field Goal
+GB,8,3,15:00,GNB 32,2:30,16,Interception
+GB,9,3,10:52,GNB 16,0:05,0,Interception
+GB,10,3,8:00,GNB 23,2:55,73,Downs
+GB,11,4,13:42,GNB 30,0:42,40,Fumble
+GB,12,4,10:43,GNB 2,4:59,98,Touchdown
+GB,13,4,2:34,GNB 36,1:33,64,Touchdown

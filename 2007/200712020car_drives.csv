@@ -1,0 +1,28 @@
+SF,1,None,15:00,SFO 32,1:53,-2,Punt
+SF,2,None,10:05,SFO 20,3:21,33,Fumble
+SF,3,None,1:29,SFO 32,1:29,5,Punt
+SF,4,None,10:03,SFO 46,3:31,21,Interception
+SF,5,None,6:32,SFO 26,1:44,-5,Punt
+SF,6,None,2:40,SFO 21,1:14,18,Interception
+SF,7,None,0:19,SFO 2,0:19,-1,End of Half
+SF,8,None,13:30,CAR 38,2:11,38,Touchdown
+SF,9,None,9:46,CAR 35,1:17,35,Touchdown
+SF,10,None,4:52, 50,0:42,3,Punt
+SF,11,None,10:26,SFO 17,1:55,38,Interception
+SF,12,None,5:57,SFO 28,1:19,-6,Punt
+SF,13,None,3:35,SFO 40,0:08,-5,Interception
+SF,14,None,1:48,SFO 20,0:35,-3,Downs
+CAR,1,None,13:07,CAR 17,3:02,36,Punt
+CAR,2,None,6:44,CAR 47,5:15,51,Field Goal
+CAR,3,None,15:00,CAR 20,4:57,80,Touchdown
+CAR,4,None,4:48,CAR 34,2:08,4,Punt
+CAR,5,None,1:26, 50,1:07,12,Interception
+CAR,6,None,15:00,CAR 29,1:30,2,Interception
+CAR,7,None,11:19,CAR 20,1:33,2,Punt
+CAR,8,None,8:29,CAR 23,1:33,7,Punt
+CAR,9,None,6:56,SFO 11,2:04,11,Touchdown
+CAR,10,None,4:10,CAR 17,8:44,83,Touchdown
+CAR,11,None,8:31,CAR 16,2:34,23,Punt
+CAR,12,None,4:38,CAR 18,1:03,7,Punt
+CAR,13,None,3:27,SFO 45,1:39,7,Punt
+CAR,14,None,1:13,SFO 17,1:13,-2,End of Game

@@ -1,0 +1,23 @@
+DET,1,1,12:40,DET 29,5:41,54,Interception
+DET,2,1,3:29,DET 37,4:15,63,Touchdown
+DET,3,2,12:44,DET 11,1:05,13,Fumble
+DET,4,2,10:05,DET 27,1:45,9,Punt
+DET,5,2,6:48,DET 20,6:40,80,Touchdown
+DET,6,2,0:02,GNB 37,0:02,0,Missed FG
+DET,7,3,15:00,DET 27,0:26,11,Interception
+DET,8,3,14:34,DET 31,5:08,48,Field Goal
+DET,9,3,6:04,DET 7,4:21,59,Field Goal
+DET,10,3,0:08,DET 43,1:33,27,Field Goal
+DET,11,4,13:30,GNB 18,1:39,12,Field Goal
+DET,12,4,11:34,DET 29,5:02,34,Punt
+GB,1,1,15:00,GNB 45,2:20,55,Touchdown
+GB,2,1,6:59,GNB 22,3:30,20,Punt
+GB,3,2,14:14,GNB 28,1:30,9,Punt
+GB,4,2,11:39,DET 12,1:34,12,Touchdown
+GB,5,2,8:20,GNB 32,1:32,68,Touchdown
+GB,6,2,0:08,None,0:06,0,Fumble
+GB,7,3,9:26,GNB 28,3:22,49,Interception
+GB,8,3,1:43,GNB 27,1:35,-5,Punt
+GB,9,4,13:35,None,0:05,0,Fumble
+GB,10,4,11:51,GNB 22,0:17,0,Interception
+GB,11,4,6:32,GNB 13,6:32,73,End of Game

@@ -1,0 +1,28 @@
+CAR,1,None,13:27,CAR 17,0:46,3,Interception
+CAR,2,None,11:25,CAR 5,1:28,2,Punt
+CAR,3,None,7:53,CAR 11,4:23,65,Field Goal
+CAR,4,None,14:02,CAR 27,2:05,6,Punt
+CAR,5,None,10:06,CAR 10,1:04,0,Punt
+CAR,6,None,4:35,CAR 35,2:52,14,Punt
+CAR,7,None,0:13,WAS 44,0:13,11,Field Goal
+CAR,8,None,15:00,CAR 35,1:41,9,Punt
+CAR,9,None,10:43,CAR 20,2:00,2,Punt
+CAR,10,None,6:21,CAR 20,2:17,5,Punt
+CAR,11,None,0:02,CAR 26,7:07,74,Touchdown
+CAR,12,None,7:39,CAR 27,1:48,3,Punt
+CAR,13,None,4:26,CAR 36,2:17,35,Downs
+CAR,14,None,1:40,CAR 29,0:45,30,Interception
+WAS,1,None,15:00,WAS 31,1:33,9,Punt
+WAS,2,None,12:41,WAS 45,1:16,7,Punt
+WAS,3,None,9:57,CAR 44,2:04,-4,Punt
+WAS,4,None,3:30,WAS 40,4:28,41,Missed FG
+WAS,5,None,11:57,WAS 24,1:51,9,Punt
+WAS,6,None,9:02,WAS 45,4:27,31,Field Goal
+WAS,7,None,1:43,WAS 20,1:30,22,Punt
+WAS,8,None,13:19,WAS 38,2:36,22,Punt
+WAS,9,None,8:43,WAS 41,2:22,5,Punt
+WAS,10,None,4:04,CAR 36,4:02,36,Touchdown
+WAS,11,None,7:55,WAS 26,0:16,0,Interception
+WAS,12,None,5:51,WAS 20,1:25,80,Touchdown
+WAS,13,None,2:09,WAS 30,0:29,-7,Punt
+WAS,14,None,0:55,WAS 15,0:55,-3,End of Game

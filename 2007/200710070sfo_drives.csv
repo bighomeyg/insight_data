@@ -1,0 +1,22 @@
+BAL,1,None,15:00,RAV 20,1:36,3,Punt
+BAL,2,None,12:07,RAV 1,3:18,30,Punt
+BAL,3,None,6:57,RAV 25,3:27,26,Punt
+BAL,4,None,1:27,RAV 2,2:20,39,Punt
+BAL,5,None,10:55,RAV 28,8:11,64,Field Goal
+BAL,6,None,1:47,RAV 29,1:40,58,Field Goal
+BAL,7,None,11:26,SFO 42,3:14,11,Field Goal
+BAL,8,None,6:14,RAV 20,1:37,5,Punt
+BAL,9,None,3:21,RAV 38,1:34,5,Punt
+BAL,10,None,14:48,RAV 17,8:26,43,Punt
+BAL,11,None,2:37,RAV 42,2:37,33,End of Game
+SF,1,None,13:24,SFO 47,1:17,7,Punt
+SF,2,None,8:49,SFO 34,1:52,2,Punt
+SF,3,None,3:30,SFO 18,2:03,6,Punt
+SF,4,None,14:07,SFO 6,3:12,15,Punt
+SF,5,None,2:44,SFO 32,0:57,3,Punt
+SF,6,None,0:07,None,0:07,0,End of Half
+SF,7,None,15:00,SFO 29,3:34,14,Interception
+SF,8,None,8:12,SFO 31,1:58,69,Touchdown
+SF,9,None,4:37,SFO 34,1:16,-4,Punt
+SF,10,None,1:47,SFO 19,1:59,0,Punt
+SF,11,None,6:22,SFO 20,3:45,46,Missed FG

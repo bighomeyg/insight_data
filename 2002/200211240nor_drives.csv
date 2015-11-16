@@ -1,0 +1,22 @@
+CLE,1,1,15:00,CLE 29,1:43,8,Interception
+CLE,2,1,11:09,CLE 20,0:57,5,Punt
+CLE,3,1,8:47,CLE 15,5:17,85,Touchdown
+CLE,4,2,14:06,CLE 21,2:11,30,Punt
+CLE,5,2,7:21,CLE 16,3:16,12,Punt
+CLE,6,2,4:05,NOR 36,0:15,36,Touchdown
+CLE,7,2,1:45,CLE 1,1:45,1,End of Half
+CLE,8,3,8:18,CLE 21,3:34,79,Touchdown
+CLE,9,3,0:13,CLE 20,3:18,19,Interception
+CLE,10,4,10:14,CLE 21,6:49,68,Field Goal
+CLE,11,4,2:41,CLE 47,1:51,4,Punt
+CLE,12,4,0:15,NOR 21,0:15,-1,End of Game
+NO,1,1,13:17,CLE 37,2:08,22,Field Goal
+NO,2,1,10:12,NOR 33,1:25,-3,Punt
+NO,3,1,3:30,NOR 47,4:24,45,Field Goal
+NO,4,2,11:55,NOR 16,4:34,69,Fumble
+NO,5,2,3:50,NOR 25,2:05,73,Interception
+NO,6,3,15:00,NOR 20,6:42,80,Touchdown
+NO,7,3,4:44,NOR 27,4:31,58,Interception
+NO,8,4,11:55,CLE 40,1:41,9,Field Goal
+NO,9,4,3:25,NOR 30,0:44,12,Interception
+NO,10,4,0:50,NOR 15,0:35,19,Fumble

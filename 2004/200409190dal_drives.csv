@@ -1,0 +1,24 @@
+CLE,1,None,15:00,CLE 35,2:15,9,Punt
+CLE,2,None,7:49,CLE 40,1:01,-4,Punt
+CLE,3,None,3:31,CLE 45,3:35,27,Field Goal
+CLE,4,None,12:12,CLE 34,4:55,61,Field Goal
+CLE,5,None,1:43,CLE 25,1:43,43,Field Goal
+CLE,6,None,10:03,CLE 39,3:40,35,Interception
+CLE,7,None,3:18,CLE 9,0:43,-3,Punt
+CLE,8,None,0:31,DAL 22,1:06,17,Field Goal
+CLE,9,None,11:12,CLE 39,0:59,-2,Interception
+CLE,10,None,7:42,CLE 27,2:11,25,Interception
+CLE,11,None,3:45,CLE 10,1:35,14,Punt
+CLE,12,None,0:09,CLE 1,0:01,-1,Safety
+CLE,13,None,0:08,CLE 38,0:08,5,End of Game
+DAL,1,None,12:45,DAL 10,4:56,90,Touchdown
+DAL,2,None,6:48,DAL 20,3:17,40,Fumble
+DAL,3,None,14:56,DAL 16,2:44,8,Punt
+DAL,4,None,7:17,DAL 16,5:34,72,Field Goal
+DAL,5,None,15:00,DAL 24,4:57,45,Missed FG
+DAL,6,None,6:23,DAL 46,3:05,54,Touchdown
+DAL,7,None,2:35,CLE 38,2:04,1,Interception
+DAL,8,None,14:25,DAL 20,3:13,37,Interception
+DAL,9,None,10:13,CLE 43,2:31,13,Interception
+DAL,10,None,5:31,CLE 38,1:46,-7,Punt
+DAL,11,None,2:10,DAL 25,2:01,43,Punt

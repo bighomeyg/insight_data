@@ -1,0 +1,20 @@
+SEA,1,1,15:00,SEA 8,4:07,46,Punt
+SEA,2,1,2:52,SEA 40,1:25,60,Touchdown
+SEA,3,2,12:05,SEA 22,2:17,-4,Punt
+SEA,4,1,4:40,None,0:06,0,Fumble
+SEA,5,2,1:04,SEA 31,0:52,69,Touchdown
+SEA,6,3,11:32,SEA 20,2:07,-5,Punt
+SEA,7,3,3:01,SEA 30,2:58,70,Touchdown
+SEA,8,4,10:16,SEA 14,2:19,22,Punt
+SEA,9,4,3:04,SEA 11,1:18,-6,Downs
+SEA,10,4,0:16,SEA 31,0:16,14,End of Game
+SD,1,1,10:53,SDG 20,8:01,48,Field Goal
+SD,2,1,1:27,SDG 20,4:22,80,Touchdown
+SD,3,2,9:48,SDG 45,5:08,31,Field Goal
+SD,4,2,4:34,SEA 28,3:30,28,Touchdown
+SD,5,2,0:12,SDG 30,0:12,-2,End of Half
+SD,6,3,15:00,SDG 20,3:28,27,Punt
+SD,7,3,9:25,SDG 25,6:24,75,Touchdown
+SD,8,3,0:03,SDG 20,4:47,31,Punt
+SD,9,4,7:57,SDG 20,4:53,33,Punt
+SD,10,4,1:46,SEA 5,1:30,-5,Field Goal

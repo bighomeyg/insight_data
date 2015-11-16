@@ -1,0 +1,16 @@
+IND,1,1,15:00,CLT 38,5:55,60,Interception
+IND,2,1,0:53,CLT 15,5:01,44,Punt
+IND,3,2,6:01,CLT 4,3:23,15,Punt
+IND,4,2,1:53,CLE 44,0:11,0,Interception
+IND,5,2,0:29,CLE 10,0:29,6,Field Goal
+IND,6,3,9:45,CLT 20,6:02,52,Field Goal
+IND,7,4,8:44,CLT 25,3:42,13,Punt
+IND,8,4,2:39,CLT 8,2:38,65,Field Goal
+CLE,1,1,9:05,CLE 23,8:12,76,Field Goal
+CLE,2,2,10:52,CLE 7,4:51,51,Punt
+CLE,3,2,2:38,CLE 33,0:45,-3,Interception
+CLE,4,2,1:42,CLE 37,1:13,3,Interception
+CLE,5,3,15:00,CLE 25,5:15,35,Punt
+CLE,6,3,3:43,CLE 12,9:59,86,Field Goal
+CLE,7,4,5:02,CLE 27,2:23,18,Punt
+CLE,8,4,0:01,None,0:01,0,End of Game

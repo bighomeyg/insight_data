@@ -1,0 +1,21 @@
+DAL,1,1,15:00,DAL 30,2:01,9,Punt
+DAL,2,1,5:29,DAL 18,2:54,17,Interception
+DAL,3,2,14:15,DAL 32,1:57,3,Punt
+DAL,4,2,8:26,DAL 39,1:17,6,Punt
+DAL,5,2,2:13,None,0:09,0,Fumble
+DAL,6,2,2:04,DAL 40,1:48,60,Touchdown
+DAL,7,3,13:26,DAL 11,1:35,-3,Punt
+DAL,8,3,8:38,DAL 35,1:17,10,Punt
+DAL,9,4,13:08,DAL 23,2:01,47,Interception
+DAL,10,4,11:07,DAL 35,2:26,1,Punt
+DAL,11,4,4:39,DAL 12,4:39,65,End of Game
+GB,1,1,12:59,GNB 18,7:30,46,Blocked FG
+GB,2,1,2:35,GNB 37,3:20,63,Touchdown
+GB,3,2,12:18,GNB 20,3:52,80,Touchdown
+GB,4,2,7:09,GNB 7,4:56,93,Touchdown
+GB,5,2,0:16,GNB 34,0:16,-1,End of Half
+GB,6,3,15:00,GNB 43,1:34,6,Punt
+GB,7,3,11:51,GNB 37,3:13,63,Touchdown
+GB,8,3,7:21,GNB 12,9:13,80,Field Goal
+GB,9,4,8:41,GNB 23,1:45,5,Punt
+GB,10,4,6:56,DAL 17,2:17,5,Downs

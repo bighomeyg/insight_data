@@ -1,0 +1,22 @@
+BUF,1,None,11:39,BUF 32,1:13,0,Punt
+BUF,2,None,8:22,BUF 36,5:46,49,Field Goal
+BUF,3,None,12:34,BUF 45,1:42,16,Punt
+BUF,4,None,8:24,MIA 45,1:24,-14,Punt
+BUF,5,None,0:56,BUF 7,0:56,6,End of Half
+BUF,6,None,15:00,BUF 28,4:51,72,Touchdown
+BUF,7,None,8:41,BUF 44,4:47,29,Field Goal
+BUF,8,None,1:52,MIA 17,1:04,-8,Field Goal
+BUF,9,None,13:16,BUF 10,2:26,8,Punt
+BUF,10,None,9:49,BUF 29,5:02,36,Punt
+BUF,11,None,1:54,MIA 46,1:48,2,Punt
+MIA,1,None,15:00,MIA 23,3:21,-11,Punt
+MIA,2,None,10:26,MIA 16,2:04,0,Punt
+MIA,3,None,2:36,MIA 35,5:02,28,Missed FG
+MIA,4,None,10:52,MIA 1,2:28,14,Punt
+MIA,5,None,7:00,MIA 10,6:04,76,Interception
+MIA,6,None,10:09,MIA 26,1:28,9,Punt
+MIA,7,None,3:54,MIA 31,2:02,9,Blocked Punt
+MIA,8,None,0:48,MIA 37,2:32,21,Punt
+MIA,9,None,10:50,MIA 46,1:01,1,Punt
+MIA,10,None,4:47,MIA 7,2:53,93,Touchdown
+MIA,11,None,0:06,MIA 6,0:06,22,End of Game

@@ -1,0 +1,14 @@
+PIT,1,1,15:00,PIT 29,3:05,16,Punt
+PIT,2,1,5:11,PIT 20,2:29,80,Touchdown
+PIT,3,2,14:51,PIT 20,7:09,80,Touchdown
+PIT,4,2,2:16,PIT 33,2:12,67,Touchdown
+PIT,5,3,13:48,PIT 22,7:39,67,Interception
+PIT,6,4,13:02,PIT 30,6:53,48,Field Goal
+PIT,7,4,3:16,PIT 12,3:16,22,End of Game
+CIN,1,1,11:55,CIN 18,6:44,69,Field Goal
+CIN,2,1,2:42,CIN 33,2:51,24,Punt
+CIN,3,2,7:42,CIN 48,5:26,50,Field Goal
+CIN,4,2,0:04,None,0:04,0,End of Half
+CIN,5,3,15:00,CIN 17,1:12,6,Punt
+CIN,6,3,6:09,CIN 12,8:07,88,Touchdown
+CIN,7,4,6:09,CIN 35,2:53,49,Fumble

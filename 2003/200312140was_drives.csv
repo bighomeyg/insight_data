@@ -1,0 +1,28 @@
+DAL,1,None,15:00,DAL 26,5:34,74,Touchdown
+DAL,2,None,7:21,DAL 20,1:38,9,Punt
+DAL,3,None,3:59,DAL 22,1:04,2,Punt
+DAL,4,None,2:55,WAS 41,2:28,7,Downs
+DAL,5,None,13:08,DAL 15,0:55,0,Punt
+DAL,6,None,7:26,DAL 7,2:29,17,Punt
+DAL,7,None,2:06,WAS 9,0:14,9,Touchdown
+DAL,8,None,1:16,WAS 41,1:16,9,Missed FG
+DAL,9,None,13:52,DAL 23,6:38,63,Fumble
+DAL,10,None,6:20,WAS 32,1:46,16,Field Goal
+DAL,11,None,2:55,DAL 20,1:29,7,Punt
+DAL,12,None,0:05,DAL 47,5:49,51,Field Goal
+DAL,13,None,8:08,DAL 9,2:14,4,Punt
+DAL,14,None,5:42,DAL 47,1:37,53,Touchdown
+DAL,15,None,1:48,DAL 3,1:48,-2,End of Game
+WAS,1,None,9:26,WAS 38,2:05,18,Punt
+WAS,2,None,5:43,WAS 36,1:44,9,Punt
+WAS,3,None,0:27,WAS 34,2:19,22,Punt
+WAS,4,None,12:13,WAS 42,4:47,31,Interception
+WAS,5,None,4:57,WAS 20,2:51,9,Interception
+WAS,6,None,1:52,WAS 20,0:36,20,Fumble
+WAS,7,None,15:00,WAS 27,1:08,-1,Punt
+WAS,8,None,7:14,WAS 13,0:54,1,Punt
+WAS,9,None,4:34,WAS 34,1:39,8,Punt
+WAS,10,None,1:26,WAS 34,1:21,17,Interception
+WAS,11,None,9:16,WAS 33,1:08,1,Punt
+WAS,12,None,5:54,WAS 49,0:12,0,Interception
+WAS,13,None,4:05,WAS 29,2:17,11,Punt

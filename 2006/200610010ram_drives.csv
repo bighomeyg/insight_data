@@ -1,0 +1,28 @@
+DET,1,None,12:31,DET 12,0:45,5,Fumble
+DET,2,None,8:21,DET 41,3:33,48,Field Goal
+DET,3,None,2:58,DET 13,1:05,3,Interception
+DET,4,None,1:08,DET 31,1:41,9,Punt
+DET,5,None,12:13, 50,3:24,50,Touchdown
+DET,6,None,7:21,DET 18,6:09,82,Touchdown
+DET,7,None,0:04,None,0:04,0,End of Half
+DET,8,None,15:00,DET 23,1:01,1,Punt
+DET,9,None,11:18,RAM 36,3:10,34,Field Goal
+DET,10,None,6:26,DET 35,2:03,65,Touchdown
+DET,11,None,0:44,DET 29,4:33,71,Touchdown
+DET,12,None,6:16,DET 20,1:34,5,Punt
+DET,13,None,1:56,DET 20,0:07,0,Interception
+DET,14,None,0:47,DET 37,0:45,26,Downs
+STL,1,None,15:00,RAM 30,2:29,46,Field Goal
+STL,2,None,11:46,DET 17,3:25,16,Field Goal
+STL,3,None,4:48,RAM 13,1:50,30,Punt
+STL,4,None,1:53,DET 30,0:45,30,Touchdown
+STL,5,None,14:27,RAM 15,2:14,0,Punt
+STL,6,None,8:49,RAM 21,1:28,16,Punt
+STL,7,None,1:12,RAM 20,1:08,53,Field Goal
+STL,8,None,13:59,RAM 31,2:41,69,Touchdown
+STL,9,None,8:08,RAM 8,1:42,8,Punt
+STL,10,None,4:23,RAM 20,3:39,80,Touchdown
+STL,11,None,11:11,RAM 20,4:55,51,Field Goal
+STL,12,None,4:42,RAM 44,2:46,56,Touchdown
+STL,13,None,1:49,DET 37,1:02,8,Missed FG
+STL,14,None,0:02,RAM 37,0:02,-1,End of Game

@@ -1,0 +1,27 @@
+SD,1,1,15:00,SDG 17,1:06,-2,Punt
+SD,2,1,12:32,SDG 20,5:00,80,Touchdown
+SD,3,1,4:55,KAN 41,3:32,41,Touchdown
+SD,4,1,0:16,SDG 16,5:27,82,Field Goal
+SD,5,2,7:05,SDG 19,3:58,56,Missed FG
+SD,6,2,1:07,SDG 34,1:06,45,Field Goal
+SD,7,3,9:48,SDG 16,1:41,-8,Punt
+SD,8,3,7:11,SDG 36,1:26,64,Touchdown
+SD,9,3,3:47,SDG 49,1:00,3,Punt
+SD,10,3,2:31,KAN 2,1:54,1,Downs
+SD,11,4,14:13,KAN 18,2:36,17,Field Goal
+SD,12,4,7:06,SDG 40,2:14,8,Punt
+SD,13,4,1:45,SDG 17,1:45,-3,End of Game
+KC,1,1,13:54,KAN 44,1:22,3,Punt
+KC,2,1,7:32,KAN 32,2:37,9,Downs
+KC,3,1,1:23,KAN 33,1:07,1,Punt
+KC,4,2,9:49,KAN 32,2:44,8,Punt
+KC,5,2,3:07,KAN 33,2:00,42,Missed FG
+KC,6,2,0:01,None,0:01,0,End of Half
+KC,7,3,15:00,KAN 35,5:12,65,Touchdown
+KC,8,3,8:07,KAN 35,0:56,3,Punt
+KC,9,3,5:45,KAN 22,1:58,29,Interception
+KC,10,3,2:47,KAN 12,0:16,0,Interception
+KC,11,3,0:37,KAN 1,1:24,11,Interception
+KC,12,4,11:37,KAN 40,2:24,-10,Blocked Punt
+KC,13,4,9:13,SDG 48,2:07,8,Downs
+KC,14,4,4:52,KAN 12,3:07,18,Punt

@@ -1,0 +1,17 @@
+SF,1,1,15:00,SFO 20,5:48,49,Field Goal
+SF,2,1,6:18,CAR 46,1:45,31,Field Goal
+SF,3,2,14:53,SFO 1,1:06,2,Punt
+SF,4,2,13:40,SFO 20,1:00,20,Punt
+SF,5,2,3:41,SFO 20,3:36,80,Touchdown
+SF,6,3,13:25,SFO 23,4:32,77,Touchdown
+SF,7,3,0:33,SFO 12,7:58,73,Field Goal
+SF,8,4,4:22,SFO 27,4:10,39,Downs
+CAR,1,1,9:12,CAR 20,2:54,21,Interception
+CAR,2,1,4:33,CAR 34,4:40,65,Downs
+CAR,3,2,13:47,SFO 31,0:07,31,Touchdown
+CAR,4,2,12:40,CAR 20,8:59,73,Field Goal
+CAR,5,2,0:05,None,0:05,0,End of Half
+CAR,6,3,15:00,CAR 20,1:35,6,Punt
+CAR,7,3,8:53,CAR 24,8:20,31,Punt
+CAR,8,4,7:35,CAR 23,3:13,49,Interception
+CAR,9,4,0:12,CAR 34,0:12,59,End of Game

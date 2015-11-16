@@ -1,0 +1,22 @@
+TB,1,1,10:12,TAM 17,0:13,-9,Fumble
+TB,2,1,8:27,TAM 20,9:20,80,Touchdown
+TB,3,2,13:06,TAM 15,7:33,61,Field Goal
+TB,4,2,0:25,TAM 26,0:25,-1,End of Half
+TB,5,3,15:00,TAM 20,1:33,15,Interception
+TB,6,3,11:55,TAM 20,1:24,-2,Punt
+TB,7,3,9:18,TAM 37,2:20,33,Fumble
+TB,8,3,3:24,TAM 22,2:11,34,Downs
+TB,9,3,0:24,None,0:07,0,Fumble
+TB,10,4,14:53,TAM 20,3:45,80,Touchdown
+TB,11,4,7:20,TAM 11,4:06,56,Downs
+CAR,1,1,15:00,CAR 20,4:48,80,Touchdown
+CAR,2,1,9:59,TAM 8,1:32,5,Field Goal
+CAR,3,2,14:07,CAR 8,1:01,92,Touchdown
+CAR,4,2,5:33,CAR 20,5:08,79,Field Goal
+CAR,5,3,13:27,TAM 32,1:32,32,Touchdown
+CAR,6,3,10:31,CAR 24,1:13,-8,Punt
+CAR,7,3,6:58,CAR 39,3:34,61,Touchdown
+CAR,8,3,1:13,CAR 45,0:49,55,Touchdown
+CAR,9,3,0:17,TAM 8,0:24,8,Touchdown
+CAR,10,4,11:08,CAR 20,3:48,17,Punt
+CAR,11,4,3:14,CAR 34,3:14,11,End of Game

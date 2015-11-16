@@ -1,0 +1,26 @@
+MIN,1,None,15:00,MIN 24,2:09,7,Punt
+MIN,2,None,9:09,MIN 41,2:01,-2,Punt
+MIN,3,None,3:24,MIN 29,2:19,17,Punt
+MIN,4,None,11:24,MIN 24,2:09,3,Punt
+MIN,5,None,7:32,MIN 40,2:26,4,Punt
+MIN,6,None,1:46,MIN 20,0:32,-11,Punt
+MIN,7,None,12:26,GNB 48,3:19,15,Interception
+MIN,8,None,8:04,MIN 20,2:45,9,Punt
+MIN,9,None,4:57,MIN 29,1:07,1,Punt
+MIN,10,None,0:15,MIN 27,1:52,9,Punt
+MIN,11,None,8:32,MIN 3,3:45,22,Punt
+MIN,12,None,1:34,MIN 31,0:57,5,Downs
+GB,1,None,12:51,GNB 36,3:42,44,Field Goal
+GB,2,None,7:08,GNB 29,3:44,51,Blocked FG
+GB,3,None,1:05,GNB 27,4:41,57,Missed FG
+GB,4,None,9:15,GNB 10,1:43,9,Punt
+GB,5,None,5:06,GNB 18,3:20,34,Punt
+GB,6,None,1:14,MIN 45,1:14,19,Field Goal
+GB,7,None,15:00,GNB 6,2:34,12,Punt
+GB,8,None,9:07,GNB 40,1:03,-1,Punt
+GB,9,None,5:19,GNB 40,0:09,0,Interception
+GB,10,None,5:10,GNB 27,0:13,0,Interception
+GB,11,None,3:50,GNB 10,3:35,17,Punt
+GB,12,None,13:23,GNB 42,4:51,55,Fumble
+GB,13,None,4:47,GNB 33,3:13,41,Field Goal
+GB,14,None,0:37,MIN 36,0:37,-1,End of Game

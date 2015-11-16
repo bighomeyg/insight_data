@@ -1,0 +1,22 @@
+PIT,1,None,9:28,PIT 37,2:01,3,Punt
+PIT,2,None,3:14,PIT 34,3:02,20,Punt
+PIT,3,None,13:29,PIT 38,1:35,15,Interception
+PIT,4,None,11:54,CLE 18,1:28,6,Interception
+PIT,5,None,1:50,PIT 32,1:18,17,Interception
+PIT,6,None,15:00,PIT 36,1:46,9,Punt
+PIT,7,None,9:42,PIT 19,1:37,8,Punt
+PIT,8,None,7:55,CLE 44,2:58,19,Field Goal
+PIT,9,None,13:54,PIT 13,4:21,87,Touchdown
+PIT,10,None,9:21,PIT 21,5:07,79,Touchdown
+PIT,11,None,3:06,PIT 23,2:34,77,Touchdown
+CLE,1,None,15:00,CLE 31,5:32,32,Fumble
+CLE,2,None,7:27,CLE 40,4:13,34,Missed FG
+CLE,3,None,0:12,CLE 20,1:43,-1,Punt
+CLE,4,None,10:26,CLE 7,8:36,87,Field Goal
+CLE,5,None,0:32,PIT 44,0:32,7,End of Half
+CLE,6,None,13:14,CLE 20,3:32,28,Punt
+CLE,7,None,8:05,CLE 34,0:10,8,Fumble
+CLE,8,None,4:57,CLE 37,6:03,45,Field Goal
+CLE,9,None,9:33,None,0:12,0,Touchdown
+CLE,10,None,4:14,CLE 41,1:08,2,Punt
+CLE,11,None,0:32,CLE 43,0:32,35,End of Game

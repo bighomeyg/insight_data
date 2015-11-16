@@ -1,0 +1,19 @@
+NE,1,1,10:56,NWE 11,1:06,6,Punt
+NE,2,1,5:48,NWE 24,2:52,14,Punt
+NE,3,1,1:24,NWE 40,9:11,55,Field Goal
+NE,4,2,2:47,NWE 25,2:47,63,Field Goal
+NE,5,3,15:00,None,0:14,0,Touchdown
+NE,6,3,13:26,MIA 15,0:42,15,Touchdown
+NE,7,3,8:56,NWE 22,4:54,78,Touchdown
+NE,8,4,10:36,MIA 45,1:21,3,Punt
+NE,9,4,4:36,NWE 23,4:36,26,End of Game
+MIA,1,1,15:00,MIA 20,4:04,42,Punt
+MIA,2,1,9:50,MIA 36,4:02,64,Touchdown
+MIA,3,1,2:56,MIA 33,1:32,12,Interception
+MIA,4,2,7:13,MIA 21,4:26,52,Interception
+MIA,5,3,14:46,MIA 20,1:20,6,Blocked Punt
+MIA,6,3,12:44,MIA 20,3:48,80,Touchdown
+MIA,7,3,4:02,MIA 20,4:57,44,Blocked FG
+MIA,8,4,14:05,MIA 20,3:29,25,Downs
+MIA,9,4,9:15,MIA 18,2:45,29,Interception
+MIA,10,4,6:30,MIA 33,1:54,27,Interception

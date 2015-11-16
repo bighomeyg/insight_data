@@ -1,0 +1,23 @@
+IND,1,1,10:25,CLT 45,3:39,52,Field Goal
+IND,2,1,1:47,CLT 18,3:36,33,Punt
+IND,3,2,12:21,OTI 43,3:25,26,Field Goal
+IND,4,2,7:17,CLT 15,5:29,67,Field Goal
+IND,5,2,1:39,OTI 29,1:37,24,Field Goal
+IND,6,3,15:00,CLT 46,5:27,54,Touchdown
+IND,7,3,9:24,OTI 15,2:08,7,Field Goal
+IND,8,3,2:40,CLT 32,2:03,68,Touchdown
+IND,9,4,9:24,CLT 20,1:31,5,Punt
+IND,10,4,5:47,CLT 10,3:07,21,Punt
+IND,11,4,1:52,CLT 19,1:16,0,Punt
+IND,12,4,0:36,OTI 40,0:36,-1,End of Game
+TEN,1,1,15:00,OTI 34,4:35,44,Field Goal
+TEN,2,1,6:46,OTI 20,4:59,80,Touchdown
+TEN,3,2,13:11,OTI 18,0:50,20,Fumble
+TEN,4,2,8:56,OTI 33,1:39,9,Punt
+TEN,5,2,1:48,None,0:09,0,Fumble
+TEN,6,2,0:02,None,0:02,0,End of Half
+TEN,7,3,9:33,None,0:09,0,Fumble
+TEN,8,3,7:16,OTI 24,4:36,54,Field Goal
+TEN,9,3,0:37,OTI 31,6:13,69,Touchdown
+TEN,10,4,7:53,OTI 23,2:06,19,Punt
+TEN,11,4,2:40,CLT 48,0:48,48,Touchdown

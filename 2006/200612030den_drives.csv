@@ -1,0 +1,32 @@
+SEA,1,None,15:00,SEA 14,1:03,5,Punt
+SEA,2,None,12:22,SEA 15,1:18,6,Punt
+SEA,3,None,9:39,SEA 10,2:10,7,Punt
+SEA,4,None,3:58,SEA 40,4:10,15,Punt
+SEA,5,None,12:18,DEN 42,2:42,20,Missed FG
+SEA,6,None,6:14,SEA 24,1:03,-1,Punt
+SEA,7,None,2:30,DEN 35,0:43,0,Missed FG
+SEA,8,None,10:46,SEA 46,2:06,7,Punt
+SEA,9,None,5:52,SEA 27,2:40,33,Interception
+SEA,10,None,2:16,SEA 25,1:47,20,Punt
+SEA,11,None,13:32,DEN 36,1:55,0,Punt
+SEA,12,None,9:42,SEA 39,1:29,61,Touchdown
+SEA,13,None,8:04,DEN 40,3:56,14,Field Goal
+SEA,14,None,3:55,DEN 14,0:57,9,Field Goal
+SEA,15,None,2:37,SEA 14,2:32,54,Field Goal
+DEN,1,None,13:57,DEN 39,1:35,9,Punt
+DEN,2,None,11:04,DEN 43,1:25,2,Punt
+DEN,3,None,7:29, 50,3:31,31,Field Goal
+DEN,4,None,14:48,DEN 2,2:30,5,Punt
+DEN,5,None,9:36,DEN 30,3:22,70,Touchdown
+DEN,6,None,5:11,DEN 31,0:11,0,Interception
+DEN,7,None,5:00,DEN 20,2:30,40,Fumble
+DEN,8,None,1:47,SEA 47,1:47,24,Field Goal
+DEN,9,None,15:00,DEN 34,4:14,21,Fumble
+DEN,10,None,8:40,DEN 11,2:48,20,Punt
+DEN,11,None,3:12,DEN 20,0:56,3,Punt
+DEN,12,None,0:29,DEN 1,1:57,1,Punt
+DEN,13,None,11:37,DEN 21,1:55,4,Punt
+DEN,14,None,8:13,None,0:09,0,Fumble
+DEN,15,None,4:08,DEN 29,0:13,0,Interception
+DEN,16,None,2:58,DEN 29,0:21,71,Touchdown
+DEN,17,None,0:05,None,0:05,0,End of Game

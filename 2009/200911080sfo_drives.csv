@@ -1,0 +1,24 @@
+TEN,1,1,15:00,OTI 20,2:45,29,Punt
+TEN,2,1,8:35,OTI 20,2:39,77,Field Goal
+TEN,3,1,3:45,OTI 4,1:31,1,Punt
+TEN,4,1,1:13,SFO 24,3:05,24,Touchdown
+TEN,5,2,9:31,OTI 26,1:28,-8,Punt
+TEN,6,2,5:57,OTI 14,2:25,33,Punt
+TEN,7,2,0:20,OTI 30,0:20,9,End of Half
+TEN,8,3,11:30,OTI 10,1:21,6,Punt
+TEN,9,3,8:46,SFO 36,3:06,36,Touchdown
+TEN,10,4,10:55,OTI 19,3:44,81,Touchdown
+TEN,11,4,6:13,SFO 39,3:07,29,Field Goal
+TEN,12,4,0:39,SFO 39,0:39,-2,End of Game
+SF,1,1,12:15,SFO 11,3:40,67,Field Goal
+SF,2,1,5:56,SFO 29,2:11,10,Punt
+SF,3,1,2:14,SFO 49,1:01,2,Interception
+SF,4,2,13:08,SFO 30,3:37,70,Touchdown
+SF,5,2,8:03,SFO 45,2:06,-9,Punt
+SF,6,2,3:32,SFO 18,3:12,82,Touchdown
+SF,7,3,15:00,SFO 24,3:30,13,Punt
+SF,8,3,10:09,SFO 27,1:23,5,Fumble
+SF,9,3,5:40,SFO 27,9:45,66,Field Goal
+SF,10,4,7:11,SFO 30,0:58,2,Interception
+SF,11,4,3:06,SFO 28,0:15,0,Interception
+SF,12,4,2:51,SFO 22,2:12,78,Touchdown

@@ -1,0 +1,26 @@
+DEN,1,None,13:29,DEN 37,2:03,63,Touchdown
+DEN,2,None,11:18,PIT 10,0:13,10,Touchdown
+DEN,3,None,5:51,DEN 6,4:12,15,Punt
+DEN,4,None,12:42,DEN 22,1:13,0,Punt
+DEN,5,None,8:16,DEN 8,1:31,5,Punt
+DEN,6,None,3:24,DEN 30,1:42,8,Punt
+DEN,7,None,15:00,DEN 26,1:02,74,Touchdown
+DEN,8,None,10:50,DEN 3,3:26,15,Punt
+DEN,9,None,3:32,DEN 11,3:47,50,Punt
+DEN,10,None,13:36,PIT 17,2:20,17,Touchdown
+DEN,11,None,8:13,DEN 21,3:25,65,Field Goal
+DEN,12,None,1:50,DEN 9,0:24,5,Punt
+DEN,13,None,0:09,DEN 12,0:09,-1,End of Game
+PIT,1,None,15:00,PIT 27,1:31,-3,Punt
+PIT,2,None,11:26,None,0:08,0,Fumble
+PIT,3,None,11:05,PIT 24,5:14,70,Fumble
+PIT,4,None,1:39,PIT 35,3:57,65,Touchdown
+PIT,5,None,11:29,PIT 34,3:13,52,Interception
+PIT,6,None,6:45,PIT 42,3:21,36,Missed FG
+PIT,7,None,1:42,PIT 21,1:42,51,Field Goal
+PIT,8,None,13:58,PIT 26,3:08,33,Interception
+PIT,9,None,7:24,PIT 46,3:52,54,Touchdown
+PIT,10,None,14:45,PIT 9,1:09,-8,Punt
+PIT,11,None,11:16,PIT 20,3:03,69,Field Goal
+PIT,12,None,4:48,PIT 27,2:58,72,Fumble
+PIT,13,None,1:26,PIT 39,1:17,13,Interception

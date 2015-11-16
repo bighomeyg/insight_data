@@ -1,0 +1,23 @@
+PIT,1,None,15:00,PIT 19,1:34,0,Punt
+PIT,2,None,10:20,PIT 20,2:08,12,Punt
+PIT,3,None,3:48,PIT 16,3:55,30,Punt
+PIT,4,None,10:02,PIT 14,0:58,-9,Punt
+PIT,5,None,4:21,PIT 12,1:33,4,Punt
+PIT,6,None,0:08,PIT 20,0:08,-1,End of Half
+PIT,7,None,12:46,PIT 24,0:58,1,Punt
+PIT,8,None,8:39,PIT 16,3:53,41,Fumble
+PIT,9,None,4:46,PIT 32,2:48,7,Punt
+PIT,10,None,14:49,PIT 39,4:06,47,Downs
+PIT,11,None,6:56,PIT 21,0:32,10,Interception
+PIT,12,None,4:15,PIT 14,2:41,56,Interception
+BAL,1,None,13:26,RAV 44,3:06,56,Touchdown
+BAL,2,None,8:12,RAV 11,4:24,36,Punt
+BAL,3,None,14:53,RAV 27,4:51,10,Punt
+BAL,4,None,9:04,PIT 47,4:43,47,Touchdown
+BAL,5,None,2:48,RAV 25,2:40,56,Field Goal
+BAL,6,None,15:00,RAV 33,2:14,6,Punt
+BAL,7,None,11:48,RAV 34,3:09,15,Punt
+BAL,8,None,1:58,RAV 7,2:09,6,Punt
+BAL,9,None,10:43,RAV 14,3:47,31,Punt
+BAL,10,None,6:24,PIT 27,2:09,5,Field Goal
+BAL,11,None,1:34,RAV 19,1:34,-3,End of Game

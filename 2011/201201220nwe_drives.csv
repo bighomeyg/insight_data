@@ -1,0 +1,23 @@
+BAL,1,1,15:00,RAV 20,1:27,4,Punt
+BAL,2,1,12:49,RAV 20,1:40,0,Punt
+BAL,3,1,5:49,RAV 20,1:27,-10,Punt
+BAL,4,1,3:41,RAV 30,4:20,67,Field Goal
+BAL,5,2,10:35,RAV 20,4:32,80,Touchdown
+BAL,6,2,3:00,RAV 20,2:02,29,Punt
+BAL,7,3,9:06,RAV 22,5:28,78,Touchdown
+BAL,8,3,3:26,NWE 28,2:36,7,Field Goal
+BAL,9,4,11:29,RAV 20,4:07,34,Interception
+BAL,10,4,7:07,RAV 38,4:21,29,Downs
+BAL,11,4,1:44,RAV 21,1:33,65,Missed FG
+NE,1,1,13:33,NWE 40,0:44,7,Punt
+NE,2,1,11:09,NWE 39,5:20,50,Field Goal
+NE,3,1,4:22,NWE 40,0:41,13,Interception
+NE,4,2,14:21,NWE 25,3:46,75,Touchdown
+NE,5,2,6:03,NWE 20,3:03,63,Field Goal
+NE,6,2,0:58,NWE 11,0:58,-2,End of Half
+NE,7,3,15:00,NWE 20,5:54,74,Field Goal
+NE,8,3,3:38,None,0:12,0,Fumble
+NE,9,3,0:50,NWE 37,4:21,63,Touchdown
+NE,10,4,7:22, 50,0:15,0,Interception
+NE,11,4,2:46,NWE 33,1:02,6,Punt
+NE,12,4,0:11,NWE 22,0:11,-1,End of Game

@@ -1,0 +1,23 @@
+DET,1,None,12:01,DET 9,1:12,-6,Fumble
+DET,2,None,10:11,DET 30,0:36,30,Fumble
+DET,3,None,6:19,DET 10,5:09,15,Punt
+DET,4,None,14:16,DET 20,6:52,58,Missed FG
+DET,5,None,3:36,DET 20,2:00,20,Punt
+DET,6,None,15:00,DET 14,4:40,86,Touchdown
+DET,7,None,7:32,DET 48,1:15,7,Punt
+DET,8,None,0:32,DET 20,2:05,8,Punt
+DET,9,None,10:03,DET 18,2:07,28,Punt
+DET,10,None,3:38,DET 26,0:54,4,Punt
+DET,11,None,0:26,DET 18,0:10,7,Fumble
+CHI,1,None,15:00,CHI 17,2:59,23,Punt
+CHI,2,None,10:49,DET 3,0:38,3,Touchdown
+CHI,3,None,9:35,CHI 25,3:16,61,Field Goal
+CHI,4,None,1:10,CHI 28,1:54,72,Touchdown
+CHI,5,None,7:24,CHI 30,3:48,70,Touchdown
+CHI,6,None,1:36,CHI 7,1:36,4,End of Half
+CHI,7,None,10:20,CHI 22,2:48,31,Fumble
+CHI,8,None,6:17,CHI 20,5:45,80,Touchdown
+CHI,9,None,13:27,CHI 42,3:24,31,Field Goal
+CHI,10,None,7:56,CHI 13,4:18,17,Punt
+CHI,11,None,2:44,CHI 34,2:18,7,Punt
+CHI,12,None,0:16,DET 27,0:16,-1,End of Game

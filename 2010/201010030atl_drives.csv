@@ -1,0 +1,20 @@
+SF,1,1,12:13,SFO 12,6:16,88,Touchdown
+SF,2,2,13:09,SFO 14,3:10,12,Punt
+SF,3,2,6:37,SFO 6,2:53,34,Punt
+SF,4,2,2:45,SFO 31,1:32,35,Interception
+SF,5,3,15:00,SFO 20,5:44,39,Interception
+SF,6,3,5:49,SFO 20,1:46,6,Punt
+SF,7,3,2:37,SFO 26,2:33,26,Punt
+SF,8,4,10:25,SFO 8,6:45,48,Punt
+SF,9,4,0:02,None,0:02,0,End of Game
+ATL,1,1,15:00,ATL 30,2:47,24,Punt
+ATL,2,1,5:57,ATL 8,1:31,4,Blocked Punt
+ATL,3,1,4:26,ATL 29,6:17,71,Touchdown
+ATL,4,2,9:59,SFO 48,3:22,30,Interception
+ATL,5,2,3:44,ATL 17,0:59,-1,Punt
+ATL,6,2,1:13,ATL 33,1:13,49,Field Goal
+ATL,7,3,9:16,ATL 46,3:27,41,Field Goal
+ATL,8,3,4:03,ATL 27,1:26,4,Punt
+ATL,9,3,0:04,ATL 12,4:39,45,Punt
+ATL,10,4,3:40,ATL 8,2:18,38,Interception
+ATL,11,4,1:22,ATL 7,1:20,68,Field Goal

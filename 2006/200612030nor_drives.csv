@@ -1,0 +1,25 @@
+SF,1,None,15:00,SFO 21,1:42,9,Punt
+SF,2,None,12:20,SFO 31,1:36,8,Punt
+SF,3,None,8:57,SFO 41,0:58,-1,Punt
+SF,4,None,6:18,SFO 24,5:58,64,Field Goal
+SF,5,None,12:11,SFO 31,2:09,-8,Punt
+SF,6,None,8:11,SFO 12,1:29,-2,Punt
+SF,7,None,0:43,SFO 20,0:43,3,End of Half
+SF,8,None,12:56,SFO 23,2:04,77,Touchdown
+SF,9,None,10:52,SFO 41,0:18,0,Interception
+SF,10,None,9:02,SFO 19,2:21,3,Punt
+SF,11,None,0:12,SFO 15,0:58,25,Interception
+SF,12,None,11:18,SFO 21,1:09,5,Punt
+SF,13,None,2:31,SFO 22,1:16,40,Interception
+NO,1,None,13:18,NOR 16,0:58,7,Punt
+NO,2,None,10:44,NOR 15,1:47,6,Punt
+NO,3,None,7:59,NOR 20,1:41,20,Punt
+NO,4,None,0:20,NOR 48,3:09,52,Touchdown
+NO,5,None,10:02,NOR 27,1:51,20,Punt
+NO,6,None,6:42,NOR 43,5:59,57,Touchdown
+NO,7,None,15:00,NOR 29,2:04,3,Punt
+NO,8,None,10:34,SFO 6,1:32,5,Field Goal
+NO,9,None,6:41,NOR 33,6:29,67,Touchdown
+NO,10,None,14:14,NOR 9,2:56,91,Touchdown
+NO,11,None,10:09,NOR 30,7:38,55,Field Goal
+NO,12,None,1:15,NOR 7,1:15,-2,End of Game

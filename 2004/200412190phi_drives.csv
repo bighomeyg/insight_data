@@ -1,0 +1,22 @@
+DAL,1,None,15:00,DAL 25,3:56,28,Punt
+DAL,2,None,7:10,DAL 3,8:13,34,Punt
+DAL,3,None,10:07,DAL 31,2:06,7,Punt
+DAL,4,None,6:03,PHI 23,2:41,23,Touchdown
+DAL,5,None,0:36,DAL 10,0:36,8,End of Half
+DAL,6,None,13:00,DAL 7,1:26,7,Punt
+DAL,7,None,9:44,DAL 3,2:00,35,Punt
+DAL,8,None,4:17,PHI 46,1:03,7,Interception
+DAL,9,None,0:56,DAL 20,3:43,44,Punt
+DAL,10,None,9:23, 50,3:20,22,Missed FG
+DAL,11,None,1:57,DAL 25,0:24,13,Interception
+PHI,1,None,11:04,PHI 12,3:54,34,Punt
+PHI,2,None,13:57,PHI 30,3:50,70,Touchdown
+PHI,3,None,8:01,PHI 19,1:58,7,Fumble
+PHI,4,None,3:22,PHI 31,2:46,32,Punt
+PHI,5,None,15:00,PHI 26,2:00,31,Interception
+PHI,6,None,11:34,DAL 36,1:50,1,Punt
+PHI,7,None,7:44,PHI 32,3:27,37,Interception
+PHI,8,None,3:14,PHI 28,2:18,23,Punt
+PHI,9,None,12:13,PHI 20,2:50,8,Punt
+PHI,10,None,6:03,PHI 36,4:06,64,Touchdown
+PHI,11,None,1:33,PHI 43,1:33,10,End of Game

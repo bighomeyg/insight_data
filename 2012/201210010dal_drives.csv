@@ -1,0 +1,21 @@
+CHI,1,1,9:32,CHI 6,6:08,41,Punt
+CHI,2,1,1:10,CHI 19,1:20,3,Punt
+CHI,3,2,11:22,CHI 6,7:07,69,Field Goal
+CHI,4,2,0:14,CHI 27,0:14,-1,End of Half
+CHI,5,3,15:00,CHI 27,3:06,73,Touchdown
+CHI,6,3,8:09,CHI 6,1:44,21,Fumble
+CHI,7,3,2:11,CHI 19,5:47,77,Field Goal
+CHI,8,4,8:30,CHI 33,2:02,67,Touchdown
+CHI,9,4,5:51,DAL 43,2:48,1,Punt
+CHI,10,4,0:34,DAL 48,0:34,-1,End of Game
+DAL,1,1,15:00,DAL 20,5:28,33,Punt
+DAL,2,1,3:24,DAL 16,2:14,25,Punt
+DAL,3,2,14:50,DAL 26,3:28,36,Punt
+DAL,4,2,4:15,DAL 20,1:37,1,Interception
+DAL,5,2,2:38,DAL 20,2:24,80,Touchdown
+DAL,6,3,11:54,DAL 20,3:45,62,Interception
+DAL,7,3,6:25,CHI 27,0:14,0,Interception
+DAL,8,3,6:11,DAL 20,4:00,58,Field Goal
+DAL,9,4,11:24,DAL 15,2:54,35,Interception
+DAL,10,4,6:28,DAL 17,0:37,3,Interception
+DAL,11,4,3:03,DAL 11,2:29,89,Touchdown

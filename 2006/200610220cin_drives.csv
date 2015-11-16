@@ -1,0 +1,24 @@
+CAR,1,None,15:00,CAR 18,3:40,29,Punt
+CAR,2,None,9:50,CAR 45,1:02,0,Punt
+CAR,3,None,7:15,CAR 34,5:06,66,Touchdown
+CAR,4,None,0:33,CAR 43,1:41,-4,Punt
+CAR,5,None,11:42,CAR 41,3:06,19,Punt
+CAR,6,None,3:16,CAR 37,2:29,63,Touchdown
+CAR,7,None,11:38,CAR 14,1:01,2,Punt
+CAR,8,None,7:06,CAR 32,1:50,0,Punt
+CAR,9,None,2:06,CAR 13,2:58,44,Punt
+CAR,10,None,8:07,CAR 26,1:05,6,Punt
+CAR,11,None,5:04,CAR 19,1:14,71,Interception
+CAR,12,None,0:16,CAR 13,0:16,-9,End of Game
+CIN,1,None,11:20,CIN 10,1:30,8,Punt
+CIN,2,None,8:48,CIN 11,1:33,8,Punt
+CIN,3,None,2:09,CIN 20,1:36,1,Punt
+CIN,4,None,13:52,CIN 18,2:10,9,Punt
+CIN,5,None,8:36,CIN 20,5:20,80,Touchdown
+CIN,6,None,0:47,CIN 19,0:47,3,End of Half
+CIN,7,None,15:00,CIN 14,3:22,40,Punt
+CIN,8,None,10:37,CAR 44,3:31,39,Field Goal
+CIN,9,None,5:16,CIN 30,3:10,21,Punt
+CIN,10,None,14:08,CIN 14,6:01,86,Touchdown
+CIN,11,None,7:02,CIN 34,1:58,23,Punt
+CIN,12,None,3:50,CIN 20,3:34,40,Punt

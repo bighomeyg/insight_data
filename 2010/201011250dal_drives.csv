@@ -1,0 +1,23 @@
+NO,1,1,15:00,NOR 20,1:51,80,Touchdown
+NO,2,1,10:42,DAL 31,1:31,-1,Field Goal
+NO,3,1,7:32,NOR 42,2:59,58,Touchdown
+NO,4,2,14:24,NOR 21,1:30,5,Punt
+NO,5,2,5:13,NOR 19,4:30,54,Field Goal
+NO,6,3,14:01,NOR 20,4:31,70,Field Goal
+NO,7,3,4:30,NOR 20,4:11,46,Downs
+NO,8,4,10:57,NOR 16,1:02,4,Interception
+NO,9,4,5:51,NOR 20,1:41,-9,Punt
+NO,10,4,3:03,NOR 11,1:08,89,Touchdown
+NO,11,4,0:25,NOR 49,0:25,-3,End of Game
+DAL,1,1,13:09,DAL 24,2:27,16,Interception
+DAL,2,1,9:11,DAL 20,1:39,-13,Punt
+DAL,3,1,4:33,DAL 20,5:09,59,Downs
+DAL,4,2,12:54,DAL 18,7:41,79,Field Goal
+DAL,5,2,0:43,DAL 24,0:43,40,Field Goal
+DAL,6,3,15:00,DAL 32,0:59,68,Touchdown
+DAL,7,3,9:30,DAL 12,2:05,14,Punt
+DAL,8,3,7:25,NOR 15,2:55,15,Touchdown
+DAL,9,3,0:19,DAL 35,4:22,22,Fumble
+DAL,10,4,9:55,NOR 39,4:04,39,Touchdown
+DAL,11,4,4:10,DAL 38,1:07,51,Fumble
+DAL,12,4,1:55,DAL 24,1:30,35,Missed FG

@@ -1,0 +1,26 @@
+DAL,1,None,15:00,DAL 30,2:33,16,Punt
+DAL,2,None,8:40,DAL 22,0:58,3,Punt
+DAL,3,None,4:14,DAL 20,1:15,-11,Punt
+DAL,4,None,1:02,DAL 33,1:58,52,Fumble
+DAL,5,None,12:03,DAL 25,2:04,9,Punt
+DAL,6,None,6:10,DAL 22,4:58,59,Field Goal
+DAL,7,None,0:01,None,0:01,0,End of Half
+DAL,8,None,12:48,DAL 24,1:36,-5,Punt
+DAL,9,None,9:44,DAL 46,1:06,4,Punt
+DAL,10,None,4:35,DAL 27,1:07,-9,Punt
+DAL,11,None,12:45,CAR 47,5:09,47,Touchdown
+DAL,12,None,5:43,DAL 34,0:44,9,Interception
+DAL,13,None,3:12,DAL 26,2:08,20,Downs
+CAR,1,None,12:27,CAR 22,3:47,77,Field Goal
+CAR,2,None,7:42,CAR 38,3:28,18,Punt
+CAR,3,None,2:59,DAL 41,1:57,21,Field Goal
+CAR,4,None,14:04,CAR 11,2:01,30,Punt
+CAR,5,None,9:59,CAR 49,3:49,51,Touchdown
+CAR,6,None,1:12,CAR 28,1:11,71,Field Goal
+CAR,7,None,15:00,CAR 31,2:12,1,Punt
+CAR,8,None,11:12,CAR 37,1:28,63,Touchdown
+CAR,9,None,8:38,CAR 15,4:03,5,Punt
+CAR,10,None,3:28,CAR 40,5:43,46,Field Goal
+CAR,11,None,7:36,CAR 16,1:53,5,Punt
+CAR,12,None,4:59,DAL 11,1:47,-5,Field Goal
+CAR,13,None,1:04,DAL 46,1:04,-2,End of Game

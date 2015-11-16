@@ -1,0 +1,26 @@
+DEN,1,None,15:00,DEN 9,3:05,11,Punt
+DEN,2,None,11:55,CLE 40,0:54,4,Punt
+DEN,3,None,6:17,DEN 48,1:28,17,Interception
+DEN,4,None,2:34,DEN 2,4:33,85,Field Goal
+DEN,5,None,11:21,DEN 15,1:30,-5,Punt
+DEN,6,None,6:50,DEN 14,4:56,86,Touchdown
+DEN,7,None,1:02,CLE 43,1:02,16,End of Half
+DEN,8,None,13:55,DEN 44,4:42,56,Touchdown
+DEN,9,None,7:57,DEN 40,4:53,36,Missed FG
+DEN,10,None,14:48,DEN 26,1:39,2,Interception
+DEN,11,None,11:43,DEN 20,2:12,13,Punt
+DEN,12,None,7:45,DEN 43,0:59,2,Punt
+DEN,13,None,5:57,DEN 24,4:51,20,Punt
+DEN,14,None,0:31,CLE 38,0:31,-1,End of Game
+CLE,1,None,11:01,CLE 17,4:44,36,Downs
+CLE,2,None,4:49,CLE 25,2:15,23,Punt
+CLE,3,None,13:01,CLE 49,1:40,9,Punt
+CLE,4,None,9:51,CLE 33,3:01,15,Punt
+CLE,5,None,1:54,CLE 20,0:52,8,Fumble
+CLE,6,None,15:00,CLE 26,1:05,0,Punt
+CLE,7,None,9:13,CLE 29,1:16,1,Punt
+CLE,8,None,3:04,CLE 33,3:16,27,Interception
+CLE,9,None,13:09,DEN 18,1:26,18,Touchdown
+CLE,10,None,9:31,CLE 40,1:46,18,Downs
+CLE,11,None,6:46,CLE 15,0:49,-7,Punt
+CLE,12,None,1:06,CLE 31,0:35,7,Downs

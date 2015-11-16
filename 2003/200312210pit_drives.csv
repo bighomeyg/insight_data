@@ -1,0 +1,24 @@
+SD,1,1,8:51,SDG 26,1:30,4,Punt
+SD,2,1,0:10,SDG 15,1:05,-7,Punt
+SD,3,2,12:49,SDG 32,5:44,68,Touchdown
+SD,4,2,3:57,SDG 20,2:08,20,Punt
+SD,5,2,1:17,PIT 43,1:13,30,Field Goal
+SD,6,3,15:00,SDG 28,2:59,72,Touchdown
+SD,7,3,10:01,SDG 25,0:52,-5,Fumble
+SD,8,3,8:25,SDG 32,2:48,27,Interception
+SD,9,4,14:15,SDG 31,4:14,69,Touchdown
+SD,10,4,5:04,SDG 13,0:35,12,Interception
+SD,11,4,4:29,SDG 40,1:24,45,Downs
+SD,12,4,1:20,SDG 42,1:06,13,Downs
+PIT,1,1,15:00,PIT 43,6:09,57,Touchdown
+PIT,2,1,7:21,PIT 19,7:11,81,Touchdown
+PIT,3,2,14:05,SDG 43,1:16,43,Touchdown
+PIT,4,2,7:05,PIT 29,3:08,31,Punt
+PIT,5,2,1:49,PIT 12,0:32,2,Punt
+PIT,6,2,0:04,None,0:04,0,End of Half
+PIT,7,3,12:01,PIT 44,2:00,-1,Punt
+PIT,8,3,9:09,SDG 20,0:44,20,Touchdown
+PIT,9,3,5:37,PIT 4,6:22,67,Field Goal
+PIT,10,4,10:01,PIT 34,4:57,44,Field Goal
+PIT,11,4,3:05,PIT 15,1:45,-2,Punt
+PIT,12,4,0:14,PIT 45,0:14,-1,End of Game

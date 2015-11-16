@@ -1,0 +1,20 @@
+ARI,1,1,14:11,NOR 8,2:11,8,Touchdown
+ARI,2,1,6:18,CRD 22,1:20,-2,Punt
+ARI,3,2,13:47,CRD 34,3:46,66,Touchdown
+ARI,4,2,8:36,CRD 38,2:48,20,Punt
+ARI,5,2,3:34,NOR 45,0:14,0,Interception
+ARI,6,2,1:56,CRD 40,1:56,24,Missed FG
+ARI,7,3,15:00,CRD 32,2:14,8,Fumble
+ARI,8,3,12:02,CRD 20,5:48,80,Touchdown
+ARI,9,3,0:50,CRD 22,6:39,70,Field Goal
+ARI,10,4,7:06,CRD 43,1:12,-3,Punt
+NO,1,1,15:00,NOR 21,0:49,21,Fumble
+NO,2,1,12:00,NOR 19,5:42,81,Touchdown
+NO,3,1,4:58,NOR 26,6:11,74,Touchdown
+NO,4,2,10:01,NOR 20,1:25,-5,Punt
+NO,5,2,5:48,NOR 13,2:14,8,Punt
+NO,6,2,3:20,NOR 45,1:24,55,Touchdown
+NO,7,3,12:46,CRD 7,0:44,7,Touchdown
+NO,8,3,6:14,NOR 20,5:24,67,Field Goal
+NO,9,4,9:11,NOR 17,2:05,44,Fumble
+NO,10,4,5:54,NOR 4,5:54,69,End of Game

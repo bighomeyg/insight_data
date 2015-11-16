@@ -1,0 +1,26 @@
+KC,1,1,15:00,KAN 20,1:10,-1,Punt
+KC,2,1,11:50,KAN 30,6:33,60,Field Goal
+KC,3,1,4:01,SDG 1,0:10,1,Touchdown
+KC,4,2,15:00,KAN 13,1:45,6,Punt
+KC,5,2,12:00,KAN 9,3:03,15,Punt
+KC,6,2,5:13,KAN 9,3:13,91,Touchdown
+KC,7,2,1:08,SDG 47,1:08,1,End of Half
+KC,8,3,11:37,KAN 44,1:46,16,Punt
+KC,9,3,6:52,KAN 14,0:09,0,Interception
+KC,10,3,5:58,KAN 20,2:05,9,Punt
+KC,11,3,3:53,SDG 28,1:29,28,Touchdown
+KC,12,4,13:16,KAN 40,5:10,60,Touchdown
+KC,13,4,4:07,KAN 37,1:37,38,Field Goal
+KC,14,4,0:14,KAN 47,0:14,0,Interception
+SD,1,1,13:50,SDG 34,2:00,66,Touchdown
+SD,2,1,5:17,SDG 21,1:16,14,Blocked Punt
+SD,3,1,3:51,SDG 31,3:51,54,Fumble
+SD,4,2,13:15,SDG 33,1:15,8,Punt
+SD,5,2,8:57,SDG 42,3:44,44,Interception
+SD,6,2,2:00,SDG 29,0:52,25,Fumble
+SD,7,3,15:00,SDG 44,3:23,23,Interception
+SD,8,3,9:51,SDG 20,2:59,37,Punt
+SD,9,3,6:43,KAN 9,0:45,9,Touchdown
+SD,10,3,2:24,SDG 41,4:08,59,Touchdown
+SD,11,4,8:06,SDG 35,3:59,65,Touchdown
+SD,12,4,2:30,SDG 29,2:16,71,Touchdown

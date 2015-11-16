@@ -1,0 +1,20 @@
+IND,1,None,11:47,CLT 49,0:43,-1,Fumble
+IND,2,None,9:37,CLT 11,5:24,43,Fumble
+IND,3,None,2:12,CLT 4,1:27,9,Punt
+IND,4,None,11:12,CLT 33,3:16,63,Interception
+IND,5,None,3:03,CLT 12,2:53,88,Touchdown
+IND,6,None,15:00,CLT 27,0:51,4,Interception
+IND,7,None,14:09,CLT 31,2:30,19,Punt
+IND,8,None,9:37,CLT 20,4:28,80,Touchdown
+IND,9,None,11:36,CLT 31,1:45,9,Punt
+IND,10,None,6:00,CLT 31,3:01,61,Downs
+DAL,1,None,15:00,DAL 34,3:13,17,Fumble
+DAL,2,None,11:04,CLT 48,1:27,1,Punt
+DAL,3,None,4:13,DAL 43,2:01,26,Interception
+DAL,4,None,0:45,CLT 49,4:33,24,Missed FG
+DAL,5,None,7:56,DAL 7,4:53,40,Punt
+DAL,6,None,0:10,DAL 44,0:10,28,Missed FG
+DAL,7,None,11:39,DAL 20,2:02,17,Punt
+DAL,8,None,5:09,DAL 32,8:33,68,Touchdown
+DAL,9,None,9:51,DAL 20,3:51,80,Touchdown
+DAL,10,None,2:59,DAL 8,2:59,63,End of Game

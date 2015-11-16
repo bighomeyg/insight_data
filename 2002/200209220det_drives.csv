@@ -1,0 +1,28 @@
+GB,1,1,13:26,GNB 28,0:59,0,Punt
+GB,2,1,12:27,GNB 14,2:54,28,Fumble
+GB,3,1,6:10,GNB 18,6:14,82,Touchdown
+GB,4,2,13:32,DET 35,1:27,27,Fumble
+GB,5,2,11:07,DET 46,0:11,-5,Interception
+GB,6,2,10:00,GNB 20,4:45,53,Field Goal
+GB,7,2,3:13,DET 49,1:25,2,Punt
+GB,8,3,15:00,GNB 28,7:04,72,Touchdown
+GB,9,3,5:52,GNB 18,2:06,23,Punt
+GB,10,3,2:59,DET 41,1:29,41,Touchdown
+GB,11,3,0:11,GNB 39,4:44,44,Field Goal
+GB,12,4,8:23,GNB 19,4:44,40,Punt
+GB,13,4,1:37,DET 35,0:22,6,Field Goal
+GB,14,4,0:30,GNB 3,0:30,-1,End of Game
+DET,1,1,15:00,DET 26,1:34,9,Punt
+DET,2,1,9:33,GNB 42,2:16,17,Interception
+DET,3,1,7:17,DET 34,1:07,4,Punt
+DET,4,2,14:56,DET 26,1:24,8,Fumble
+DET,5,2,12:05,DET 7,0:58,0,Punt
+DET,6,2,10:56,GNB 10,0:56,-5,Field Goal
+DET,7,2,5:15,DET 36,2:02,64,Touchdown
+DET,8,2,1:48,DET 16,1:48,26,Interception
+DET,9,3,7:56,DET 17,2:04,20,Punt
+DET,10,3,3:46,DET 3,0:47,9,Interception
+DET,11,3,1:30,DET 25,1:19,-7,Punt
+DET,12,4,10:27,GNB 45,2:04,45,Touchdown
+DET,13,4,3:39,DET 5,2:02,95,Touchdown
+DET,14,4,1:15,GNB 48,0:45,14,Interception

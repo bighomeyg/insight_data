@@ -1,0 +1,24 @@
+PHI,1,None,12:58,PHI 35,1:13,-1,Punt
+PHI,2,None,5:13,PHI 24,3:22,29,Punt
+PHI,3,None,14:36,PHI 25,1:32,-6,Punt
+PHI,4,None,11:09,PHI 14,7:17,62,Missed FG
+PHI,5,None,1:17,NYG 43,1:09,-15,Punt
+PHI,6,None,15:00,PHI 24,1:14,-1,Punt
+PHI,7,None,11:38,PHI 1,1:29,1,Punt
+PHI,8,None,8:34,PHI 4,3:32,17,Punt
+PHI,9,None,2:03,PHI 27,0:33,-10,Fumble
+PHI,10,None,1:30,PHI 25,3:39,40,Field Goal
+PHI,11,None,10:50,PHI 29,1:09,-6,Punt
+PHI,12,None,6:36,PHI 23,4:17,45,Downs
+NYG,1,None,15:00,NYG 20,2:02,-4,Punt
+NYG,2,None,11:45,NYG 29,6:32,55,Missed FG
+NYG,3,None,1:51,NYG 22,2:15,15,Punt
+NYG,4,None,13:04,PHI 49,1:55,49,Touchdown
+NYG,5,None,3:52,NYG 32,2:35,53,Interception
+NYG,6,None,0:08,NYG 8,0:08,-2,End of Half
+NYG,7,None,13:46,NYG 43,2:08,16,Punt
+NYG,8,None,10:09,PHI 42,1:35,7,Punt
+NYG,9,None,5:02,NYG 34,2:59,55,Field Goal
+NYG,10,None,12:51,NYG 33,2:01,3,Punt
+NYG,11,None,9:41,NYG 39,3:05,18,Punt
+NYG,12,None,2:19,NYG 32,2:19,9,End of Game

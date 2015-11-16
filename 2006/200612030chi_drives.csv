@@ -1,0 +1,31 @@
+MIN,1,None,14:55,CHI 31,1:32,-8,Punt
+MIN,2,None,11:06,MIN 9,1:31,9,Interception
+MIN,3,None,8:46,MIN 22,6:15,37,Punt
+MIN,4,None,14:51,MIN 7,2:31,1,Punt
+MIN,5,None,12:20,MIN 38,3:26,57,Field Goal
+MIN,6,None,5:38,MIN 9,1:58,9,Punt
+MIN,7,None,3:40,MIN 40,0:58,0,Punt
+MIN,8,None,1:45,MIN 20,1:12,33,Punt
+MIN,9,None,15:00,MIN 19,4:53,69,Field Goal
+MIN,10,None,9:55,CHI 46,0:09,0,Interception
+MIN,11,None,6:54,MIN 22,2:21,27,Interception
+MIN,12,None,4:33,MIN 33,0:13,0,Interception
+MIN,13,None,3:04,MIN 16,2:30,7,Punt
+MIN,14,None,14:06,MIN 2,0:07,-2,Safety
+MIN,15,None,12:14,MIN 11,6:34,89,Touchdown
+MIN,16,None,5:40,MIN 44,2:03,-12,Punt
+MIN,17,None,2:20,MIN 41,1:08,30,Fumble
+CHI,1,None,15:00,None,0:05,0,Fumble
+CHI,2,None,13:23,CHI 9,2:17,29,Punt
+CHI,3,None,9:35,MIN 22,0:49,0,Interception
+CHI,4,None,2:31,CHI 19,2:40,29,Interception
+CHI,5,None,8:54,CHI 34,3:16,13,Punt
+CHI,6,None,2:42,CHI 40,0:57,-5,Punt
+CHI,7,None,0:33,CHI 20,0:33,-2,End of Half
+CHI,8,None,10:07,CHI 36,0:12,0,Interception
+CHI,9,None,9:46,CHI 36,2:52,14,Punt
+CHI,10,None,4:20,MIN 33,1:16,33,Touchdown
+CHI,11,None,0:34,MIN 35,1:28,2,Punt
+CHI,12,None,13:59,MIN 49,1:45,2,Punt
+CHI,13,None,3:37,CHI 34,1:17,-19,Punt
+CHI,14,None,1:12,CHI 27,1:12,-4,End of Game

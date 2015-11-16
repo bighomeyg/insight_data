@@ -1,0 +1,26 @@
+BUF,1,None,15:00,BUF 27,1:54,19,Punt
+BUF,2,None,11:41,BUF 34,3:45,26,Punt
+BUF,3,None,5:59,BUF 22,1:37,78,Touchdown
+BUF,4,None,1:08,BUF 20,1:51,6,Fumble
+BUF,5,None,10:58,BUF 31,1:33,-4,Punt
+BUF,6,None,6:13,BUF 16,1:26,84,Touchdown
+BUF,7,None,0:01,None,0:01,0,End of Half
+BUF,8,None,9:30,BUF 20,4:21,18,Punt
+BUF,9,None,3:28,NYJ 18,1:30,18,Touchdown
+BUF,10,None,14:47,BUF 27,6:48,57,Field Goal
+BUF,11,None,6:23,BUF 41,1:22,5,Punt
+BUF,12,None,3:17,NYJ 46,1:30,2,Punt
+BUF,13,None,0:14,NYJ 14,0:14,-1,End of Game
+NYJ,1,None,13:06,NYJ 26,1:25,6,Punt
+NYJ,2,None,7:56,NYJ 11,1:57,19,Punt
+NYJ,3,None,4:22,NYJ 49,3:14,51,Touchdown
+NYJ,4,None,14:17,BUF 26,3:19,14,Field Goal
+NYJ,5,None,9:25,NYJ 20,3:12,30,Punt
+NYJ,6,None,4:47,NYJ 34,3:00,12,Interception
+NYJ,7,None,1:47,NYJ 23,1:46,57,Field Goal
+NYJ,8,None,15:00,NYJ 30,5:30,27,Punt
+NYJ,9,None,5:09,NYJ 12,1:41,6,Fumble
+NYJ,10,None,1:58,NYJ 40,2:11,3,Punt
+NYJ,11,None,7:59,NYJ 28,1:36,20,Interception
+NYJ,12,None,5:01,NYJ 18,1:44,28,Downs
+NYJ,13,None,1:47,NYJ 20,1:33,-6,Downs

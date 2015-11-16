@@ -1,0 +1,21 @@
+NO,1,1,11:14,NOR 7,0:54,1,Punt
+NO,2,1,6:03,NOR 15,3:15,30,Punt
+NO,3,2,11:25,NOR 20,5:40,80,Touchdown
+NO,4,2,1:48,NOR 20,0:16,8,Interception
+NO,5,2,0:06,NOR 20,0:06,-1,End of Half
+NO,6,3,15:00,NOR 20,5:50,49,Interception
+NO,7,3,6:30,NOR 45,2:49,39,Interception
+NO,8,3,1:30,NOR 46,2:28,54,Touchdown
+NO,9,4,10:15,NOR 13,1:27,17,Punt
+NO,10,4,5:20, 50,3:23,50,Touchdown
+NO,11,4,1:05,TAM 26,1:05,1,End of Game
+TB,1,1,15:00,TAM 20,3:46,39,Punt
+TB,2,1,10:20,TAM 45,4:17,34,Field Goal
+TB,3,1,2:48,TAM 20,6:23,80,Touchdown
+TB,4,2,5:45,TAM 26,3:57,74,Touchdown
+TB,5,2,1:32,NOR 34,1:26,26,Field Goal
+TB,6,3,9:10,TAM 20,2:40,-7,Punt
+TB,7,3,3:41,TAM 3,2:11,3,Punt
+TB,8,4,14:02,TAM 32,3:47,19,Punt
+TB,9,4,8:48,TAM 30,3:28,16,Interception
+TB,10,4,1:57,TAM 17,0:52,-17,Safety

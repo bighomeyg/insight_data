@@ -1,0 +1,25 @@
+GB,1,1,9:20,None,0:07,0,Fumble
+GB,2,1,6:32,GNB 20,2:20,9,Punt
+GB,3,2,14:48,GNB 20,4:50,80,Touchdown
+GB,4,2,8:01,GNB 48,2:15,9,Punt
+GB,5,2,2:25,GNB 36,1:40,19,Downs
+GB,6,2,0:07,GNB 7,0:07,-1,End of Half
+GB,7,3,15:00,GNB 20,2:37,80,Touchdown
+GB,8,3,11:41,CAR 20,1:19,1,Field Goal
+GB,9,3,9:14,GNB 32,3:31,67,Field Goal
+GB,10,3,5:20,CAR 49,4:23,33,Field Goal
+GB,11,4,10:05,GNB 26,2:45,7,Punt
+GB,12,4,3:09,GNB 4,0:55,96,Touchdown
+GB,13,4,0:37,CAR 39,0:37,-1,End of Game
+CAR,1,1,15:00,CAR 15,5:40,85,Touchdown
+CAR,2,1,9:13,GNB 26,2:41,24,Field Goal
+CAR,3,1,4:12,CAR 31,4:24,54,Field Goal
+CAR,4,2,9:58,CAR 18,1:57,-6,Punt
+CAR,5,2,5:46,CAR 13,3:21,31,Interception
+CAR,6,2,0:45,CAR 45,0:38,13,Punt
+CAR,7,3,12:23,CAR 20,0:42,1,Interception
+CAR,8,3,10:22,CAR 21,1:08,35,Fumble
+CAR,9,3,5:43,CAR 23,0:23,0,Interception
+CAR,10,3,0:57,CAR 20,5:52,77,Field Goal
+CAR,11,4,7:20,CAR 32,4:11,65,Downs
+CAR,12,4,2:14,CAR 17,1:37,83,Touchdown

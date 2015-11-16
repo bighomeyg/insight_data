@@ -1,0 +1,22 @@
+NYG,1,None,15:00,NYG 21,4:55,38,Punt
+NYG,2,None,9:07,NYG 48,4:05,39,Field Goal
+NYG,3,None,1:52,NYG 7,1:52,9,Punt
+NYG,4,None,9:24,NYG 31,2:20,17,Fumble
+NYG,5,None,1:56,NYG 35,0:31,0,Punt
+NYG,6,None,0:45,NYG 47,0:43,20,Field Goal
+NYG,7,None,10:37,NYG 14,5:39,86,Touchdown
+NYG,8,None,0:18,NYG 42,3:16,29,Field Goal
+NYG,9,None,10:14,DAL 42,3:58,34,Field Goal
+NYG,10,None,5:29,NYG 30,3:15,70,Touchdown
+NYG,11,None,1:38,NYG 11,1:38,3,End of Game
+DAL,1,None,10:05,DAL 11,0:58,6,Punt
+DAL,2,None,5:02,NYG 49,3:10,42,Downs
+DAL,3,None,15:00,DAL 45,5:36,55,Touchdown
+DAL,4,None,7:04,DAL 39,5:08,38,Field Goal
+DAL,5,None,1:25,DAL 23,0:40,30,Fumble
+DAL,6,None,0:02,None,0:02,0,End of Half
+DAL,7,None,15:00,DAL 26,4:23,36,Punt
+DAL,8,None,4:58,DAL 35,4:40,31,Missed FG
+DAL,9,None,12:02,DAL 34,1:48,9,Downs
+DAL,10,None,6:16,DAL 15,0:47,6,Punt
+DAL,11,None,2:14,DAL 26,0:36,30,Interception

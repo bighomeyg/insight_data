@@ -1,0 +1,26 @@
+STL,1,1,5:22,RAM 20,0:39,-3,Fumble
+STL,2,1,4:43,RAM 5,5:33,64,Interception
+STL,3,2,5:56,RAM 20,1:02,0,Punt
+STL,4,2,3:30,RAM 35,2:58,65,Touchdown
+STL,5,3,15:00,RAM 20,0:14,80,Touchdown
+STL,6,3,13:58,TAM 30,3:11,30,Touchdown
+STL,7,3,8:50,RAM 6,2:02,6,Punt
+STL,8,3,1:37,RAM 5,1:03,3,Punt
+STL,9,3,0:07,RAM 18,0:25,-1,Punt
+STL,10,4,12:08,RAM 3,2:54,34,Punt
+STL,11,4,7:55,TAM 39,2:23,-7,Punt
+STL,12,4,2:26,RAM 24,0:34,7,Punt
+STL,13,4,1:03,TAM 31,1:03,-1,End of Game
+TB,1,1,15:00,TAM 20,9:38,69,Field Goal
+TB,2,2,14:10,TAM 20,2:24,5,Interception
+TB,3,2,11:46,TAM 20,5:50,49,Field Goal
+TB,4,2,4:54,TAM 36,1:24,15,Interception
+TB,5,2,0:32,TAM 20,0:32,7,End of Half
+TB,6,3,14:46,TAM 20,0:48,6,Interception
+TB,7,3,10:47,TAM 20,1:57,80,Touchdown
+TB,8,3,6:48,TAM 31,5:11,64,Downs
+TB,9,3,0:34,RAM 43,0:27,0,Punt
+TB,10,4,14:42,TAM 31,2:34,66,Downs
+TB,11,4,9:14,TAM 16,1:19,28,Interception
+TB,12,4,5:32,TAM 13,3:06,63,Downs
+TB,13,4,1:52,TAM 24,0:49,7,Downs

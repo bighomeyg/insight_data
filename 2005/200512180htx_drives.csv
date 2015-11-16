@@ -1,0 +1,27 @@
+ARI,1,1,15:00,CRD 34,1:56,-9,Punt
+ARI,2,1,10:31, 50,6:48,42,Field Goal
+ARI,3,2,14:23,CRD 19,4:07,81,Touchdown
+ARI,4,2,4:57,None,0:10,0,Fumble
+ARI,5,2,1:50,CRD 19,0:32,12,Interception
+ARI,6,2,0:08,None,0:08,0,End of Half
+ARI,7,3,12:13,CRD 20,2:52,16,Punt
+ARI,8,3,8:27,CRD 48,1:14,3,Punt
+ARI,9,3,5:05,CRD 48,0:56,1,Punt
+ARI,10,3,1:38, 50,1:52,26,Field Goal
+ARI,11,4,13:08,CRD 10,2:48,10,Interception
+ARI,12,4,8:46,CRD 42,3:14,58,Touchdown
+ARI,13,4,3:05,CRD 13,0:32,1,Fumble
+ARI,14,4,0:27,CRD 19,0:27,64,End of Game
+HOU,1,1,13:04,HTX 29,2:33,21,Downs
+HOU,2,1,3:43,CRD 46,4:20,46,Touchdown
+HOU,3,2,10:16,HTX 37,5:19,63,Touchdown
+HOU,4,2,4:47,CRD 45,2:57,45,Touchdown
+HOU,5,2,1:18,CRD 38,1:10,29,Field Goal
+HOU,6,3,15:00,HTX 40,2:47,37,Field Goal
+HOU,7,3,9:21,HTX 16,0:54,-11,Punt
+HOU,8,3,7:13,HTX 5,2:08,6,Punt
+HOU,9,3,4:09,HTX 20,2:31,14,Interception
+HOU,10,4,14:46,HTX 36,1:38,-3,Punt
+HOU,11,4,10:20,CRD 40,1:34,-2,Fumble
+HOU,12,4,5:32,HTX 41,2:27,7,Punt
+HOU,13,4,2:33,CRD 14,2:06,6,Field Goal

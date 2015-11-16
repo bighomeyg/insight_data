@@ -1,0 +1,19 @@
+DET,1,1,15:00,DET 20,4:02,80,Touchdown
+DET,2,1,8:16,DET 18,3:56,32,Punt
+DET,3,2,14:01,DET 13,4:50,87,Touchdown
+DET,4,2,5:33,DET 38,0:30,6,Punt
+DET,5,3,13:09,DET 20,2:39,20,Punt
+DET,6,3,4:03,DET 20,2:55,80,Touchdown
+DET,7,4,9:53,DET 20,0:10,0,Interception
+DET,8,4,7:29,DET 21,2:49,79,Touchdown
+DET,9,4,3:36,DET 20,0:33,13,Interception
+NO,1,1,10:58,NOR 19,2:42,63,Fumble
+NO,2,1,4:20,NOR 11,5:19,89,Touchdown
+NO,3,2,9:11,NOR 20,3:38,42,Fumble
+NO,4,2,5:03,NOR 16,5:03,78,Field Goal
+NO,5,3,15:00,NOR 22,1:51,78,Touchdown
+NO,6,3,10:30,NOR 8,6:27,92,Touchdown
+NO,7,3,1:08,NOR 20,6:15,80,Touchdown
+NO,8,4,9:43,NOR 39,2:14,61,Touchdown
+NO,9,4,4:40,DET 44,1:04,44,Touchdown
+NO,10,4,3:03,DET 33,3:03,28,Downs

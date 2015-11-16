@@ -1,0 +1,23 @@
+STL,1,1,8:25,RAM 18,1:35,34,Fumble
+STL,2,1,0:24,RAM 20,4:04,61,Field Goal
+STL,3,2,8:03,RAM 34,2:17,4,Punt
+STL,4,2,2:48,RAM 43,1:06,30,Field Goal
+STL,5,2,1:37,NOR 21,0:50,6,Interception
+STL,6,2,0:47,RAM 40,0:35,5,Punt
+STL,7,3,15:00,RAM 24,1:01,1,Punt
+STL,8,3,13:01,RAM 32,3:55,40,Missed FG
+STL,9,3,4:55,RAM 21,1:38,-11,Punt
+STL,10,4,14:10,RAM 20,3:29,73,Interception
+STL,11,4,9:44, 50,4:21,50,Touchdown
+STL,12,4,2:08,RAM 30,2:08,15,End of Game
+NO,1,1,15:00,NOR 28,6:35,72,Touchdown
+NO,2,1,6:50,NOR 39,6:26,61,Touchdown
+NO,3,2,11:20,NOR 19,3:17,48,Downs
+NO,4,2,5:46,NOR 13,2:58,39,Interception
+NO,5,2,1:42,None,0:05,0,Fumble
+NO,6,2,0:12,NOR 1,0:12,5,End of Half
+NO,7,3,13:59,NOR 25,0:58,3,Punt
+NO,8,3,9:06,NOR 36,4:11,64,Touchdown
+NO,9,3,3:17,NOR 40,4:07,38,Field Goal
+NO,10,4,10:41,NOR 8,0:57,2,Interception
+NO,11,4,5:23,RAM 43,3:15,3,Punt

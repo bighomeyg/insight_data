@@ -1,0 +1,22 @@
+TEN,1,1,15:00,OTI 20,6:13,41,Punt
+TEN,2,1,7:19,OTI 45,4:35,40,Field Goal
+TEN,3,1,0:35,NOR 45,2:40,45,Touchdown
+TEN,4,2,10:15,NOR 31,0:10,0,Interception
+TEN,5,2,7:03,OTI 17,1:49,3,Punt
+TEN,6,2,1:00,OTI 20,1:00,22,End of Half
+TEN,7,3,14:23,OTI 9,1:37,7,Punt
+TEN,8,3,7:55,OTI 43,5:36,57,Touchdown
+TEN,9,4,14:50,OTI 49,5:55,51,Touchdown
+TEN,10,4,7:22,NOR 13,2:33,3,Missed FG
+TEN,11,4,0:58,OTI 28,0:58,-2,End of Game
+NO,1,1,8:47,NOR 16,1:28,4,Punt
+NO,2,1,2:44,NOR 36,2:09,9,Downs
+NO,3,2,12:55,NOR 16,2:40,8,Interception
+NO,4,2,10:05,NOR 32,3:02,13,Punt
+NO,5,2,5:14,NOR 38,4:14,62,Touchdown
+NO,6,3,15:00,NOR 28,0:37,0,Punt
+NO,7,3,12:46,NOR 38,4:51,62,Touchdown
+NO,8,3,2:19,NOR 29,2:29,22,Fumble
+NO,9,4,8:55,NOR 14,1:33,12,Interception
+NO,10,4,4:49,NOR 20,2:10,35,Interception
+NO,11,4,2:39,NOR 28,1:41,25,Interception

@@ -1,0 +1,26 @@
+MIN,1,1,15:00,MIN 33,5:42,67,Touchdown
+MIN,2,1,6:43,MIN 24,1:00,0,Blocked Punt
+MIN,3,1,5:43,MIN 30,3:25,70,Touchdown
+MIN,4,2,13:33,MIN 34,4:23,42,Field Goal
+MIN,5,2,4:58,MIN 20,0:06,0,Interception
+MIN,6,2,3:47,MIN 32,3:25,68,Touchdown
+MIN,7,3,12:12,MIN 36,1:32,64,Touchdown
+MIN,8,3,8:30,MIN 6,1:45,7,Interception
+MIN,9,3,5:39,CHI 45,1:33,9,Downs
+MIN,10,3,2:35,MIN 31,1:45,2,Interception
+MIN,11,4,14:53,MIN 32,5:54,63,Field Goal
+MIN,12,4,7:11,MIN 25,4:11,75,Touchdown
+MIN,13,4,1:06,MIN 25,0:26,-8,Interception
+CHI,1,1,9:18,CHI 46,2:35,54,Touchdown
+CHI,2,1,2:18,CHI 48,3:45,44,Field Goal
+CHI,3,2,9:10,CHI 22,4:12,24,Punt
+CHI,4,2,4:52,MIN 26,1:05,2,Missed FG
+CHI,5,2,0:22,CHI 41,0:22,28,Field Goal
+CHI,6,3,15:00,CHI 20,2:48,80,Touchdown
+CHI,7,3,10:40,CHI 21,2:10,12,Punt
+CHI,8,3,6:45,CHI 37,1:06,8,Fumble
+CHI,9,3,4:06,CHI 37,1:31,63,Touchdown
+CHI,10,3,0:50,MIN 6,0:57,6,Touchdown
+CHI,11,4,8:59,CHI 23,1:48,9,Punt
+CHI,12,4,3:00,CHI 20,1:54,15,Punt
+CHI,13,4,0:40,MIN 41,0:40,-2,End of Game

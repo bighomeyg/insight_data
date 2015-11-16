@@ -1,0 +1,21 @@
+NYJ,1,1,15:00,NYJ 28,5:43,72,Touchdown
+NYJ,2,1,8:06,NYJ 13,1:44,5,Punt
+NYJ,3,1,2:41,NYJ 10,4:07,90,Touchdown
+NYJ,4,2,9:13,MIA 43,1:48,2,Punt
+NYJ,5,2,1:02,NYJ 28,1:02,29,Missed FG
+NYJ,6,3,8:47,NYJ 33,0:18,67,Touchdown
+NYJ,7,3,5:14,NYJ 40,2:03,19,Punt
+NYJ,8,3,2:05,MIA 17,4:10,5,Field Goal
+NYJ,9,4,9:59,NYJ 5,1:03,2,Punt
+NYJ,10,4,6:42,NYJ 20,4:47,80,Touchdown
+NYJ,11,4,0:27,NYJ 20,0:27,-1,End of Game
+MIA,1,1,9:17,MIA 30,1:11,-3,Punt
+MIA,2,1,6:22,MIA 38,3:41,19,Punt
+MIA,3,2,13:34,MIA 24,4:21,76,Touchdown
+MIA,4,2,7:25,MIA 14,6:23,59,Field Goal
+MIA,5,3,15:00,MIA 27,6:13,73,Touchdown
+MIA,6,3,8:29,MIA 25,3:15,73,Field Goal
+MIA,7,3,3:11,MIA 5,1:06,19,Blocked Punt, Downs
+MIA,8,4,12:55,MIA 28,2:56,30,Punt
+MIA,9,4,8:56, 50,2:14,18,Field Goal
+MIA,10,4,1:55,MIA 31,1:28,64,Interception

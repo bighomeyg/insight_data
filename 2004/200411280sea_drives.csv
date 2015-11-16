@@ -1,0 +1,22 @@
+BUF,1,1,15:00,BUF 40,4:22,60,Touchdown
+BUF,2,1,7:57,BUF 29,3:18,32,Interception
+BUF,3,1,2:52,BUF 31,4:22,62,Field Goal
+BUF,4,2,7:51,BUF 38,2:33,22,Interception
+BUF,5,2,2:59,BUF 26,2:53,74,Touchdown
+BUF,6,3,15:00,BUF 41,2:55,17,Interception
+BUF,7,3,11:54,BUF 49,5:10,51,Touchdown
+BUF,8,3,2:17,BUF 30,1:52,0,Punt
+BUF,9,4,14:17,BUF 32,3:39,68,Touchdown
+BUF,10,4,9:20,SEA 15,2:06,15,Touchdown
+BUF,11,4,3:41,SEA 41,3:14,28,Downs
+SEA,1,1,10:38,SEA 31,2:41,15,Punt
+SEA,2,1,4:39,SEA 42,1:47,9,Punt
+SEA,3,2,13:30,SEA 30,5:39,69,Field Goal
+SEA,4,2,5:18,SEA 20,2:19,18,Punt
+SEA,5,2,0:06,None,0:06,0,End of Half
+SEA,6,3,12:05,SEA 29,0:11,0,Interception
+SEA,7,3,6:44,SEA 23,4:27,47,Downs
+SEA,8,3,0:25,SEA 34,1:08,-11,Punt
+SEA,9,4,10:38,SEA 5,1:18,10,Fumble
+SEA,10,4,7:14,SEA 28,3:33,72,Touchdown
+SEA,11,4,0:27,SEA 14,0:27,5,End of Game

@@ -1,0 +1,23 @@
+IND,1,1,8:16,CLT 27,4:50,68,Interception
+IND,2,2,12:44,CLT 41,0:16,0,Interception
+IND,3,2,8:06,CLT 20,3:58,-20,Fumble, Safety
+IND,4,2,2:53,NWE 41,1:48,25,Fumble
+IND,5,3,15:00,CLT 48,5:16,52,Touchdown
+IND,6,3,7:20,CLT 29,1:03,1,Punt
+IND,7,3,1:32,CLT 33,0:38,-7,Interception
+IND,8,4,13:28,CLT 20,5:11,50,Interception
+IND,9,4,6:10,CLT 33,3:43,67,Touchdown
+IND,10,4,2:01,CLT 20,0:20,0,Downs
+IND,11,4,0:50,CLT 41,0:43,25,Downs
+NE,1,1,15:00,NWE 35,6:44,65,Touchdown
+NE,2,1,3:26,NWE 20,5:42,67,Field Goal
+NE,3,2,12:28,NWE 41,4:22,52,Field Goal
+NE,4,2,4:08,NWE 41,1:15,0,Fumble
+NE,5,2,1:05,NWE 16,1:05,9,End of Half
+NE,6,3,9:44,NWE 43,2:24,48,Field Goal
+NE,7,3,6:17,NWE 31,4:45,66,Field Goal
+NE,8,3,0:54,CLT 31,2:26,28,Interception
+NE,9,4,8:17,NWE 31,2:07,6,Punt
+NE,10,4,2:27,CLT 44,0:26,0,Punt
+NE,11,4,1:41,CLT 20,0:51,4,Field Goal
+NE,12,4,0:07,NWE 34,0:07,-1,End of Game

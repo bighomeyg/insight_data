@@ -1,0 +1,22 @@
+DEN,1,1,15:00,DEN 16,1:04,5,Punt
+DEN,2,1,11:50,DEN 13,6:28,78,Field Goal
+DEN,3,1,2:08,DEN 20,1:18,6,Interception
+DEN,4,2,12:18,DEN 31,1:51,69,Touchdown
+DEN,5,2,8:19,DEN 29,4:58,71,Touchdown
+DEN,6,2,0:24,DEN 20,0:24,-1,End of Half
+DEN,7,3,8:26,DEN 34,3:49,62,Fumble
+DEN,8,3,1:12,DEN 27,1:22,-4,Punt
+DEN,9,4,12:13,GNB 40,0:18,0,Interception
+DEN,10,4,7:46,DEN 22,4:44,78,Touchdown
+DEN,11,4,2:37,GNB 49,0:43,5,Interception
+GB,1,1,13:56,GNB 31,2:06,56,Downs
+GB,2,1,5:22,GNB 21,3:14,79,Touchdown
+GB,3,1,0:50,GNB 47,3:32,53,Touchdown
+GB,4,2,10:27,GNB 25,2:08,-3,Punt
+GB,5,2,3:21,GNB 20,2:57,80,Touchdown
+GB,6,3,15:00,GNB 20,6:34,80,Touchdown
+GB,7,3,4:37,GNB 14,3:25,86,Touchdown
+GB,8,4,14:50,GNB 24,2:37,13,Interception
+GB,9,4,11:55,DEN 46,4:09,46,Touchdown
+GB,10,4,3:02,GNB 40,0:25,8,Interception
+GB,11,4,1:54,GNB 37,1:54,1,End of Game

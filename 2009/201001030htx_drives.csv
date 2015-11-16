@@ -1,0 +1,21 @@
+NE,1,1,11:19,NWE 25,4:14,33,Punt
+NE,2,1,5:29,NWE 37,4:39,63,Touchdown
+NE,3,2,14:38,NWE 9,4:47,58,Field Goal
+NE,4,2,4:45,NWE 1,0:04,-1,Fumble
+NE,5,2,4:41,NWE 9,3:55,66,Field Goal
+NE,6,3,15:00,NWE 29,2:09,17,Punt
+NE,7,3,2:57,NWE 29,3:53,71,Touchdown
+NE,8,4,9:41,NWE 23,2:11,2,Punt
+NE,9,4,4:43,NWE 23,0:54,-4,Interception
+NE,10,4,1:54,NWE 34,1:40,32,Downs
+HOU,1,1,15:00,HTX 24,3:41,76,Touchdown
+HOU,2,1,7:05,HTX 11,1:36,7,Punt
+HOU,3,1,0:50,HTX 40,1:12,16,Punt
+HOU,4,2,9:51,HTX 21,5:06,78,Downs
+HOU,5,2,0:46,HTX 20,0:46,42,Missed FG
+HOU,6,3,12:51,HTX 16,5:08,69,Interception
+HOU,7,3,7:43,HTX 27,4:46,53,Missed FG
+HOU,8,4,14:04,HTX 31,4:23,69,Touchdown
+HOU,9,4,7:30,NWE 34,2:47,34,Touchdown
+HOU,10,4,3:49,NWE 28,1:55,28,Touchdown
+HOU,11,4,0:14,HTX 35,0:14,-2,End of Game

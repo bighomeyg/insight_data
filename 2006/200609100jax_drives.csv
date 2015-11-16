@@ -1,0 +1,26 @@
+DAL,1,None,12:03,DAL 30,3:57,70,Touchdown
+DAL,2,None,7:38,DAL 43,2:03,43,Field Goal
+DAL,3,None,2:42,DAL 25,1:32,7,Punt
+DAL,4,None,14:43,DAL 31,1:05,33,Punt
+DAL,5,None,8:48,DAL 20,3:11,13,Punt
+DAL,6,None,3:17,DAL 28,1:44,8,Interception
+DAL,7,None,0:07,DAL 30,0:07,-1,End of Half
+DAL,8,None,15:00,DAL 31,1:57,-2,Punt
+DAL,9,None,7:05,DAL 39,5:40,43,Missed FG
+DAL,10,None,11:27,DAL 27,0:32,-18,Punt
+DAL,11,None,7:58,DAL 13,2:04,21,Interception
+DAL,12,None,3:13,DAL 21,1:19,79,Touchdown
+DAL,13,None,0:51,DAL 20,0:37,-5,Interception
+JAC,1,None,15:00,JAX 19,2:57,22,Punt
+JAC,2,None,8:06,JAX 20,0:28,-5,Punt
+JAC,3,None,5:35,JAX 20,2:53,5,Punt
+JAC,4,None,1:10,JAX 20,1:27,4,Punt
+JAC,5,None,13:38,JAX 20,4:50,63,Field Goal
+JAC,6,None,5:37,JAX 26,2:20,26,Interception
+JAC,7,None,1:33,DAL 32,1:26,32,Touchdown
+JAC,8,None,13:03,JAX 26,5:58,43,Missed FG
+JAC,9,None,1:25,JAX 26,4:58,74,Touchdown
+JAC,10,None,10:55,JAX 25,2:57,18,Punt
+JAC,11,None,5:54,DAL 40,2:41,40,Touchdown
+JAC,12,None,1:54,DAL 33,1:03,1,Punt
+JAC,13,None,0:14,DAL 16,0:14,-1,End of Game

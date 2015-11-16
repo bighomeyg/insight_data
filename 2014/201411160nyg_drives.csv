@@ -1,0 +1,24 @@
+SF,1,1,15:00,SFO 15,5:56,63,Fumble
+SF,2,1,6:54,SFO 20,5:55,67,Field Goal
+SF,3,2,15:00,SFO 39,4:45,42,Field Goal
+SF,4,2,8:23,NYG 29,0:54,3,Field Goal
+SF,5,2,4:34,SFO 15,2:39,26,Punt
+SF,6,2,0:01,SFO 31,0:01,-1,End of Half
+SF,7,3,12:39,SFO 41,1:01,59,Touchdown
+SF,8,3,6:49,SFO 32,5:00,36,Downs
+SF,9,3,0:22,SFO 43,1:23,17,Punt
+SF,10,4,9:40,SFO 21,3:22,18,Punt
+SF,11,4,4:43,SFO 2,3:34,30,Punt
+SF,12,4,0:29,NYG 19,0:29,-2,End of Game
+NYG,1,1,9:04,NYG 37,2:10,63,Touchdown
+NYG,2,1,0:59,NYG 22,0:59,2,Punt
+NYG,3,2,10:15,NYG 25,1:52,13,Interception
+NYG,4,2,7:29,NYG 29,2:55,54,Interception
+NYG,5,2,1:55,NYG 9,1:54,25,Punt
+NYG,6,3,15:00,NYG 22,2:21,-12,Punt
+NYG,7,3,11:38,NYG 41,3:20,34,Field Goal
+NYG,8,3,8:18,NYG 46,1:29,1,Interception
+NYG,9,3,1:49,NYG 33,1:27,24,Downs
+NYG,10,4,13:59,NYG 12,4:19,56,Interception
+NYG,11,4,6:18,NYG 35,1:35,61,Interception
+NYG,12,4,1:09,NYG 15,0:40,4,Downs

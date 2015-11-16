@@ -1,0 +1,24 @@
+TEN,1,None,15:00,OTI 32,1:35,7,Punt
+TEN,2,None,11:28,OTI 22,1:18,37,Fumble
+TEN,3,None,8:24,OTI 31,5:18,46,Field Goal
+TEN,4,None,0:03,OTI 20,1:43,66,Field Goal
+TEN,5,None,7:54,OTI 30,1:43,1,Punt
+TEN,6,None,3:29,OTI 31,3:24,20,Punt
+TEN,7,None,9:26,OTI 31,3:28,32,Punt
+TEN,8,None,4:30,OTI 37,2:41,63,Touchdown
+TEN,9,None,0:07,OTI 24,0:18,7,Interception
+TEN,10,None,12:00,OTI 12,8:07,88,Touchdown
+TEN,11,None,2:09,OTI 40,1:16,8,Punt
+TEN,12,None,15:00,OTI 43,3:46,57,Touchdown
+HOU,1,None,13:25,HTX 18,1:57,7,Punt
+HOU,2,None,10:10,HTX 36,1:46,3,Punt
+HOU,3,None,3:06,HTX 25,3:03,32,Punt
+HOU,4,None,13:20,HTX 46,5:26,54,Touchdown
+HOU,5,None,6:11,HTX 17,2:42,18,Punt
+HOU,6,None,0:05,HTX 5,0:05,-1,End of Half
+HOU,7,None,15:00,HTX 27,5:34,73,Touchdown
+HOU,8,None,5:58,HTX 9,1:28,8,Punt
+HOU,9,None,1:49,HTX 22,1:42,5,Punt
+HOU,10,None,14:49,OTI 42,2:49,11,Field Goal
+HOU,11,None,3:53,HTX 39,1:44,33,Field Goal
+HOU,12,None,0:53,HTX 7,0:53,-2,End of Half

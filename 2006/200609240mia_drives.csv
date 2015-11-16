@@ -1,0 +1,24 @@
+TEN,1,None,15:00,OTI 20,1:25,9,Punt
+TEN,2,None,10:44,OTI 19,2:20,14,Interception
+TEN,3,None,5:56,OTI 20,4:00,42,Punt
+TEN,4,None,0:14,OTI 46,1:32,54,Touchdown
+TEN,5,None,10:15,OTI 20,3:26,77,Fumble
+TEN,6,None,1:05,OTI 20,1:04,47,Missed FG
+TEN,7,None,8:57,OTI 37,1:51,1,Punt
+TEN,8,None,7:06,MIA 13,2:24,9,Field Goal
+TEN,9,None,3:35,OTI 8,2:20,19,Punt
+TEN,10,None,12:03,OTI 20,1:57,7,Punt
+TEN,11,None,8:32,OTI 22,0:27,0,Punt
+TEN,12,None,3:39,OTI 20,1:45,37,Interception
+MIA,1,None,13:35,MIA 33,2:51,12,Punt
+MIA,2,None,8:24,OTI 36,2:28,14,Field Goal
+MIA,3,None,1:56,MIA 3,1:42,5,Punt
+MIA,4,None,13:42,MIA 16,3:27,33,Punt
+MIA,5,None,6:49,MIA 34,5:44,54,Missed FG
+MIA,6,None,0:01,MIA 41,0:01,0,End of Half
+MIA,7,None,15:00,MIA 20,6:03,80,Touchdown
+MIA,8,None,4:42,MIA 33,1:07,-3,Punt
+MIA,9,None,1:15,MIA 11,4:12,31,Punt
+MIA,10,None,10:06,MIA 23,1:34,6,Punt
+MIA,11,None,8:05,MIA 29,4:26,50,Field Goal
+MIA,12,None,1:54,MIA 31,1:54,18,End of Game

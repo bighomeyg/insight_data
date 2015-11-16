@@ -1,0 +1,20 @@
+NE,1,1,10:26,NWE 20,4:19,80,Touchdown
+NE,2,1,0:03,NWE 4,1:31,36,Punt
+NE,3,2,10:20,NWE 36,2:36,64,Touchdown
+NE,4,2,2:15,NWE 20,2:09,54,Field Goal
+NE,5,3,15:00,NWE 19,3:53,81,Touchdown
+NE,6,3,3:21,NWE 20,4:43,80,Touchdown
+NE,7,4,10:19,NWE 49,1:58,-7,Punt
+NE,8,4,6:38,NWE 25,2:36,12,Punt
+NE,9,4,3:43,RAI 26,2:27,25,Downs
+NE,10,4,0:28,RAI 45,0:28,-1,End of Game
+OAK,1,1,15:00,RAI 40,4:34,50,Field Goal
+OAK,2,1,6:07,RAI 20,6:04,35,Punt
+OAK,3,2,13:32,RAI 12,3:12,88,Touchdown
+OAK,4,2,7:44,RAI 14,5:29,80,Interception
+OAK,5,2,0:06,None,0:06,0,End of Half
+OAK,6,3,11:07,RAI 18,7:46,74,Field Goal
+OAK,7,4,13:38,RAI 16,3:19,54,Interception
+OAK,8,4,8:21,RAI 10,1:43,17,Punt
+OAK,9,4,4:02,RAI 20,0:19,7,Downs
+OAK,10,4,1:16,RAI 1,0:48,99,Touchdown

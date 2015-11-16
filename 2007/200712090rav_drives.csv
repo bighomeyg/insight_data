@@ -1,0 +1,24 @@
+IND,1,1,15:00,CLT 35,3:41,65,Touchdown
+IND,2,1,9:44,RAV 12,0:35,12,Touchdown
+IND,3,1,4:11,RAV 19,0:06,19,Touchdown
+IND,4,1,1:57,CLT 35,5:00,65,Touchdown
+IND,5,2,11:44,CLT 25,1:50,5,Punt
+IND,6,2,8:36,CLT 32,2:16,68,Touchdown
+IND,7,2,5:22,RAV 46,3:31,16,Punt
+IND,8,3,13:29,RAV 42,0:52,42,Touchdown
+IND,9,3,8:10,CLT 19,1:40,6,Punt
+IND,10,4,14:10,CLT 23,2:26,9,Punt
+IND,11,4,6:16,CLT 6,3:55,19,Punt
+IND,12,4,0:59,RAV 41,0:59,-2,End of Game
+BAL,1,1,11:19,RAV 26,1:35,5,Fumble
+BAL,2,1,9:09,RAV 14,4:58,47,Interception
+BAL,3,1,4:05,RAV 27,2:08,5,Safety
+BAL,4,2,11:57,None,0:13,0,Touchdown
+BAL,5,2,9:54,RAV 23,1:18,0,Punt
+BAL,6,2,6:20,RAV 47,0:58,1,Interception
+BAL,7,2,1:51,RAV 4,1:51,-1,End of Half
+BAL,8,3,15:00,RAV 39,1:31,3,Fumble
+BAL,9,3,12:37,RAV 29,4:27,64,Interception
+BAL,10,3,6:30,RAV 37,7:20,63,Touchdown
+BAL,11,4,11:44,RAV 27,5:28,67,Downs
+BAL,12,4,2:21,CLT 41,1:22,41,Touchdown

@@ -1,0 +1,14 @@
+IND,1,None,10:23,CLT 45,0:26,0,Fumble
+IND,2,None,5:46,CLT 20,4:48,80,Touchdown
+IND,3,None,13:57,CLT 20,5:41,80,Touchdown
+IND,4,None,0:16,CLT 25,0:16,-1,End of Half
+IND,5,None,15:00,CLT 20,2:29,19,Punt
+IND,6,None,7:31,CLT 20,6:08,65,Field Goal
+IND,7,None,6:54,CLT 29,4:13,71,Touchdown
+HOU,1,None,15:00,HTX 39,4:37,61,Touchdown
+HOU,2,None,9:57,CLT 47,4:11,47,Touchdown
+HOU,3,None,0:58,HTX 26,2:01,20,Punt
+HOU,4,None,8:16,HTX 25,8:00,75,Touchdown
+HOU,5,None,12:31,HTX 5,5:00,49,Punt
+HOU,6,None,1:23,HTX 25,9:29,51,Field Goal
+HOU,7,None,2:41,HTX 39,2:41,31,Field Goal

@@ -1,0 +1,23 @@
+IND,1,None,9:13,CLT 32,4:43,68,Touchdown
+IND,2,None,14:25,CLT 18,4:29,82,Touchdown
+IND,3,None,4:14,NWE 29,2:28,24,Field Goal
+IND,4,None,0:16,CLT 3,0:16,-1,End of Half
+IND,5,None,15:00,CLT 31,2:39,50,Missed FG
+IND,6,None,12:16,NWE 31,0:48,-9,Punt
+IND,7,None,9:31,CLT 26,2:35,74,Touchdown
+IND,8,None,5:18,None,0:11,0,Fumble
+IND,9,None,1:22,CLT 26,3:06,44,Interception
+IND,10,None,13:04,NWE 46,2:47,33,Field Goal
+IND,11,None,6:01,CLT 39,4:06,33,Missed FG
+IND,12,None,1:18,CLT 35,1:18,-2,End of Game
+NE,1,None,15:00,NWE 19,5:47,47,Interception
+NE,2,None,4:30,NWE 32,5:05,68,Touchdown
+NE,3,None,9:56,NWE 34,5:42,66,Touchdown
+NE,4,None,1:46,NWE 38,1:30,22,Interception
+NE,5,None,12:21,NWE 27,0:05,4,Fumble
+NE,6,None,11:28,NWE 11,1:57,20,Punt
+NE,7,None,6:56,NWE 39,1:38,30,Field Goal
+NE,8,None,5:07,CLT 46,3:45,28,Missed FG
+NE,9,None,13:16,NWE 46,0:12,0,Interception
+NE,10,None,10:17,NWE 39,4:16,53,Field Goal
+NE,11,None,1:55,NWE 36,0:37,25,Interception

@@ -1,0 +1,22 @@
+MIN,1,1,11:56,MIN 31,8:03,69,Touchdown
+MIN,2,1,0:08,MIN 22,3:19,78,Touchdown
+MIN,3,2,8:16,MIN 16,2:22,84,Touchdown
+MIN,4,2,1:50,MIN 38,0:36,3,Punt
+MIN,5,2,0:25,MIN 8,0:25,0,End of Half
+MIN,6,3,15:00,MIN 26,3:10,27,Interception
+MIN,7,3,5:50,MIN 1,0:09,-1,Fumble
+MIN,8,3,5:41,MIN 27,4:43,73,Touchdown
+MIN,9,4,13:39,MIN 48,2:43,27,Blocked FG
+MIN,10,4,10:56,MIN 40,2:08,12,Punt
+MIN,11,4,7:49,MIN 27,6:40,72,Field Goal
+MIN,12,4,0:13,MIN 47,0:13,-1,End of Game
+DET,1,1,15:00,DET 39,3:04,61,Touchdown
+DET,2,1,3:53,DET 35,0:53,3,Interception
+DET,3,1,3:00,DET 29,2:52,71,Touchdown
+DET,4,2,11:49,DET 30,3:33,22,Punt
+DET,5,2,5:54,DET 38,4:04,43,Field Goal
+DET,6,2,1:14,DET 21,0:49,22,Punt
+DET,7,3,11:50,DET 5,6:00,94,Downs
+DET,8,3,0:58,DET 31,2:19,12,Interception
+DET,9,4,8:48,DET 19,0:59,31,Interception
+DET,10,4,1:09,DET 39,0:56,61,Touchdown

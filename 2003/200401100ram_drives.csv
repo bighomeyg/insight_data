@@ -1,0 +1,23 @@
+CAR,1,1,15:00,CAR 29,2:49,21,Punt
+CAR,2,1,5:34,CAR 28,4:53,29,Interception
+CAR,3,2,13:26,CAR 32,2:04,68,Touchdown
+CAR,4,2,6:58,CAR 41,5:51,32,Field Goal
+CAR,5,3,11:25,CAR 17,3:40,49,Field Goal
+CAR,6,3,7:12,CAR 20,6:29,64,Field Goal
+CAR,7,4,13:08,CAR 27,4:18,73,Touchdown
+CAR,8,4,8:40,RAM 28,2:11,-7,Missed FG
+CAR,9,5,15:00,CAR 32,5:22,41,Missed FG
+CAR,10,5,6:47,CAR 43,2:18,4,Punt
+CAR,11,6,1:01,CAR 35,1:11,65,Touchdown
+STL,1,1,12:11,RAM 17,6:37,81,Field Goal
+STL,2,1,0:41,CAR 25,2:15,17,Field Goal
+STL,3,2,11:22,RAM 46,4:24,48,Field Goal
+STL,4,2,1:07,RAM 31,1:07,0,End of Half
+STL,5,3,15:00,RAM 25,3:35,42,Field Goal
+STL,6,3,7:45,RAM 39,0:33,-5,Punt
+STL,7,3,0:43,RAM 22,2:35,10,Interception
+STL,8,4,8:50,RAM 20,0:10,0,Interception
+STL,9,4,6:29,RAM 43,3:50,57,Touchdown
+STL,10,4,2:39,RAM 42,2:39,43,Field Goal
+STL,11,5,9:38,RAM 35,2:51,30,Missed FG
+STL,12,5,4:29,RAM 13,3:28,49,Interception

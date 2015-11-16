@@ -1,0 +1,19 @@
+DAL,1,None,15:00,DAL 24,3:58,67,Field Goal
+DAL,2,None,8:09,DAL 19,10:11,53,Downs
+DAL,3,None,11:26,DAL 26,1:53,20,Punt
+DAL,4,None,0:30,DAL 35,0:25,65,Touchdown
+DAL,5,None,12:25,MIN 31,1:49,31,Touchdown
+DAL,6,None,6:01,DAL 28,3:22,32,Punt
+DAL,7,None,14:10,DAL 33,4:35,48,Fumble
+DAL,8,None,6:56,DAL 45,1:55,4,Punt
+DAL,9,None,1:54,DAL 24,1:36,45,Fumble
+MIN,1,None,11:02,MIN 29,2:53,23,Punt
+MIN,2,None,12:58,MIN 28,1:32,72,Touchdown
+MIN,3,None,9:33,MIN 15,9:03,85,Touchdown
+MIN,4,None,0:05,None,0:05,0,End of Half
+MIN,5,None,15:00,MIN 19,2:35,81,Touchdown
+MIN,6,None,10:36,MIN 39,4:35,61,Touchdown
+MIN,7,None,2:39,MIN 12,3:29,37,Punt
+MIN,8,None,9:35,MIN 19,2:39,81,Touchdown
+MIN,9,None,5:01,MIN 21,3:07,12,Punt
+MIN,10,None,0:18,MIN 31,0:18,-1,End of Game

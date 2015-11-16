@@ -1,0 +1,23 @@
+SF,1,None,15:00,SFO 22,1:12,3,Punt
+SF,2,None,12:14,SFO 21,5:02,41,Punt
+SF,3,None,3:36,SFO 31,1:59,0,Punt
+SF,4,None,1:37,CLE 48,1:36,9,Downs
+SF,5,None,11:44,SFO 47,1:52,8,Punt
+SF,6,None,8:00,SFO 25,4:40,75,Touchdown
+SF,7,None,1:04,SFO 28,1:04,8,End of Half
+SF,8,None,8:22,SFO 20,2:09,6,Punt
+SF,9,None,4:08,SFO 49,2:05,2,Punt
+SF,10,None,1:04,SFO 39,1:49,1,Punt
+SF,11,None,10:16,SFO 20,3:56,33,Punt
+SF,12,None,4:43,SFO 32,0:50,-1,Punt
+CLE,1,None,13:48,SFO 33,1:34,12,Interception
+CLE,2,None,7:12,CLE 15,3:36,21,Punt
+CLE,3,None,0:01,CLE 39,3:17,61,Touchdown
+CLE,4,None,9:52,CLE 9,1:52,26,Punt
+CLE,5,None,3:20,CLE 37,2:16,57,Field Goal
+CLE,6,None,15:00,CLE 23,6:38,69,Blocked FG
+CLE,7,None,6:13,CLE 13,2:05,-3,Punt
+CLE,8,None,2:03,CLE 14,0:59,0,Punt
+CLE,9,None,14:15,CLE 24,3:59,44,Field Goal
+CLE,10,None,6:20,CLE 14,1:37,4,Punt
+CLE,11,None,3:53,CLE 39,3:53,56,End of Game

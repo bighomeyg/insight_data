@@ -1,0 +1,20 @@
+OAK,1,1,15:00,RAI 22,6:16,70,Field Goal
+OAK,2,1,4:33,CAR 33,5:27,33,Touchdown
+OAK,3,2,11:55,RAI 14,1:39,-1,Punt
+OAK,4,2,6:37,RAI 19,5:28,81,Touchdown
+OAK,5,2,0:06,RAI 31,0:06,-1,End of Half
+OAK,6,3,7:03,RAI 33,1:41,8,Punt
+OAK,7,3,3:40,RAI 45,0:10,0,Interception
+OAK,8,3,1:02,RAI 23,6:46,77,Touchdown
+OAK,9,4,3:57,RAI 19,0:41,2,Punt
+OAK,10,4,2:25,RAI 28,2:19,71,Field Goal
+CAR,1,1,8:44,CAR 19,4:11,25,Blocked Punt
+CAR,2,2,14:06,CAR 32,2:11,13,Punt
+CAR,3,2,10:16,CAR 45,3:39,55,Touchdown
+CAR,4,2,1:09,CAR 24,1:03,3,Punt
+CAR,5,3,15:00,CAR 29,7:57,71,Touchdown
+CAR,6,3,5:22,CAR 3,1:42,1,Punt
+CAR,7,3,3:30,CAR 30,2:28,15,Punt
+CAR,8,4,9:16,CAR 21,5:19,59,Field Goal
+CAR,9,4,3:16,CAR 25,0:51,75,Touchdown
+CAR,10,4,0:06,None,0:06,0,End of Game

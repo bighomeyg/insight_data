@@ -1,0 +1,30 @@
+NE,1,None,11:48,NWE 10,1:02,2,Punt
+NE,2,None,9:45,NWE 7,1:40,7,Punt
+NE,3,None,5:15,NWE 35,4:35,33,Field Goal
+NE,4,None,13:20,NWE 14,1:30,1,Punt
+NE,5,None,7:19,NWE 43,0:55,19,Interception
+NE,6,None,5:21,NWE 33,0:54,0,Punt
+NE,7,None,2:04,NWE 28,1:56,72,Touchdown
+NE,8,None,15:00,NWE 23,2:25,9,Punt
+NE,9,None,11:32,NWE 32,1:00,0,Interception
+NE,10,None,7:17,NWE 2,1:57,16,Punt
+NE,11,None,5:20,SDG 31,3:09,15,Field Goal
+NE,12,None,15:00,NWE 36,1:41,23,Punt
+NE,13,None,8:35,NWE 37,2:19,22,Interception
+NE,14,None,6:16,SDG 32,1:40,32,Touchdown
+NE,15,None,3:30,NWE 15,2:20,72,Field Goal
+NE,16,None,0:03,NWE 29,0:03,-1,End of Game
+SD,1,None,15:00,SDG 26,3:12,31,Punt
+SD,2,None,10:46, 50,1:01,0,Punt
+SD,3,None,8:05,SDG 35,2:50,30,Fumble
+SD,4,None,0:40,SDG 39,2:20,20,Punt
+SD,5,None,11:50,NWE 48,4:31,48,Touchdown
+SD,6,None,6:24,SDG 41,1:03,-8,Punt
+SD,7,None,4:27,SDG 23,2:23,77,Touchdown
+SD,8,None,0:08,SDG 33,0:08,-1,End of Half
+SD,9,None,12:35,SDG 34,1:03,2,Punt
+SD,10,None,10:32,NWE 32,3:15,-6,Punt
+SD,11,None,2:11,SDG 40,2:11,23,Interception
+SD,12,None,13:19,SDG 17,4:44,83,Touchdown
+SD,13,None,4:36,SDG 29,1:06,5,Punt
+SD,14,None,1:10,SDG 25,1:07,39,Missed FG

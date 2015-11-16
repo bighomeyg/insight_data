@@ -1,0 +1,28 @@
+PIT,1,1,15:00,PIT 40,2:55,18,Fumble
+PIT,2,1,10:20,PIT 20,2:13,9,Punt
+PIT,3,1,4:12,PIT 1,0:06,0,Interception
+PIT,4,1,4:00,PIT 23,6:24,44,Downs
+PIT,5,2,10:30,PIT 20,2:54,68,Field Goal
+PIT,6,2,3:51,PIT 29,1:56,71,Touchdown
+PIT,7,2,0:10,PIT 24,0:10,-1,End of Half
+PIT,8,3,12:56,NWE 36,1:54,36,Touchdown
+PIT,9,3,9:28,NWE 46,2:18,46,Touchdown
+PIT,10,3,2:39,PIT 11,2:15,25,Punt
+PIT,11,4,13:46,PIT 23,1:02,-12,Punt
+PIT,12,4,9:16,PIT 20,3:01,80,Touchdown
+PIT,13,4,5:15,PIT 20,1:56,28,Interception
+PIT,14,4,2:41,PIT 20,2:08,41,Downs
+NE,1,1,12:05,NWE 42,1:45,4,Punt
+NE,2,1,8:07,NWE 22,3:55,77,Downs
+NE,3,1,4:06,PIT 34,0:06,34,Touchdown
+NE,4,2,12:36,NWE 33,2:06,67,Touchdown
+NE,5,2,7:36,NWE 20,3:45,77,Field Goal
+NE,6,2,1:55,NWE 23,1:45,77,Touchdown
+NE,7,3,15:00,NWE 10,2:04,26,Fumble
+NE,8,3,11:02,NWE 15,1:34,8,Punt
+NE,9,3,7:10,NWE 26,4:31,60,Field Goal
+NE,10,3,0:24,PIT 34,1:38,34,Touchdown
+NE,11,4,12:44,NWE 39,3:28,61,Touchdown
+NE,12,4,6:15,NWE 7,1:00,93,Touchdown
+NE,13,4,3:19,PIT 28,0:38,28,Touchdown
+NE,14,4,0:33,NWE 39,0:33,-1,End of Game

@@ -1,0 +1,25 @@
+SF,1,1,15:00,SFO 20,1:55,-2,Punt
+SF,2,1,10:36,SFO 20,6:38,62,Field Goal
+SF,3,2,14:52,SFO 20,2:59,55,Fumble
+SF,4,2,7:10,SFO 21,0:15,0,Interception
+SF,5,2,3:05,SFO 6,0:58,6,Punt
+SF,6,2,1:45,SFO 20,1:45,71,Field Goal
+SF,7,3,14:49,SFO 14,2:39,32,Punt
+SF,8,3,10:26,SFO 20,3:06,80,Touchdown
+SF,9,3,5:47,RAV 20,0:48,20,Touchdown
+SF,10,3,4:10,RAV 24,1:00,8,Field Goal
+SF,11,4,12:54,SFO 24,2:57,76,Touchdown
+SF,12,4,4:19,SFO 20,2:33,75,Downs
+SF,13,4,0:04,None,0:04,0,End of Game
+BAL,1,1,13:05,RAV 49,2:29,51,Touchdown
+BAL,2,1,3:58,RAV 22,4:06,36,Punt
+BAL,3,2,11:53,RAV 25,4:43,75,Touchdown
+BAL,4,2,6:55,SFO 38,3:50,32,Downs
+BAL,5,2,2:07,RAV 44,0:22,56,Touchdown
+BAL,6,3,15:00,None,0:11,0,Touchdown
+BAL,7,3,12:10,RAV 20,1:44,24,Punt
+BAL,8,3,7:20,RAV 17,1:33,-8,Punt
+BAL,9,3,4:59,RAV 20,0:49,4,Fumble
+BAL,10,3,3:10,RAV 28,5:16,71,Field Goal
+BAL,11,4,9:57,RAV 21,5:38,59,Field Goal
+BAL,12,4,1:46,RAV 5,1:42,-5,Safety

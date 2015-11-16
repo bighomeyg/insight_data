@@ -1,0 +1,24 @@
+STL,1,1,12:11,RAM 26,7:21,52,Field Goal
+STL,2,1,2:55,BUF 18,0:07,18,Touchdown
+STL,3,2,13:56,RAM 32,1:25,-7,Punt
+STL,4,2,11:01,RAM 22,7:56,78,Touchdown
+STL,5,2,0:34,RAM 27,0:34,26,End of Half
+STL,6,3,15:00,RAM 21,1:12,-2,Punt
+STL,7,3,13:43,RAM 26,2:31,6,Punt
+STL,8,3,8:03,RAM 34,1:24,-6,Interception
+STL,9,3,5:15,RAM 20,1:42,-2,Punt
+STL,10,3,1:25,RAM 32,4:37,65,Interception
+STL,11,4,10:50,RAM 42,5:40,55,Interception
+STL,12,4,2:44,RAM 29,0:55,-20,Downs
+BUF,1,1,15:00,BUF 21,2:49,8,Punt
+BUF,2,1,4:50,BUF 40,1:55,-3,Interception
+BUF,3,1,2:48,BUF 29,3:52,71,Touchdown
+BUF,4,2,12:31,BUF 49,1:30,51,Touchdown
+BUF,5,2,3:05,BUF 34,2:31,63,Field Goal
+BUF,6,3,13:48,RAM 5,0:05,5,Touchdown
+BUF,7,3,11:12,RAM 31,3:09,14,Field Goal
+BUF,8,3,6:39,RAM 27,1:24,-9,Punt
+BUF,9,3,3:33,RAM 49,2:08,34,Field Goal
+BUF,10,4,11:48,BUF 7,0:58,2,Punt
+BUF,11,4,5:10,BUF 20,2:26,6,Punt
+BUF,12,4,1:49,RAM 9,1:49,3,End of Game

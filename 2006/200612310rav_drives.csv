@@ -1,0 +1,22 @@
+BUF,1,None,7:08,BUF 32,2:07,2,Punt
+BUF,2,None,4:52,RAV 39,1:04,0,Punt
+BUF,3,None,12:16,BUF 12,5:33,51,Punt
+BUF,4,None,1:32,BUF 46,1:05,14,Punt
+BUF,5,None,15:00,BUF 32,0:45,-7,Fumble
+BUF,6,None,12:28,BUF 24,4:20,76,Touchdown
+BUF,7,None,6:32,BUF 15,0:58,6,Punt
+BUF,8,None,4:33,BUF 20,0:47,5,Interception
+BUF,9,None,3:46,BUF 21,2:50,22,Punt
+BUF,10,None,10:43,BUF 4,1:37,4,Punt
+BUF,11,None,4:48,BUF 31,2:33,65,Interception
+BAL,1,None,15:00,RAV 37,7:52,55,Field Goal
+BAL,2,None,5:01,RAV 24,0:09,0,Interception
+BAL,3,None,3:48,RAV 9,6:32,52,Punt
+BAL,4,None,6:43,RAV 20,5:11,61,Field Goal
+BAL,5,None,0:27,RAV 20,0:27,-1,End of Half
+BAL,6,None,14:15,BUF 25,1:47,4,Field Goal
+BAL,7,None,8:08,RAV 29,1:36,2,Punt
+BAL,8,None,5:34,RAV 44,1:01,0,Punt
+BAL,9,None,0:56,RAV 2,5:13,58,Punt
+BAL,10,None,9:06,RAV 43,4:18,46,Field Goal
+BAL,11,None,2:15,RAV 44,2:15,30,End of Game

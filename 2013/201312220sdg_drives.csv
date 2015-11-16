@@ -1,0 +1,22 @@
+OAK,1,1,15:00,RAI 20,3:02,14,Punt
+OAK,2,1,2:42,RAI 20,1:53,9,Punt
+OAK,3,2,14:07,RAI 42,3:28,58,Touchdown
+OAK,4,2,5:54,RAI 10,1:57,10,Interception
+OAK,5,2,3:13,RAI 23,1:37,17,Punt
+OAK,6,2,1:36,SDG 16,1:26,14,Field Goal
+OAK,7,3,12:50,RAI 26,1:32,6,Punt
+OAK,8,3,5:00,RAI 17,1:16,1,Punt
+OAK,9,3,0:56,None,0:06,0,Fumble
+OAK,10,4,14:51,RAI 25,3:32,51,Field Goal
+OAK,11,4,6:23,RAI 24,5:29,70,Downs
+SD,1,1,11:58,SDG 9,9:16,82,Field Goal
+SD,2,1,0:49,SDG 36,1:42,22,Fumble
+SD,3,2,10:39,SDG 12,4:45,57,Interception
+SD,4,2,3:57,RAI 20,0:44,20,Touchdown
+SD,5,2,0:10,SDG 18,0:10,-1,End of Half
+SD,6,3,15:00,SDG 20,2:10,17,Punt
+SD,7,3,11:18,SDG 23,6:18,77,Touchdown
+SD,8,3,3:44,SDG 28,2:48,42,Field Goal
+SD,9,3,0:50,RAI 13,0:59,3,Field Goal
+SD,10,4,11:19,SDG 26,4:56,59,Field Goal
+SD,11,4,0:54,SDG 6,0:54,-2,End of Game

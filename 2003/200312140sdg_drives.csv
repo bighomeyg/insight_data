@@ -1,0 +1,26 @@
+GB,1,1,15:00,GNB 40,4:01,60,Touchdown
+GB,2,1,6:02,GNB 20,4:01,32,Punt
+GB,3,2,12:55,SDG 38,3:56,24,Field Goal
+GB,4,2,5:34,GNB 4,3:44,36,Punt
+GB,5,2,1:17,GNB 30,0:44,70,Touchdown
+GB,6,3,8:52,GNB 29,1:06,-2,Punt
+GB,7,3,5:08,SDG 42,0:22,0,Interception
+GB,8,4,14:56,GNB 25,1:52,5,Punt
+GB,9,4,12:10,SDG 42,0:52,42,Touchdown
+GB,10,4,10:46,GNB 33,1:55,8,Punt
+GB,11,4,8:42,SDG 1,0:05,1,Touchdown
+GB,12,4,7:13,GNB 30,3:15,70,Touchdown
+GB,13,4,1:36,GNB 6,1:36,-2,End of Game
+SD,1,1,10:59,SDG 24,4:57,74,Field Goal
+SD,2,1,2:01,SDG 11,4:06,28,Fumble
+SD,3,2,8:59,SDG 41,3:25,21,Punt
+SD,4,2,1:50,SDG 20,0:33,66,Interception
+SD,5,2,0:33,SDG 31,0:33,-1,End of Half
+SD,6,3,15:00,SDG 22,6:08,71,Field Goal
+SD,7,3,7:46,SDG 41,2:38,1,Fumble
+SD,8,3,4:46,SDG 47,4:50,53,Touchdown
+SD,9,4,13:04,SDG 28,0:54,72,Touchdown
+SD,10,4,11:18,SDG 39,0:32,0,Punt
+SD,11,4,8:51,SDG 20,0:09,-19,Fumble
+SD,12,4,8:37,SDG 32,1:24,-5,Punt
+SD,13,4,3:58,SDG 22,2:22,73,Downs

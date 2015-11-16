@@ -1,0 +1,22 @@
+PHI,1,1,15:00,PHI 24,3:18,23,Fumble
+PHI,2,1,6:04,PHI 21,4:15,79,Touchdown
+PHI,3,1,0:19,PHI 20,1:00,4,Punt
+PHI,4,2,10:43,PHI 7,7:04,93,Touchdown
+PHI,5,2,1:51,PHI 17,1:42,37,Punt
+PHI,6,3,14:52,WAS 16,1:18,0,Missed FG
+PHI,7,3,6:46,PHI 20,4:24,52,Missed FG
+PHI,8,3,0:26,PHI 15,4:59,85,Touchdown
+PHI,9,4,9:11,PHI 46,2:54,50,Field Goal
+PHI,10,4,2:36,PHI 15,1:05,37,Interception
+PHI,11,4,0:05, 50,0:05,0,End of Game
+WAS,1,1,11:42,PHI 47,5:38,40,Field Goal
+WAS,2,1,1:49,WAS 20,1:30,80,Touchdown
+WAS,3,2,14:19,WAS 42,3:36,17,Punt
+WAS,4,2,3:39,WAS 27,1:48,7,Punt
+WAS,5,2,0:09,WAS 8,0:09,-1,End of Half
+WAS,6,3,15:00,None,0:08,0,Fumble
+WAS,7,3,13:34,WAS 24,6:48,76,Touchdown
+WAS,8,3,2:22,WAS 36,1:56,64,Touchdown
+WAS,9,4,10:27,WAS 17,1:16,0,Interception
+WAS,10,4,6:17,WAS 35,3:41,10,Punt
+WAS,11,4,1:31,WAS 42,1:26,50,Field Goal

@@ -1,0 +1,26 @@
+PIT,1,1,13:00,PIT 28,3:39,24,Punt
+PIT,2,1,4:02,PIT 27,4:01,73,Touchdown
+PIT,3,2,12:04,GNB 48,1:57,8,Punt
+PIT,4,2,6:49,PIT 38,2:07,4,Punt
+PIT,5,2,1:53,GNB 45,1:51,32,Field Goal
+PIT,6,3,15:00,PIT 25,3:09,75,Touchdown
+PIT,7,3,6:32,PIT 2,0:06,1,Fumble
+PIT,8,3,5:19,PIT 32,3:24,68,Touchdown
+PIT,9,3,0:09,PIT 38,0:09,0,Interception
+PIT,10,4,12:04,PIT 20,1:37,6,Punt
+PIT,11,4,7:14,PIT 11,4:14,48,Punt
+PIT,12,4,1:51,GNB 17,0:26,17,Touchdown
+GB,1,1,15:00,GNB 32,2:00,1,Punt
+GB,2,1,9:21,GNB 13,5:19,87,Touchdown
+GB,3,1,0:01,GNB 27,2:57,20,Punt
+GB,4,2,10:07,GNB 7,3:18,13,Punt
+GB,5,2,4:42,GNB 29,2:49,71,Touchdown
+GB,6,2,0:02,None,0:02,0,End of Half
+GB,7,3,11:51,GNB 20,5:19,44,Punt
+GB,8,3,6:26,PIT 3,1:07,3,Touchdown
+GB,9,3,1:55,GNB 40,0:18,0,Interception
+GB,10,3,1:37,GNB 15,1:28,-4,Punt
+GB,11,4,15:00,PIT 23,2:56,19,Field Goal
+GB,12,4,10:27,GNB 42,3:13,58,Touchdown
+GB,13,4,3:00,GNB 8,1:09,9,Fumble
+GB,14,4,1:25,PIT 31,1:25,25,End of Game

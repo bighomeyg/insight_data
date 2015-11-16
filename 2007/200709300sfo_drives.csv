@@ -1,0 +1,31 @@
+SEA,1,None,13:27,SEA 12,1:13,4,Punt
+SEA,2,None,11:33,SEA 38,2:42,17,Punt
+SEA,3,None,6:41,SEA 45,2:06,4,Punt
+SEA,4,None,3:24,SEA 43,5:29,52,Field Goal
+SEA,5,None,10:48,SEA 30,2:47,12,Punt
+SEA,6,None,7:01,SEA 18,0:51,82,Touchdown
+SEA,7,None,3:28,SEA 20,2:31,68,Field Goal
+SEA,8,None,14:48,SFO 44,2:37,44,Touchdown
+SEA,9,None,10:34,SEA 32,1:56,8,Punt
+SEA,10,None,6:28,SEA 20,0:08,0,Interception
+SEA,11,None,4:36,SEA 25,2:31,21,Punt
+SEA,12,None,1:20,SFO 23,1:31,17,Field Goal
+SEA,13,None,11:16,SEA 20,5:24,27,Punt
+SEA,14,None,4:58,SEA 22,2:37,13,Punt
+SEA,15,None,1:47,SFO 32,1:47,-3,End of Game
+SF,1,None,15:00,SFO 25,1:33,-8,Punt
+SF,2,None,12:14,SFO 49,0:41,10,Fumble
+SF,3,None,8:51,SFO 10,2:10,2,Punt
+SF,4,None,4:35,SFO 11,1:11,-4,Punt
+SF,5,None,12:55,SFO 42,2:07,-5,Punt
+SF,6,None,8:01,SEA 48,1:00,-11,Punt
+SF,7,None,6:10,SFO 21,2:42,21,Punt
+SF,8,None,0:57,SFO 21,0:57,47,End of Half
+SF,9,None,15:00,SFO 46,0:12,0,Interception
+SF,10,None,12:11,SFO 20,1:37,3,Punt
+SF,11,None,8:38,SFO 38,2:10,7,Punt
+SF,12,None,6:20,SFO 49,1:44,26,Field Goal
+SF,13,None,2:05,SFO 43,0:45,0,Interception
+SF,14,None,14:49,SFO 20,3:33,22,Punt
+SF,15,None,5:52,SFO 20,0:54,11,Punt
+SF,16,None,2:21,SFO 24,0:34,8,Downs

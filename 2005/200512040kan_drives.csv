@@ -1,0 +1,23 @@
+DEN,1,1,10:06,DEN 20,0:52,80,Touchdown
+DEN,2,1,5:49,DEN 25,3:33,71,Interception
+DEN,3,2,14:48,DEN 43,1:07,-2,Punt
+DEN,4,2,10:05,DEN 44,6:38,56,Touchdown
+DEN,5,2,1:39,DEN 32,1:17,68,Touchdown
+DEN,6,2,0:15,KAN 42,0:15,5,End of Half
+DEN,7,3,15:00,DEN 20,1:26,-10,Interception
+DEN,8,3,10:04,DEN 27,6:55,69,Field Goal
+DEN,9,3,1:11,KAN 44,2:40,22,Field Goal
+DEN,10,4,9:58,DEN 23,1:06,2,Punt
+DEN,11,4,3:42,DEN 25,1:41,22,Downs
+DEN,12,4,0:03,DEN 31,0:03,0,End of Game
+KC,1,1,15:00,KAN 28,4:54,31,Punt
+KC,2,1,9:14,KAN 26,3:25,74,Touchdown
+KC,3,1,2:16,KAN 20,2:28,25,Interception
+KC,4,2,13:41,KAN 26,3:36,74,Touchdown
+KC,5,2,3:27,KAN 39,1:48,61,Touchdown
+KC,6,2,0:22,None,0:07,0,Fumble
+KC,7,3,13:34,DEN 20,3:30,4,Field Goal
+KC,8,3,3:09,KAN 44,1:58,24,Interception
+KC,9,4,13:31,KAN 30,3:33,70,Touchdown
+KC,10,4,8:52,KAN 10,5:10,31,Punt
+KC,11,4,2:01,DEN 47,1:58,17,Downs

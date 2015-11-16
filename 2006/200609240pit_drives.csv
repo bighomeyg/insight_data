@@ -1,0 +1,25 @@
+CIN,1,None,15:00,CIN 39,1:35,7,Punt
+CIN,2,None,9:04,CIN 24,4:38,19,Interception
+CIN,3,None,14:53,CIN 3,8:19,97,Touchdown
+CIN,4,None,1:08,CIN 38,1:03,62,Touchdown
+CIN,5,None,9:37,CIN 14,1:49,8,Interception
+CIN,6,None,5:43,CIN 40,1:02,6,Punt
+CIN,7,None,2:21,PIT 29,1:30,-2,Fumble
+CIN,8,None,14:50,CIN 21,3:24,9,Punt
+CIN,9,None,9:55,CIN 32,1:53,-8,Punt
+CIN,10,None,8:02,PIT 9,0:03,9,Touchdown
+CIN,11,None,7:12,PIT 30,0:07,30,Touchdown
+CIN,12,None,3:18,CIN 28,0:36,8,Punt
+CIN,13,None,0:10,CIN 21,0:10,-1,End of Game
+PIT,1,None,13:25,PIT 20,4:21,80,Touchdown
+PIT,2,None,4:26,PIT 46,4:33,48,Interception
+PIT,3,None,6:34,PIT 20,5:26,50,Missed FG
+PIT,4,None,0:05,PIT 25,0:05,-1,End of Half
+PIT,5,None,15:00,PIT 39,5:23,42,Field Goal
+PIT,6,None,7:48,CIN 7,2:05,7,Touchdown
+PIT,7,None,4:41,PIT 12,2:20,20,Interception
+PIT,8,None,0:51,PIT 31,1:01,5,Punt
+PIT,9,None,11:26,PIT 23,1:31,4,Punt
+PIT,10,None,7:59,PIT 20,0:47,10,Fumble
+PIT,11,None,7:05,PIT 20,3:47,62,Field Goal
+PIT,12,None,2:42,PIT 11,2:32,73,Interception

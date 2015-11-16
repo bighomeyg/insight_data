@@ -1,0 +1,20 @@
+IND,1,1,7:27,CLT 20,8:14,80,Touchdown
+IND,2,2,8:25,None,0:13,0,Touchdown
+IND,3,2,2:58,CLT 32,2:23,68,Touchdown
+IND,4,3,15:00,CLT 18,2:43,14,Interception
+IND,5,3,8:32,CLT 20,3:04,80,Touchdown
+IND,6,3,0:47,CLT 22,1:06,7,Punt
+IND,7,4,12:20,CLT 10,4:48,42,Punt
+IND,8,4,6:05,CLT 30,0:42,70,Touchdown
+IND,9,4,2:31,CLT 26,0:25,6,Punt
+IND,10,4,0:56,CLT 19,0:56,-3,End of Game
+JAC,1,1,15:00,JAX 27,7:33,41,Field Goal
+JAC,2,2,14:13,JAX 39,5:48,61,Touchdown
+JAC,3,2,8:12,JAX 29,5:14,71,Touchdown
+JAC,4,2,0:35,JAX 41,0:35,20,Missed FG
+JAC,5,3,12:17,CLT 39,3:45,39,Touchdown
+JAC,6,3,5:28,CLT 46,4:41,46,Touchdown
+JAC,7,4,14:41,JAX 30,2:21,14,Punt
+JAC,8,4,7:32,JAX 7,1:27,5,Punt
+JAC,9,4,5:23,JAX 20,2:52,12,Punt
+JAC,10,4,2:06,JAX 39,1:10,28,Interception

@@ -1,0 +1,29 @@
+SD,1,1,15:00,SDG 19,1:40,26,Fumble
+SD,2,1,11:52,SDG 20,3:25,20,Punt
+SD,3,1,3:32,SDG 37,2:26,20,Punt
+SD,4,2,11:28,SDG 20,1:31,-1,Punt
+SD,5,2,9:48,SDG 20,4:33,73,Fumble
+SD,6,2,1:38,SDG 20,0:23,0,Punt
+SD,7,2,0:53,None,0:06,0,Fumble
+SD,8,3,14:47,SDG 20,2:14,80,Touchdown
+SD,9,3,8:57,SDG 16,4:19,41,Punt
+SD,10,3,4:31,SDG 45,3:54,44,Field Goal
+SD,11,4,13:43,SDG 17,1:17,11,Interception
+SD,12,4,11:27,SDG 35,4:48,65,Touchdown
+SD,13,4,6:24,SDG 21,3:56,60,Downs
+SD,14,4,1:38,SDG 45,1:32,38,Interception
+SEA,1,1,13:20,SDG 46,1:28,6,Punt
+SEA,2,1,8:27,SEA 14,4:55,21,Punt
+SEA,3,1,1:06,SEA 15,4:38,80,Field Goal
+SEA,4,2,9:57,SDG 41,0:09,0,Interception
+SEA,5,2,5:15,SEA 7,3:37,92,Fumble
+SEA,6,2,1:15,SDG 41,0:22,41,Touchdown
+SEA,7,2,0:47,SDG 24,0:47,23,End of Half
+SEA,8,3,15:00,None,0:13,0,Touchdown
+SEA,9,3,12:33,SEA 26,3:36,19,Punt
+SEA,10,3,4:38,SEA 7,0:07,-7,Safety
+SEA,11,3,0:37,SEA 48,1:54,5,Punt
+SEA,12,4,12:26,SDG 11,0:59,6,Field Goal
+SEA,13,4,6:39,None,0:15,0,Touchdown
+SEA,14,4,2:28,SEA 19,0:50,-6,Punt
+SEA,15,4,0:06,SEA 13,0:06,-1,End of Game

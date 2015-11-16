@@ -1,0 +1,26 @@
+BUF,1,None,15:00,BUF 25,3:43,17,Fumble
+BUF,2,None,9:07,BUF 26,1:38,8,Punt
+BUF,3,None,3:43,BUF 20,1:32,-7,Punt
+BUF,4,None,13:01,BUF 24,1:48,16,Interception
+BUF,5,None,8:30,BUF 23,2:16,-6,Punt
+BUF,6,None,4:22,BUF 30,2:27,21,Interception
+BUF,7,None,0:15,BUF 13,0:15,-1,End of Half
+BUF,8,None,14:03,BUF 29,2:40,47,Interception
+BUF,9,None,7:05,BUF 39,1:39,2,Punt
+BUF,10,None,0:45,BUF 17,1:01,2,Punt
+BUF,11,None,6:05,None,0:10,0,Fumble
+BUF,12,None,4:36,BUF 20,1:42,-6,Punt
+BUF,13,None,2:44,CHI 42,1:38,42,Touchdown
+CHI,1,None,11:17,BUF 40,2:10,15,Field Goal
+CHI,2,None,7:29,CHI 20,3:46,55,Field Goal
+CHI,3,None,2:11,BUF 49,4:10,49,Touchdown
+CHI,4,None,11:13,BUF 32,2:43,32,Touchdown
+CHI,5,None,6:14,CHI 30,1:52,70,Touchdown
+CHI,6,None,1:55,BUF 49,1:40,9,Punt
+CHI,7,None,15:00,CHI 29,0:57,5,Punt
+CHI,8,None,11:23,CHI 43,4:18,43,Field Goal
+CHI,9,None,5:26,CHI 4,4:41,39,Punt
+CHI,10,None,14:44,CHI 32,8:39,45,Field Goal
+CHI,11,None,5:55,BUF 15,1:19,15,Touchdown
+CHI,12,None,2:54,CHI 40,0:10,0,Fumble
+CHI,13,None,1:06,CHI 13,1:06,-2,End of Game

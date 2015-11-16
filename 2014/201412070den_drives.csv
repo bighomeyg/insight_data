@@ -1,0 +1,22 @@
+BUF,1,1,15:00,BUF 20,2:41,23,Fumble
+BUF,2,1,10:19,BUF 20,4:44,41,Downs
+BUF,3,1,2:43,BUF 19,5:52,55,Field Goal
+BUF,4,2,11:25,BUF 40,2:32,6,Punt
+BUF,5,2,3:26,BUF 20,1:37,0,Punt
+BUF,6,2,0:32,BUF 10,0:32,0,End of Half
+BUF,7,3,12:01,BUF 20,1:51,9,Interception
+BUF,8,3,8:52,BUF 26,3:56,55,Interception
+BUF,9,3,1:07,BUF 20,5:21,80,Touchdown
+BUF,10,4,6:23,BUF 8,0:58,8,Punt
+BUF,11,4,4:20,BUF 10,3:25,90,Touchdown
+DEN,1,1,12:19,BUF 46,2:00,-4,Punt
+DEN,2,1,5:35,DEN 39,2:52,61,Touchdown
+DEN,3,2,11:51,DEN 37,0:26,0,Interception
+DEN,4,2,8:53,DEN 40,5:27,60,Touchdown
+DEN,5,2,1:49,DEN 39,1:17,51,Fumble
+DEN,6,3,15:00,DEN 20,2:59,80,Touchdown
+DEN,7,3,10:10,BUF 33,1:18,-2,Interception
+DEN,8,3,4:56,DEN 40,3:49,28,Field Goal
+DEN,9,4,10:46,DEN 25,4:23,14,Punt
+DEN,10,4,5:25,DEN 44,1:05,0,Punt
+DEN,11,4,0:55,BUF 44,0:55,-2,End of Game

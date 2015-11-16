@@ -1,0 +1,23 @@
+DAL,1,1,15:00,DAL 20,4:45,80,Touchdown
+DAL,2,1,8:18,DAL 16,6:40,72,Field Goal
+DAL,3,2,5:57,DAL 13,1:36,8,Punt
+DAL,4,2,3:10,DAL 17,3:08,53,Missed FG
+DAL,5,3,13:53,DAL 40,2:28,9,Punt
+DAL,6,3,9:32,DAL 36,3:45,36,Field Goal
+DAL,7,4,14:56,DAL 32,2:00,-4,Blocked Punt
+DAL,8,4,12:56,DAL 19,10:18,81,Touchdown
+DAL,9,4,0:29,DAL 24,0:29,-1,End of Half
+DAL,10,5,13:31,DAL 18,1:35,1,Punt
+DAL,11,5,11:11,CLT 36,3:16,16,Field Goal
+IND,1,1,10:15,CLT 25,1:57,18,Interception
+IND,2,1,1:38,CLT 14,2:26,18,Interception
+IND,3,2,14:12,CLT 14,8:15,86,Touchdown
+IND,4,2,4:21,CLT 47,1:11,1,Punt
+IND,5,2,0:02,CLT 38,0:02,-1,End of Half
+IND,6,3,15:00,CLT 20,1:07,80,Touchdown
+IND,7,3,11:25,CLT 13,1:53,9,Punt
+IND,8,3,5:47,CLT 20,0:54,-10,Interception
+IND,9,3,4:53,CLT 20,4:57,80,Touchdown
+IND,10,4,2:38,CLT 19,2:09,81,Touchdown
+IND,11,5,15:00,CLT 20,1:29,17,Punt
+IND,12,5,11:56,CLT 27,0:45,6,Interception
