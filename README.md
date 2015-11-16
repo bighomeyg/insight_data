@@ -1,5 +1,5 @@
 Insight Data Demo: How Valuable is Field Position?
-~~~~~~~~~~
+------
 1. Scrape data from pro-football-reference.com with scraping.py
 2. Analyze results with field_value.py
 
