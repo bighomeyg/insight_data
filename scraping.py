@@ -50,7 +50,7 @@ def get_drive_summary(team):
         except AttributeError:
             continue
 
-##First, get all of the links for the box scores
+##First, find the links for each and every game
 for year in years:
     link_library=[]
     year_url=''.join([base_url, year, "/games.htm"])
@@ -61,17 +61,17 @@ for year in years:
             if 'htm' in a['href']:
                 link_library.append(a['href'])
     
-##Now iterate through each boxscore
+##Now iterate through each game and parse webpage with BeautifulSoup
     for game in link_library:
         boxscore_url=''.join([home_url, game])
         print boxscore_url
+        print "    Grabbing Drive Info..."
         game_id = boxscore_url[-16:-4]
         page=urllib2.urlopen(boxscore_url)
         soup=BeautifulSoup(page)
         teamdrivesoutputfile=''.join(year + '/' + game_id + "_drives.csv")
 
 ##Now grab both home and away drive summaries
-        print "    Grabbing Drive Info..."
         team1 = soup.findAll("div", { "class" : "float_left" })
         team2 = soup.findAll("div", { "class" : "float_left margin_left" })
         get_drive_summary(team1)
